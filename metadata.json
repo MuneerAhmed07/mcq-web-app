@@ -1,0 +1,6 @@
+{
+  "name": "Educational MCQs Platform",
+  "description": "A comprehensive, responsive educational MCQs platform covering English, Islamic Studies, Pakistan Studies, Computer Science, and Mathematics with client-side pagination, real-time result highlighting, search, and category filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
