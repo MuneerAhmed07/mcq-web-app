@@ -1,0 +1,50 @@
+
+MCQs ID: 150
+
+***************************
+
+Format of mcqs.json:
+  {
+    "id": 1,
+    "category": "English",
+    "subCategory": "Grammar",
+    "question": "Choose the grammatically correct sentence.",
+    "options": [
+      "He go to school.",
+      "He goes to school.",
+      "He going school.",
+      "He gone school."
+    ],
+    "correctAnswer": "He goes to school."
+  },
+
+**************************************
+
+Format of Categories
+
+{
+    name: "Islamic Studies",
+    description: "Deepen your awareness of the Quranic history, revelations, and authentic Ahadith.",
+    icon: "BookMarked",
+    subCategories: [
+      {
+        name: "Quran",
+        description: "Explore the compilation of the Holy Quran, Makki and Madni Surahs, and prominent revelations.",
+        icon: "Heart"
+      },
+      {
+        name: "Hadith",
+        description: "Test your awareness of compilers of Sihah-e-Sittah, chains of narrators, and text definitions.",
+        icon: "MessageSquareText"
+      }
+    ]
+  },
+
+
+**********************************
+
+Upload a Project when changing
+git add .
+git commit -m "update"
+git push origin main
+npm run deploy

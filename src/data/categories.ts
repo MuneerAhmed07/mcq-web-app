@@ -24,8 +24,8 @@ export const categoriesData: Category[] = [
     icon: "BookMarked",
     subCategories: [
       {
-        name: "Quran",
-        description: "Explore the compilation of the Holy Quran, Makki and Madni Surahs, and prominent revelations.",
+        name: "1420 Most Repeated Islamic Study MCQs",
+        description: "1420 Most Repeated Islamic Study MCQs",
         icon: "Heart"
       },
       {
