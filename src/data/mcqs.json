@@ -4811,5 +4811,660 @@
       "22"
     ],
     "correctAnswer": "14"
+  },
+  {
+    "id": 371,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who wrote the book “Hjjat Allah Al-Baligha” (حجۃ اللہ البلاغہ)?",
+    "options": [
+      "Imam Malik",
+      "Imam Shafi",
+      "Shah Wali Ullah",
+      "None of these"
+    ],
+    "correctAnswer": "Shah Wali Ullah"
+  },
+  {
+    "id": 372,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The shortest Surah of the Holy Quran is _______?",
+    "options": [
+      "Kausar",
+      "Asr",
+      "Ikhlas",
+      "Falaq"
+    ],
+    "correctAnswer": "Kausar"
+  },
+  {
+    "id": 373,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which companion of the Holy Prophet (SAW) were included in the scribes (کاتبوں) of revelation (وحی)?",
+    "options": [
+      "Hazrat Abdullah bin Massod (R.A)",
+      "Hazrat Usman (R.A)",
+      "Hazrat Umar (R.A)",
+      "Hazrat Zaid bin Sabit (R.A)"
+    ],
+    "correctAnswer": "Hazrat Zaid bin Sabit (R.A)"
+  },
+  {
+    "id": 374,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was the first child born after the migration (hijrah)?",
+    "options": [
+      "Abu Salma (R.A)",
+      "Abdul bin Zubair (R.A)",
+      "Abdul bin Qasim (R.A)",
+      "None of these"
+    ],
+    "correctAnswer": "Abdul bin Zubair (R.A)"
+  },
+  {
+    "id": 375,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who led Muslims in the Battle of Yarmouk?",
+    "options": [
+      "Abu Bakr (R.A)",
+      "Khalid bin Waleed (R.A)",
+      "Umar Bin Khittab (R.A)",
+      "Ali ibn-e-Abi Talib (R.A)"
+    ],
+    "correctAnswer": "Khalid bin Waleed (R.A)"
+  },
+  {
+    "id": 376,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "A land tax imposed on the non-Muslims cultivators and landlords is known as ________?",
+    "options": [
+      "Jizya",
+      "Kharaj",
+      "Khums",
+      "None of these"
+    ],
+    "correctAnswer": "Kharaj"
+  },
+  {
+    "id": 377,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Siddique and _____ the title given to Abu Bakar Siddique?",
+    "options": [
+      "Pious",
+      "Tahir",
+      "Ateeque",
+      "None of these"
+    ],
+    "correctAnswer": "Ateeque"
+  },
+  {
+    "id": 378,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "When Zakat become obligatory?",
+    "options": [
+      "2 A.H",
+      "4 A.H",
+      "5 A.H",
+      "None of these"
+    ],
+    "correctAnswer": "2 A.H"
+  },
+  {
+    "id": 379,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hijri calendar was started in:",
+    "options": [
+      "623 AD",
+      "622 AD",
+      "628 AD",
+      "630 AD"
+    ],
+    "correctAnswer": "622 AD"
+  },
+  {
+    "id": 380,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who purchased the well of Ruma and declared it as a trust?",
+    "options": [
+      "Hazrat Ali",
+      "Hazrat Umar",
+      "Hazrat Usman",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Usman"
+  },
+  {
+    "id": 381,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Surah provides guidance about the distribution of Mal-eGhanimat (war booty)?",
+    "options": [
+      "Surah Al-Baqarah",
+      "Surah Al-Anfal",
+      "Surah Al-Tawbah",
+      "Surah Al-Nisa"
+    ],
+    "correctAnswer": "Surah Al-Anfal"
+  },
+  {
+    "id": 382,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many days did Holy Prophet’s PBUH spend at Abu Ansari (A.S) house?",
+    "options": [
+      "seven month",
+      "Eight month",
+      "Nine month",
+      "Ten month"
+    ],
+    "correctAnswer": "seven month"
+  },
+  {
+    "id": 383,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who is Hazrat Sobia (R.A)?",
+    "options": [
+      "Mother of Abdur Rehman Bin Auf (R.A)",
+      "Mother of Hazrat Talha Bin Zubair (R.A)",
+      "Mother of Hazrat Hamza (R.A)",
+      "Mother of Musoad Bin Umair (R.A)"
+    ],
+    "correctAnswer": "Mother of Hazrat Hamza (R.A)"
+  },
+  {
+    "id": 384,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The Alhambra palace (الہمبرا محل) is located in _____?",
+    "options": [
+      "Spain",
+      "India",
+      "Turkey",
+      "Indonesia"
+    ],
+    "correctAnswer": "Spain"
+  },
+  {
+    "id": 385,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Masjid-e-Nimra is situated in _______?",
+    "options": [
+      "Plains of Arafat",
+      "Madinah",
+      "Taif",
+      "Jeddah"
+    ],
+    "correctAnswer": "Plains of Arafat"
+  },
+  {
+    "id": 386,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many Rokus (رکوع) are there in the Holy Quran?",
+    "options": [
+      "458",
+      "558",
+      "658",
+      "440"
+    ],
+    "correctAnswer": "558"
+  },
+  {
+    "id": 387,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Prophet is known as Jadd-ul-Anbiya (ابوالانبیاء)?",
+    "options": [
+      "Hazrat Adam (A.S)",
+      "Hazrat Ibrahim (A.S)",
+      "Hazrat Noah (A.S)",
+      "Hazrat Muhammad (SAW)"
+    ],
+    "correctAnswer": "Hazrat Ibrahim (A.S)"
+  },
+  {
+    "id": 388,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which of the following Prophets (A.S) is known as Safiullah?",
+    "options": [
+      "Hazrat Younas (AS)",
+      "Hazrat Ibrahim (AS)",
+      "Hazrat Adam (AS)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Adam (AS)"
+  },
+  {
+    "id": 389,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Fasting was made obligatory in _______?",
+    "options": [
+      "8th Shaban, 2 A.H",
+      "7th Shaban, 2 A.H",
+      "10th Shaban, 2 A.H",
+      "None of these"
+    ],
+    "correctAnswer": "10th Shaban, 2 A.H"
+  },
+  {
+    "id": 390,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was a good player of Flute?",
+    "options": [
+      "Hazrat Idrees (AS)",
+      "Hazrat Yahya (AS)",
+      "Hazrat Dawood (AS)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Dawood (AS)"
+  },
+  {
+    "id": 391,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "_______ was called month of migration?",
+    "options": [
+      "Muharram",
+      "Shaaban",
+      "Ramzan",
+      "Rabiul Awal"
+    ],
+    "correctAnswer": "Rabiul Awal"
+  },
+  {
+    "id": 392,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which caliph of the Muslims ordered the compilation of Ahadith and send to the conquered territories?",
+    "options": [
+      "Hazrat Umar bin Adul Aziz",
+      "Hazrat Umar",
+      "Hazrat Usman",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Umar bin Adul Aziz"
+  },
+  {
+    "id": 393,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hazrat Abu Bakar (RA) gave the responsibility of compilation of the Holy Quran to?",
+    "options": [
+      "Hazrat Amr bin Al As (RA)",
+      "Hazrat Zid bin Thabit (RA)",
+      "Hazrat Ali (RA)",
+      "Hazrat Umar (RA)"
+    ],
+    "correctAnswer": "Hazrat Zid bin Thabit (RA)"
+  },
+  {
+    "id": 394,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which prophet slept for 100 years?",
+    "options": [
+      "Hazrat Musa (A.S)",
+      "Hazrat Idrees (A.S)",
+      "Hazrat Uzair (A.S)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Uzair (A.S)"
+  },
+  {
+    "id": 395,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "“Tarjuman-ul-Quran” was written by which of the following?",
+    "options": [
+      "Allama Iqbal",
+      "Abul Kalam Azad",
+      "Syed Ahmed Khan",
+      "Maulana Rumi"
+    ],
+    "correctAnswer": "Abul Kalam Azad"
+  },
+  {
+    "id": 396,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The Battle of Qudasiya was fought during the reign of ___________?",
+    "options": [
+      "Ali (R.A)",
+      "Usman (R.A)",
+      "Umar Farooq (R.A)",
+      "Abu Bakar Saddique (R.A)"
+    ],
+    "correctAnswer": "Umar Farooq (R.A)"
+  },
+  {
+    "id": 397,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many sons did Hazrat Adam (A.S) have?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4",
+      "None of these"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 398,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The Battle of Badar was fought in _______?",
+    "options": [
+      "15 April 623 CE",
+      "13 March 624 CE",
+      "17 June 625 CE",
+      "None of these"
+    ],
+    "correctAnswer": "13 March 624 CE"
+  },
+  {
+    "id": 399,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hazrat Abu Bakar (RA) died in:",
+    "options": [
+      "10th Hijrah",
+      "11th Hijrah",
+      "13 Hijrah",
+      "15 Hijrah"
+    ],
+    "correctAnswer": "13 Hijrah"
+  },
+  {
+    "id": 400,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which wife of the holy prophet (PBUH) was alive at the time of Karbala tragedy?",
+    "options": [
+      "Hazrat Ayesha (RA)",
+      "Hazrat Umm-e-Salma (RA)",
+      "Hazrat Sumayya (RA)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Umm-e-Salma (RA)"
+  },
+  {
+    "id": 401,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Prophet invented Soap?",
+    "options": [
+      "Prophet Saleh (A.S)",
+      "Prophet Ismail (A.S)",
+      "Prophet Isa (A.S)",
+      "Prophet Idrees (A.S)",
+      "None of these"
+    ],
+    "correctAnswer": "Prophet Saleh (A.S)"
+  },
+  {
+    "id": 402,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hazrat _______ added 2nd Azan for Friday prayers?",
+    "options": [
+      "Hazrat Abu Bakr (R.A)",
+      "Hazrat Umar (R.A)",
+      "Hazrat Usman (R.A)",
+      "Hazrat Ali (R.A)"
+    ],
+    "correctAnswer": "Hazrat Usman (R.A)"
+  },
+  {
+    "id": 403,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "غزوۂ خندق کے موقع پر خندق کی کھدائی میں شریک مجاہدین کی تعداد کتنی تھی؟",
+    "options": [
+      "2000",
+      "3000",
+      "1000",
+      "None of these"
+    ],
+    "correctAnswer": "3000"
+  },
+  {
+    "id": 404,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hazrat Ali (R.A) was martyred in _______ Hijrah?",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "42"
+    ],
+    "correctAnswer": "40"
+  },
+  {
+    "id": 405,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which is the biggest Islamic country with respect to population?",
+    "options": [
+      "Egypt",
+      "Indonesia",
+      "Pakistan",
+      "Saudi Arabia",
+      "Iran"
+    ],
+    "correctAnswer": "Indonesia"
+  },
+  {
+    "id": 406,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "What does the term “Hypocrite” (منافق) refer to?",
+    "options": [
+      "Single-faced",
+      "Double-faced",
+      "Straight-forward",
+      "Honest"
+    ],
+    "correctAnswer": "Double-faced"
+  },
+  {
+    "id": 407,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hazrat Ibraheem (A.S) met with Holy Prophet (SAW) on the ______ heaven?",
+    "options": [
+      "3rd",
+      "2nd",
+      "5th",
+      "7th",
+      "None of these"
+    ],
+    "correctAnswer": "7th"
+  },
+  {
+    "id": 408,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "In Hajj, stoning the Devil, is called ________?",
+    "options": [
+      "Rami",
+      "Tawaf",
+      "Istilam",
+      "Sayee"
+    ],
+    "correctAnswer": "Rami"
+  },
+  {
+    "id": 409,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Muzdalfa is situated _____?",
+    "options": [
+      "Between Kaaba and Mina",
+      "Between Mina and Arafat",
+      "Between Safa and Marwa",
+      "none of these"
+    ],
+    "correctAnswer": "Between Mina and Arafat"
+  },
+  {
+    "id": 410,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Zam zam means _______?",
+    "options": [
+      "to burst",
+      "to continue",
+      "to stop",
+      "to flow"
+    ],
+    "correctAnswer": "to stop"
+  },
+  {
+    "id": 411,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many Takbeers are in Namaz-e-Janaza?",
+    "options": [
+      "Two",
+      "Four",
+      "Six",
+      "one"
+    ],
+    "correctAnswer": "Four"
+  },
+  {
+    "id": 412,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "First pillar of Islam is _______?",
+    "options": [
+      "Salat",
+      "Hajj",
+      "Shahadatain",
+      "None of these"
+    ],
+    "correctAnswer": "Shahadatain"
+  },
+  {
+    "id": 413,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who among the Pious Caliphs (Khulfa-e-Rasheen) died a natural death?",
+    "options": [
+      "Hazrat Abu Bakar (R.A)",
+      "Hazrat Ali (R.A)",
+      "Hazrat Usman (R.A)",
+      "Hazrat Umar (R.A)"
+    ],
+    "correctAnswer": "Hazrat Abu Bakar (R.A)"
+  },
+  {
+    "id": 414,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Pious-Caliphate lasted for about: _______ Years?",
+    "options": [
+      "30 years",
+      "40 Years",
+      "50 years",
+      "None of these"
+    ],
+    "correctAnswer": "30 years"
+  },
+  {
+    "id": 415,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "“INFAQ” means _____?",
+    "options": [
+      "Fighting with enemies of Islam",
+      "Spending wealth for the cause of Islam",
+      "Travelling from Mecca to Madinah",
+      "Delivering a speech against infidals"
+    ],
+    "correctAnswer": "Spending wealth for the cause of Islam"
+  },
+  {
+    "id": 416,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Ghazwa Ahzab is also called ______?",
+    "options": [
+      "Battle of Winds",
+      "Battle of Mind",
+      "Battle of Trench",
+      "Battle of Words"
+    ],
+    "correctAnswer": "Battle of Trench"
+  },
+  {
+    "id": 417,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Treaty of Hudaybiyyah was concluded in which Hijri year?",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "6",
+      "11"
+    ],
+    "correctAnswer": "6"
+  },
+  {
+    "id": 418,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which surah is known as the Heart of Holy Quran?",
+    "options": [
+      "Surah Yaseen",
+      "Surah Rehman",
+      "Surah Al-Baqara",
+      "None of these"
+    ],
+    "correctAnswer": "Surah Yaseen"
+  },
+  {
+    "id": 419,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Ayat-ul-Kursi is verse number in Surah Baqarah is ______?",
+    "options": [
+      "244",
+      "255",
+      "265",
+      "270"
+    ],
+    "correctAnswer": "255"
+  },
+  {
+    "id": 420,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Surah is known to as Uroos-ul-Quran?",
+    "options": [
+      "Surah Yaseen",
+      "Surah Fatiha",
+      "Surah Rehman",
+      "Surah Mulk"
+    ],
+    "correctAnswer": "Surah Rehman"
   }
 ]
