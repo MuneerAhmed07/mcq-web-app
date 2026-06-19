@@ -3900,5 +3900,916 @@
       "7th"
     ],
     "correctAnswer": "7th"
+  },
+  {
+    "id": 301,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Holy Quran was revealed in how many years and months?",
+    "options": [
+      "18 years and 10 months",
+      "20 years and 10 months",
+      "22 years and 5 months",
+      "21 years and 5 months"
+    ],
+    "correctAnswer": "22 years and 5 months"
+  },
+  {
+    "id": 302,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hazrat Ali (R.A) was martyred in which month of Islamic calendar?",
+    "options": [
+      "Ramazan",
+      "Shawal",
+      "Rajab",
+      "None of these"
+    ],
+    "correctAnswer": "Ramazan"
+  },
+  {
+    "id": 303,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was the first mu’azzin (prayer caller) of Islam?",
+    "options": [
+      "Hazrat Bilal",
+      "Hazrat Umer",
+      "Hazrat Usman",
+      "Hazrat Abu bakar"
+    ],
+    "correctAnswer": "Hazrat Bilal"
+  },
+  {
+    "id": 304,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "What is the meaning of Hijr-e-Aswad?",
+    "options": [
+      "Black Stone",
+      "White Stone",
+      "Green Stone",
+      "None of these"
+    ],
+    "correctAnswer": "Black Stone"
+  },
+  {
+    "id": 305,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "When Second migration took place to Habshah?",
+    "options": [
+      "605 AD",
+      "630 AD",
+      "620 AD",
+      "616 AD"
+    ],
+    "correctAnswer": "616 AD"
+  },
+  {
+    "id": 306,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "In which country Mount Judi (Cudi) also known as Mount Qardu exits?",
+    "options": [
+      "Turkey",
+      "Iraq",
+      "Egypt",
+      "None of these"
+    ],
+    "correctAnswer": "Turkey"
+  },
+  {
+    "id": 307,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Salat-e-Istasqa is offered on the occasion of _______?",
+    "options": [
+      "Shortage of Rain",
+      "Solar eclipse",
+      "Famin",
+      "None of these"
+    ],
+    "correctAnswer": "Shortage of Rain"
+  },
+  {
+    "id": 308,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Masjid-e-Khief is located in ________?",
+    "options": [
+      "Muzdilifa",
+      "Minna",
+      "Arafaat",
+      "None of these"
+    ],
+    "correctAnswer": "Minna"
+  },
+  {
+    "id": 309,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Ada Bin Hatim Tai embraced Islam in which Hijri?",
+    "options": [
+      "8th Hijri",
+      "9th Hijri",
+      "10th Hijri",
+      "11th Hijri"
+    ],
+    "correctAnswer": "9th Hijri"
+  },
+  {
+    "id": 310,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was the fifth righteous caliph of Hijaz?",
+    "options": [
+      "Hazrat Umar ibn Abd al-Aziz",
+      "Hazrat Abu Baker",
+      "Hazrat Usman",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Umar ibn Abd al-Aziz"
+  },
+  {
+    "id": 311,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "When the first wahi was revealed to the Holy Prophet (SAW)?",
+    "options": [
+      "August 630 A.D",
+      "August 610 A.D",
+      "August 600 A.D",
+      "None of these"
+    ],
+    "correctAnswer": "August 610 A.D"
+  },
+  {
+    "id": 312,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "In which Surah the Holy Quran there is mention of Zulqarnain?",
+    "options": [
+      "Surah An-Nur",
+      "Surah Noon",
+      "Surah Al Mujadala",
+      "Surah Al Kahaf"
+    ],
+    "correctAnswer": "Surah Al Kahaf"
+  },
+  {
+    "id": 313,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many Surah are in the Holy Quran?",
+    "options": [
+      "112",
+      "113",
+      "144",
+      "114"
+    ],
+    "correctAnswer": "114"
+  },
+  {
+    "id": 314,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The ritual of standing at Arafat (Wuquf) takes place on which day of Dhul-Hijjah?",
+    "options": [
+      "7th",
+      "8th",
+      "9th",
+      "10th"
+    ],
+    "correctAnswer": "9th"
+  },
+  {
+    "id": 315,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Prophet Muhammad (SAW) lived in Madinah for ______ years.",
+    "options": [
+      "13 years",
+      "11 years",
+      "10 years",
+      "5 years"
+    ],
+    "correctAnswer": "10 years"
+  },
+  {
+    "id": 316,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many Prophets mentioned in Holy Quran?",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correctAnswer": "25"
+  },
+  {
+    "id": 317,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The Holy Prophet (PBUH) was blessed with Prophet-hood in the age of _____?",
+    "options": [
+      "25",
+      "40",
+      "35",
+      "None of these"
+    ],
+    "correctAnswer": "40"
+  },
+  {
+    "id": 318,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Holy Book is called the Old Testament (عہد نامہ قدیم)?",
+    "options": [
+      "The Zuboor",
+      "The Torait (Bible)",
+      "The Injeel",
+      "The Quran"
+    ],
+    "correctAnswer": "The Torait (Bible)"
+  },
+  {
+    "id": 319,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Imam Shafi took the office of ‘Religious Judgement’ at the age of ______?",
+    "options": [
+      "13 years",
+      "14 years",
+      "15 years",
+      "16 years"
+    ],
+    "correctAnswer": "15 years"
+  },
+  {
+    "id": 320,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Surah Hajj consist of _______ Ayats.",
+    "options": [
+      "78",
+      "48",
+      "28",
+      "38"
+    ],
+    "correctAnswer": "78"
+  },
+  {
+    "id": 321,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Khalid bin Waleed belonged to the tribe ________?",
+    "options": [
+      "Banu Ummayya",
+      "Banu Zuhra",
+      "Banu Makhzoom",
+      "None of these"
+    ],
+    "correctAnswer": "Banu Makhzoom"
+  },
+  {
+    "id": 322,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "What is the seventh moth of Islamic Calendar?",
+    "options": [
+      "Rajab",
+      "Ramzan",
+      "Muharram",
+      "Shawal"
+    ],
+    "correctAnswer": "Rajab"
+  },
+  {
+    "id": 323,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Prophet Muhammad (PBUH) migrated from Makkah to Madinah in the which year?",
+    "options": [
+      "610 CE",
+      "622 CE",
+      "615 CE",
+      "630 CE"
+    ],
+    "correctAnswer": "622 CE"
+  },
+  {
+    "id": 324,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "When did the Holy Prophet (SAW) performed Hajjat-ul-Wada?",
+    "options": [
+      "630 AD",
+      "633 AD",
+      "632 AD",
+      "636 AD"
+    ],
+    "correctAnswer": "632 AD"
+  },
+  {
+    "id": 325,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Surah-e-Al Alaq has how many verses?",
+    "options": [
+      "9",
+      "19",
+      "29",
+      "39"
+    ],
+    "correctAnswer": "19"
+  },
+  {
+    "id": 326,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Identify the name of the angel who is the Gatekeeper of Heaven mentioned in the Holy Quran?",
+    "options": [
+      "Malik",
+      "Rizwan",
+      "Raad",
+      "None of these"
+    ],
+    "correctAnswer": "Rizwan"
+  },
+  {
+    "id": 327,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which of following important event took place in the 6th year of Hijra?",
+    "options": [
+      "The prohibition of wine",
+      "The battle of Ahzab",
+      "The Misaq-e-Madinah",
+      "Sulah Hudaibiya"
+    ],
+    "correctAnswer": "Sulah Hudaibiya"
+  },
+  {
+    "id": 328,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "What is meant by Allah’s attribute Al-Bari?",
+    "options": [
+      "The Generous",
+      "The Maker",
+      "the Glorious",
+      "The aware"
+    ],
+    "correctAnswer": "The Maker"
+  },
+  {
+    "id": 329,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which is the longest (largest) Surah in the Holy Quran?",
+    "options": [
+      "Kousar",
+      "Baqarah",
+      "Al Imran",
+      "None of these"
+    ],
+    "correctAnswer": "Baqarah"
+  },
+  {
+    "id": 330,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Cave Hira is in the _______ mountain.",
+    "options": [
+      "As-Safa",
+      "Uhud",
+      "Al-Noor",
+      "None of these"
+    ],
+    "correctAnswer": "Al-Noor"
+  },
+  {
+    "id": 331,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "In Surah Fatah _____ is called Fatah Al-Mubeen?",
+    "options": [
+      "Sulah-e-Hudaibiya",
+      "Ghazwa Badr",
+      "Fatah-e-Makkah",
+      "None of these"
+    ],
+    "correctAnswer": "Sulah-e-Hudaibiya"
+  },
+  {
+    "id": 332,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Name the Sahabi who narrated maximum number of Ahadis?",
+    "options": [
+      "Hazrat Zaid bin Sabit (R.A)",
+      "Hazrat Zaid bin Haris (R.A)",
+      "Hazrat Abu Hurrairah (R.A)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Abu Hurrairah (R.A)"
+  },
+  {
+    "id": 333,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was the leader of pagans (non-Muslims) in the Battle of Badr?",
+    "options": [
+      "Abu Sufyan",
+      "Utba",
+      "Abu Jehal",
+      "Hind-bint-Utbah"
+    ],
+    "correctAnswer": "Abu Jehal"
+  },
+  {
+    "id": 334,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Prophet is called as Najiullah?",
+    "options": [
+      "Hazrat Musa (AS)",
+      "Hazrat Isa (AS)",
+      "Hazrat Noah (AS)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Noah (AS)"
+  },
+  {
+    "id": 335,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Name the wife of Prophet Muhammad (PBUH) who was daughter of Umar Farooq (R.A)?",
+    "options": [
+      "Hazrat Hafsa",
+      "Hazrat Juwairyyah",
+      "Hazrat Ayesha",
+      "Hazrat Maimoonah"
+    ],
+    "correctAnswer": "Hazrat Hafsa"
+  },
+  {
+    "id": 336,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Prophet was thrown into well by his Brothers?",
+    "options": [
+      "Hazrat Ibrahim",
+      "Hazrat Yousaf",
+      "Hazrat Yaqoob",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Yousaf"
+  },
+  {
+    "id": 337,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The first/oldest masjid (Mosque) on the surface of earth is ______?",
+    "options": [
+      "Masjid-i-Aqsa",
+      "Masjid-e-Quba",
+      "Masjid-ul-Haram (Bait-ul-Allah)",
+      "Masjid-i-Nabvi"
+    ],
+    "correctAnswer": "Masjid-ul-Haram (Bait-ul-Allah)"
+  },
+  {
+    "id": 338,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who is the Current Secretary General of OIC (2026)?",
+    "options": [
+      "Dr. Yousaf",
+      "Yousef bin Ahmad Al-Othaimeen",
+      "Hussein Ibrahim Taha",
+      "None of these"
+    ],
+    "correctAnswer": "Hussein Ibrahim Taha"
+  },
+  {
+    "id": 339,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many ayats in the Holy Quran?",
+    "options": [
+      "6536",
+      "6636",
+      "6238",
+      "6236"
+    ],
+    "correctAnswer": "6236"
+  },
+  {
+    "id": 340,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many pebbles are needed at a maximum for the ritual of stoning during Hajj?",
+    "options": [
+      "70",
+      "49",
+      "60",
+      "39"
+    ],
+    "correctAnswer": "70"
+  },
+  {
+    "id": 341,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many pebbles are needed at a minimum for the ritual of stoning during Hajj?",
+    "options": [
+      "21",
+      "49",
+      "70",
+      "50"
+    ],
+    "correctAnswer": "49"
+  },
+  {
+    "id": 342,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "What is the ratio/Nisab of Zakat?",
+    "options": [
+      "2.50 %",
+      "2.00 %",
+      "100 %",
+      "7.5 %"
+    ],
+    "correctAnswer": "2.50 %"
+  },
+  {
+    "id": 343,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was the mother of Hazrat Usman (R.A)?",
+    "options": [
+      "Hazrat Arwa (R.A)",
+      "Hazrat Aitqah (R.A)",
+      "Hazrat Asma (R.A)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Arwa (R.A)"
+  },
+  {
+    "id": 344,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Hazrat Usman (R.A) was martyred at the age of ______?",
+    "options": [
+      "82",
+      "60",
+      "75",
+      "None of the above"
+    ],
+    "correctAnswer": "82"
+  },
+  {
+    "id": 345,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Injeel was revealed on which Prophet by Allah?",
+    "options": [
+      "Hazrat Musa",
+      "Hazrat Ibrahim",
+      "Hazrat Isa",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Isa"
+  },
+  {
+    "id": 346,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was the angel that delivered messages to Prophet Muhammad (SAW) from Allah?",
+    "options": [
+      "Hazrat Israfeel",
+      "Hazrat Mikael",
+      "Hazrat Jibrael",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Jibrael"
+  },
+  {
+    "id": 347,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Gautama Buddha (گوتما بدھ) was born in ______?",
+    "options": [
+      "Nepal",
+      "Dhaka",
+      "Delhi",
+      "None of these"
+    ],
+    "correctAnswer": "Nepal"
+  },
+  {
+    "id": 348,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which is the first month of Islamic Calendar?",
+    "options": [
+      "Muharram",
+      "Rajab",
+      "Jamadi-ul-Awwal",
+      "Safar"
+    ],
+    "correctAnswer": "Muharram"
+  },
+  {
+    "id": 349,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who performed first Hajj Bait-Ullah?",
+    "options": [
+      "Hazrat Adam and Hazrat Hawa",
+      "Hazrat Ibrahim and Hazrat Hajra",
+      "Both A and B",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Adam and Hazrat Hawa"
+  },
+  {
+    "id": 350,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which was the first mosque built by the Holy Prophet (PBUH)?",
+    "options": [
+      "Masjid-ul-Haram",
+      "Masjid-e-Quba",
+      "Masjid-e-Aqsa",
+      "Masjid-e-Nabavi"
+    ],
+    "correctAnswer": "Masjid-e-Quba"
+  },
+  {
+    "id": 351,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many times Prophet Musa (A.S) is mentioned in the Holy Quran?",
+    "options": [
+      "146 times",
+      "136 times",
+      "126 times",
+      "None of these"
+    ],
+    "correctAnswer": "136 times"
+  },
+  {
+    "id": 352,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Who was the first Caliph of Islam?",
+    "options": [
+      "Hazrat Umar (R.A)",
+      "Hazrat Ali (R.A)",
+      "Hazrat Usman (R.A)",
+      "Hazrat Abu Bakar (R.A)"
+    ],
+    "correctAnswer": "Hazrat Abu Bakar (R.A)"
+  },
+  {
+    "id": 353,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Where was Holy Prophet Muhammad (PBUH) born?",
+    "options": [
+      "Ridyah",
+      "Jerusalem",
+      "Makkah",
+      "Madinah"
+    ],
+    "correctAnswer": "Makkah"
+  },
+  {
+    "id": 354,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Name the creation of Allah who are made of smokeless fire?",
+    "options": [
+      "Jinns",
+      "Plants",
+      "Angels",
+      "Animals"
+    ],
+    "correctAnswer": "Jinns"
+  },
+  {
+    "id": 355,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "What was the significant event of 27 Rajab of the 10th year of Prophet-hood?",
+    "options": [
+      "Boycott",
+      "Migration",
+      "Isra and Miraj",
+      "Pledge of Aqaba"
+    ],
+    "correctAnswer": "Isra and Miraj"
+  },
+  {
+    "id": 356,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Where did the Prophet (SAW) and Abu Bakr take shelter before proceeding to Al-Madinah?",
+    "options": [
+      "Syria",
+      "Cave of Soor",
+      "Mount of Uhud",
+      "Cave of Hira"
+    ],
+    "correctAnswer": "Cave of Soor"
+  },
+  {
+    "id": 357,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "After Tofaan-e-Noah Hazrat Noah’s (A.S) boat stopped at a mountain. What is the name of this mountain?",
+    "options": [
+      "Koh-e-Marwa",
+      "Koh-e-Safa",
+      "Koh-e-Jabal",
+      "Koh-e-Jodi"
+    ],
+    "correctAnswer": "Koh-e-Jodi"
+  },
+  {
+    "id": 358,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Prophet Muhammad (SAW) belonged to ______ family?",
+    "options": [
+      "Makki",
+      "Quraishi",
+      "Hashmi",
+      "Madni"
+    ],
+    "correctAnswer": "Hashmi"
+  },
+  {
+    "id": 359,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The Holy Prophet Muhammad (PBUH) belongs to the tribe ________?",
+    "options": [
+      "Banu Hashim (Quresh)",
+      "Banu Ummaya",
+      "Banu Asad",
+      "None of these"
+    ],
+    "correctAnswer": "Banu Hashim (Quresh)"
+  },
+  {
+    "id": 360,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which Angel will blow the trumpet (Sur) at the Day of Judgment?",
+    "options": [
+      "Hazrat Jabrail",
+      "Hazrat Israfil",
+      "Hazrat Mikail",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Israfil"
+  },
+  {
+    "id": 361,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The oldest revealed divine (Holy) book is _______?",
+    "options": [
+      "Tawrat",
+      "Zaboor",
+      "Injeel",
+      "Quran"
+    ],
+    "correctAnswer": "Tawrat"
+  },
+  {
+    "id": 362,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Dhat an-Nataqain is title of?",
+    "options": [
+      "Hazrat Fatima",
+      "Hazrat Ayesha",
+      "Hazrat Asma",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Asma"
+  },
+  {
+    "id": 363,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Sulah Hudaybiyyah was signed between Muslim and ________?",
+    "options": [
+      "Jews of Madinah",
+      "Kharjis",
+      "Christian",
+      "Quraish"
+    ],
+    "correctAnswer": "Quraish"
+  },
+  {
+    "id": 364,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "Which servant of Hazrat Khadija was alongside Hazrat Muhammad (SAW) during a business trip?",
+    "options": [
+      "Zonair",
+      "Maisra",
+      "Kameera",
+      "Sebalitah"
+    ],
+    "correctAnswer": "Maisra"
+  },
+  {
+    "id": 365,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "The Largest Muslim country in the world by landmass/area is _______?",
+    "options": [
+      "Mali",
+      "Pakistan",
+      "Indonesia",
+      "Kazakhstan"
+    ],
+    "correctAnswer": "Kazakhstan"
+  },
+  {
+    "id": 366,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "After the death of Hazrat Umar (R.A) a copy of Quran was passed to _______?",
+    "options": [
+      "Hazrat Ayesha Siddiqa (R.A)",
+      "Hazrat Memona (R.A)",
+      "Hazrat Hafsa (R.A)",
+      "Hazrat Safia (R.A)",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Hafsa (R.A)"
+  },
+  {
+    "id": 367,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "In Holy Quran which one of the following fruits have been especially mentioned?",
+    "options": [
+      "Dates",
+      "Grapes",
+      "Figs",
+      "All the these"
+    ],
+    "correctAnswer": "All the these"
+  },
+  {
+    "id": 368,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "When was Zakat made compulsory?",
+    "options": [
+      "5 A.H",
+      "3 A.H",
+      "2 A.H",
+      "4 A.H"
+    ],
+    "correctAnswer": "2 A.H"
+  },
+  {
+    "id": 369,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many times command of the Namaz is given in the Quran?",
+    "options": [
+      "600 times",
+      "500 times",
+      "700 times",
+      "400 times"
+    ],
+    "correctAnswer": "700 times"
+  },
+  {
+    "id": 370,
+    "category": "Islamic Studies",
+    "subCategory": "1420 Most Repeated Islamic Study MCQs",
+    "question": "How many Muslims/Sahaba (R.A) Martyred in Battle of Badar?",
+    "options": [
+      "7",
+      "10",
+      "14",
+      "22"
+    ],
+    "correctAnswer": "14"
   }
 ]

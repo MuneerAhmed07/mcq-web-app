@@ -2,6 +2,9 @@
 MCQs ID: 300
 
 ***************************
+1420 Most Repeated Islamic Study MCQs: 300
+
+***************************
 
 Format of mcqs.json:
   {
