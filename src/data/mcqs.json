@@ -14515,5 +14515,525 @@
       "DRAM"
     ],
     "correctAnswer": "Cache Memory"
+  },
+  {
+    "id": 1116,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The capacity of a compact disk is ______?",
+    "options": [
+      "700 MB",
+      "600 MB",
+      "650 MB",
+      "None of these"
+    ],
+    "correctAnswer": "700 MB"
+  },
+  {
+    "id": 1117,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "MS Access has primary ______ keys",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 1118,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following technique for deadlock recovery is easily regarding CPU?",
+    "options": [
+      "Starvation",
+      "Resource Description",
+      "Process Termination",
+      "None of these"
+    ],
+    "correctAnswer": "Process Termination"
+  },
+  {
+    "id": 1119,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Android System is established by:",
+    "options": [
+      "Microsoft",
+      "Google",
+      "Iphone",
+      "none of these"
+    ],
+    "correctAnswer": "Google"
+  },
+  {
+    "id": 1120,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following is a type of computer program that is used to perform a specific task, such as creating a spreadsheet or editing and image?",
+    "options": [
+      "System Software",
+      "Application Software",
+      "Scripting software",
+      "None of these"
+    ],
+    "correctAnswer": "Application Software"
+  },
+  {
+    "id": 1121,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In MS Excel formula and function start with ______?",
+    "options": [
+      "+",
+      "–",
+      "=",
+      "["
+    ],
+    "correctAnswer": "="
+  },
+  {
+    "id": 1122,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which feature in Microsoft Word allows you to create a table of contents?",
+    "options": [
+      "Page Layout",
+      "Review",
+      "Reference",
+      "Home"
+    ],
+    "correctAnswer": "Reference"
+  },
+  {
+    "id": 1123,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "An Excel workbook is a collection of ______?",
+    "options": [
+      "Worksheets and charts",
+      "charts",
+      "worksheets",
+      "Workbooks"
+    ],
+    "correctAnswer": "Worksheets and charts"
+  },
+  {
+    "id": 1124,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In MS Word default alignment for a paragraph is _____?",
+    "options": [
+      "Left alignment",
+      "Right alignment",
+      "Centered alignment",
+      "None of these"
+    ],
+    "correctAnswer": "Left alignment"
+  },
+  {
+    "id": 1125,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following methods cannot be used to edit the contents of a cell?",
+    "options": [
+      "Double clicking the cell",
+      "Press the Alt key",
+      "Pressing the F2 key",
+      "Clicking the formula bar"
+    ],
+    "correctAnswer": "Press the Alt key"
+  },
+  {
+    "id": 1126,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What is the standard file format for PowerPoint presentations?",
+    "options": [
+      ".ppt",
+      ".docx",
+      ".xlsx",
+      ".pptx"
+    ],
+    "correctAnswer": ".pptx"
+  },
+  {
+    "id": 1127,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Reasons to use Macro in Microsoft Office?",
+    "options": [
+      "Automate Frequently used tasks",
+      "Home page",
+      "Both A and B",
+      "None of these"
+    ],
+    "correctAnswer": "Automate Frequently used tasks"
+  },
+  {
+    "id": 1128,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "To start Microsoft PowerPoint application _____?",
+    "options": [
+      "Click on Start >> Programs >> All Programs >> Microsoft PowerPoint",
+      "Hit Ctrl + R then type ppoint.exe and enter",
+      "Click Start >> Run then type PowerPoint then press Enter",
+      "All of above"
+    ],
+    "correctAnswer": "All of above"
+  },
+  {
+    "id": 1129,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In which menu can you find features like Slide Design, Slide Layout, etc?",
+    "options": [
+      "Insert Menu",
+      "Format Menu",
+      "Tools Menu",
+      "Slide Show Menu"
+    ],
+    "correctAnswer": "Format Menu"
+  },
+  {
+    "id": 1130,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which key is used to select the whole document?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + C",
+      "Ctrl + P",
+      "Ctrl + A"
+    ],
+    "correctAnswer": "Ctrl + A"
+  },
+  {
+    "id": 1131,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which one is the most suitable reason to use Macro in MS Office (Word, Excel, PPT, etc)?",
+    "options": [
+      "To record Mouse move",
+      "To record Sound",
+      "To automate repetitive tasks",
+      "none of these"
+    ],
+    "correctAnswer": "To automate repetitive tasks"
+  },
+  {
+    "id": 1132,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "A computer cannot “Boo” if it does not have the _______?",
+    "options": [
+      "Loader",
+      "Operating System",
+      "Computer",
+      "None of these"
+    ],
+    "correctAnswer": "Operating System"
+  },
+  {
+    "id": 1133,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "First, ever computer virus was created from _______?",
+    "options": [
+      "China",
+      "Pakistan",
+      "USA",
+      "Israel"
+    ],
+    "correctAnswer": "Pakistan"
+  },
+  {
+    "id": 1134,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Errors from computer hardware and software can be identifying and removed by which process?",
+    "options": [
+      "Debugging",
+      "Formatting",
+      "Flip Flop",
+      "All of these"
+    ],
+    "correctAnswer": "Debugging"
+  },
+  {
+    "id": 1135,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The speed of CPU is measured in ________?",
+    "options": [
+      "MHz",
+      "Mbps",
+      "Mbytes",
+      "None of these"
+    ],
+    "correctAnswer": "MHz"
+  },
+  {
+    "id": 1136,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "GUI stands for ______?",
+    "options": [
+      "Graphical use interface",
+      "Graphical user interface",
+      "Graphic user interface",
+      "None of these"
+    ],
+    "correctAnswer": "Graphical user interface"
+  },
+  {
+    "id": 1137,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "ASCII stands for:",
+    "options": [
+      "American Standard Conduct for Information Interchange",
+      "Armenia Standard Code for Information Interchange",
+      "American Standard Code for Information Interchange",
+      "None of these"
+    ],
+    "correctAnswer": "American Standard Code for Information Interchange"
+  },
+  {
+    "id": 1138,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which memory acts as a buffer Between CPU and the main memory (RAM)?",
+    "options": [
+      "Cache Memory",
+      "RAM",
+      "ROM",
+      "Static RAM"
+    ],
+    "correctAnswer": "Cache Memory"
+  },
+  {
+    "id": 1139,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following is an example of a spreadsheet application?",
+    "options": [
+      "Notepad",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Adobe Photoshop"
+    ],
+    "correctAnswer": "Microsoft Excel"
+  },
+  {
+    "id": 1140,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "One (1) KB (Kilobytes) = __________?",
+    "options": [
+      "1024 kilobytes",
+      "1024 bytes",
+      "1024 megabytes",
+      "None of these"
+    ],
+    "correctAnswer": "1024 bytes"
+  },
+  {
+    "id": 1141,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What does SDLC stand for?",
+    "options": [
+      "Software Development Life Cycle",
+      "System Development Life Cycle",
+      "Software Design Life Cycle",
+      "System Design Life Cycle"
+    ],
+    "correctAnswer": "Software Development Life Cycle"
+  },
+  {
+    "id": 1142,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "NIC stands for _________?",
+    "options": [
+      "Network internet Card",
+      "Network interface card",
+      "Network Intranet Card",
+      "None of these"
+    ],
+    "correctAnswer": "Network interface card"
+  },
+  {
+    "id": 1143,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "WWW stands for ______?",
+    "options": [
+      "World Whole Web",
+      "Wide World Web",
+      "Web World Wild",
+      "World Wide Web"
+    ],
+    "correctAnswer": "World Wide Web"
+  },
+  {
+    "id": 1144,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In MS Excel, which function automatically total a column or row of values?",
+    "options": [
+      "SUM",
+      "ADD",
+      "TOTAL",
+      "None of these"
+    ],
+    "correctAnswer": "SUM"
+  },
+  {
+    "id": 1145,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "ROM stands for ________?",
+    "options": [
+      "Random only memory",
+      "Read only memory",
+      "Read only meaning",
+      "None of these"
+    ],
+    "correctAnswer": "Read only memory"
+  },
+  {
+    "id": 1146,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "________ performs the computer data processing functions.",
+    "options": [
+      "Control Unit",
+      "ALU",
+      "Registers",
+      "CPU"
+    ],
+    "correctAnswer": "ALU"
+  },
+  {
+    "id": 1147,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "RAM is a _____ memory.",
+    "options": [
+      "Permanent",
+      "Volatile",
+      "Primary memory",
+      "None of these"
+    ],
+    "correctAnswer": "Volatile"
+  },
+  {
+    "id": 1148,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "How do you apply bold formatting to text in Word?",
+    "options": [
+      "Ctrl + I",
+      "Ctrl + B",
+      "Ctrl + U",
+      "Ctrl + U"
+    ],
+    "correctAnswer": "Ctrl + B"
+  },
+  {
+    "id": 1149,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Eight (8) Bits make up a ________?",
+    "options": [
+      "Byte",
+      "Mega byte",
+      "kilo Byte",
+      "None of these"
+    ],
+    "correctAnswer": "Byte"
+  },
+  {
+    "id": 1150,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "BIOS stands for _________?",
+    "options": [
+      "Board Input Output System",
+      "Back Input Output System",
+      "Basic Input Output System",
+      "None of these"
+    ],
+    "correctAnswer": "Basic Input Output System"
+  },
+  {
+    "id": 1151,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What key is used to take a screenshot of the screen?",
+    "options": [
+      "F12",
+      "PrtScn (Print screen)",
+      "Ctrl + P",
+      "Esc"
+    ],
+    "correctAnswer": "PrtScn (Print screen)"
+  },
+  {
+    "id": 1152,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What is the shortcut key for spelling to check in document?",
+    "options": [
+      "F1",
+      "F2",
+      "F5",
+      "F7"
+    ],
+    "correctAnswer": "F7"
+  },
+  {
+    "id": 1153,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "LAN stands for ________?",
+    "options": [
+      "Limited Area Network",
+      "Logical Area Network",
+      "Local Area Network",
+      "Large Area Network"
+    ],
+    "correctAnswer": "Local Area Network"
+  },
+  {
+    "id": 1154,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Microsoft Word displays hyperlinks as a _________?",
+    "options": [
+      "Red underlined text",
+      "Blue underlined text",
+      "White underlined text",
+      "All of these"
+    ],
+    "correctAnswer": "Blue underlined text"
+  },
+  {
+    "id": 1155,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What parameter is used to specify data transfer speed?",
+    "options": [
+      "MHz",
+      "Bps",
+      "Ghz",
+      "None of these"
+    ],
+    "correctAnswer": "Bps"
   }
 ]
