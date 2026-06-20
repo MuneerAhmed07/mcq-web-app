@@ -43,8 +43,8 @@ export const categoriesData: Category[] = [
     icon: "Laptop",
     subCategories: [
       {
-        name: "Programming",
-        description: "Evaluate core concepts in programming, algorithms, OOP concepts, JavaScript, Python, and SQL.",
+        name: "600 Most Repeated MCQs of Computer",
+        description: "600 Most Repeated MCQs of Computer",
         icon: "Code"
       }
     ]
