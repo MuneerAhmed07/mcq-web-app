@@ -11,11 +11,6 @@ export const categoriesData: Category[] = [
         description: "Master parts of speech, syntax, active/passive voice, conditional structures, and verb tenses.",
         icon: "FileText"
       },
-      {
-        name: "Vocabulary",
-        description: "Deepen your understanding of synonyms, antonyms, idioms, correct spellings, and definitions.",
-        icon: "BookOpen"
-      }
     ]
   },
   {
@@ -24,15 +19,10 @@ export const categoriesData: Category[] = [
     icon: "BookMarked",
     subCategories: [
       {
-        name: "1420 Most Repeated Islamic Study MCQs",
-        description: "1420 Most Repeated Islamic Study MCQs",
+        name: "600 Most Repeated Islamic Study MCQs",
+        description: "600 Most Repeated Islamic Study MCQs",
         icon: "Heart"
       },
-      {
-        name: "Hadith",
-        description: "Test your awareness of compilers of Sihah-e-Sittah, chains of narrators, and text definitions.",
-        icon: "MessageSquareText"
-      }
     ]
   },
   {
@@ -41,15 +31,10 @@ export const categoriesData: Category[] = [
     icon: "Globe",
     subCategories: [
       {
-        name: "History",
-        description: "Review independence leaders, the Lahore Resolution, important timelines, and constitutions.",
+        name: "355 Most Repeated MCQs of Pakistan Study",
+        description: "355 Most Repeated MCQs of Pakistan Study",
         icon: "History"
       },
-      {
-        name: "Geography",
-        description: "Explore mountain ranges (K2), prominent rivers, deserts, coastlines, passes, and provinces.",
-        icon: "Compass"
-      }
     ]
   },
   {
@@ -61,16 +46,6 @@ export const categoriesData: Category[] = [
         name: "Programming",
         description: "Evaluate core concepts in programming, algorithms, OOP concepts, JavaScript, Python, and SQL.",
         icon: "Code"
-      },
-      {
-        name: "Networking",
-        description: "Revise packet routing, DNS, DHCP, standard ports (HTTPS, etc.), and the 7-layer OSI Model.",
-        icon: "Network"
-      },
-      {
-        name: "Operating Systems",
-        description: "Examine kernel structures, process deadlocks, CPU scheduling, paging, virtual memory, and Linux.",
-        icon: "Cpu"
       }
     ]
   },
@@ -84,16 +59,6 @@ export const categoriesData: Category[] = [
         description: "Solve linear systems, quadratic discriminants, matrix coordinates, logarithms, sets, and series.",
         icon: "Divide"
       },
-      {
-        name: "Calculus",
-        description: "Differentiate and integrate algebraic curves, limits, exponential rates, and FTC principles.",
-        icon: "TrendingUp"
-      },
-      {
-        name: "Probability",
-        description: "Acquire rolling chances, coin tosses, independent joint events, distributions, and factorials.",
-        icon: "Dices"
-      }
     ]
   }
 ];
