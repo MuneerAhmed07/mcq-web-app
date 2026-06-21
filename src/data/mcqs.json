@@ -15035,5 +15035,1309 @@
       "None of these"
     ],
     "correctAnswer": "Bps"
+  },
+  {
+    "id": 1156,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The ______ is firmware that contain a computer’s startup instruction.",
+    "options": [
+      "POST",
+      "BIOS",
+      "CMOS",
+      "DIOS"
+    ],
+    "correctAnswer": "BIOS"
+  },
+  {
+    "id": 1157,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which key is used to enter the current data in Excel?",
+    "options": [
+      "Ctrl + ;",
+      "Ctrl + Shift + ;",
+      "Ctrl + :",
+      "None of these"
+    ],
+    "correctAnswer": "Ctrl + ;"
+  },
+  {
+    "id": 1158,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which ribbon tab in MS Word contains options for formatting text such as changing font styles and sizes?",
+    "options": [
+      "Home",
+      "Review",
+      "Insert",
+      "None of these"
+    ],
+    "correctAnswer": "Home"
+  },
+  {
+    "id": 1159,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Junk email is also called?",
+    "options": [
+      "Spam",
+      "Spoof",
+      "Spool",
+      "Sniffer script",
+      "Crap"
+    ],
+    "correctAnswer": "Spam"
+  },
+  {
+    "id": 1160,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Who invented the first Computer Mouse?",
+    "options": [
+      "Douglas Engelbart",
+      "Ada Lovelace",
+      "Charles Babbage",
+      "None of these"
+    ],
+    "correctAnswer": "Douglas Engelbart"
+  },
+  {
+    "id": 1161,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Minimum and maximum font size in MS Word is ______?",
+    "options": [
+      "8-72",
+      "6-60",
+      "12-50",
+      "8-96"
+    ],
+    "correctAnswer": "8-72"
+  },
+  {
+    "id": 1162,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of following is not hardware?",
+    "options": [
+      "Compiler/Windows XP",
+      "Chip/Hard disk",
+      "RAM",
+      "CPU/Monitor"
+    ],
+    "correctAnswer": "Compiler/Windows XP"
+  },
+  {
+    "id": 1163,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "To Insert a hyperlink which short key is used?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + M",
+      "Ctrl + K",
+      "None of these"
+    ],
+    "correctAnswer": "Ctrl + K"
+  },
+  {
+    "id": 1164,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Header and Footer are present in which category of the Insert Tab?",
+    "options": [
+      "Text category",
+      "Font",
+      "Home",
+      "None of these"
+    ],
+    "correctAnswer": "Text category"
+  },
+  {
+    "id": 1165,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What is the default page orientation in MS-Word?",
+    "options": [
+      "Long sides",
+      "Portrait",
+      "Landscape",
+      "Double Long side"
+    ],
+    "correctAnswer": "Portrait"
+  },
+  {
+    "id": 1166,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "BCC stands for _______?",
+    "options": [
+      "Blind copy copy",
+      "Blind Carbon Company",
+      "Blind Carbon Copy",
+      "None of these"
+    ],
+    "correctAnswer": "Blind Carbon Copy"
+  },
+  {
+    "id": 1167,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Famous social website Facebook was founded by _______?",
+    "options": [
+      "Elon Musk",
+      "Steve Jobs",
+      "Bill Gates",
+      "Mark Zekerburg"
+    ],
+    "correctAnswer": "Mark Zekerburg"
+  },
+  {
+    "id": 1168,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The man who built the first Mechanical Calculator was _______?",
+    "options": [
+      "Blaise Pascal",
+      "Harward Aliken",
+      "John Mauchly",
+      "None of these"
+    ],
+    "correctAnswer": "Blaise Pascal"
+  },
+  {
+    "id": 1169,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which protocol assigns IP address to the client connected in the internet?",
+    "options": [
+      "DHPP",
+      "DHHP",
+      "DHCP",
+      "None of these"
+    ],
+    "correctAnswer": "DHCP"
+  },
+  {
+    "id": 1170,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "A device which encodes characters by the depression of keys is known as _______?",
+    "options": [
+      "Hard Drive",
+      "Mouse",
+      "Keyboard",
+      "Printer",
+      "None of these"
+    ],
+    "correctAnswer": "Keyboard"
+  },
+  {
+    "id": 1171,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In CT Scan, CT stands for _______?",
+    "options": [
+      "Computer Test",
+      "Central Technology",
+      "Computed Tomography",
+      "None of these"
+    ],
+    "correctAnswer": "Computed Tomography"
+  },
+  {
+    "id": 1172,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The software that contains the core components of the operating system is called _______?",
+    "options": [
+      "Middle",
+      "Function",
+      "Component",
+      "Kernel"
+    ],
+    "correctAnswer": "Kernel"
+  },
+  {
+    "id": 1173,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which algorithm is used to find the shortest path in a graph?",
+    "options": [
+      "Decision Tree",
+      "Dijksta’s Algorithm",
+      "K-Nearest Neighbors",
+      "None of these"
+    ],
+    "correctAnswer": "Dijksta’s Algorithm"
+  },
+  {
+    "id": 1174,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which chart type in Excel is best suited for showing the proportion of parts to a whole?",
+    "options": [
+      "Pie Chart",
+      "Bar Chart",
+      "Lines Chart",
+      "None of these"
+    ],
+    "correctAnswer": "Pie Chart"
+  },
+  {
+    "id": 1175,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What connects two different connections of distinct networks?",
+    "options": [
+      "Router",
+      "Switch",
+      "Hub",
+      "Modem"
+    ],
+    "correctAnswer": "Router"
+  },
+  {
+    "id": 1176,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In MS Excel, Conditional Formatting is in _____ tab?",
+    "options": [
+      "Home",
+      "View",
+      "Page Layout",
+      "Insert"
+    ],
+    "correctAnswer": "Home"
+  },
+  {
+    "id": 1177,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "A computer on internet is identified by its ________?",
+    "options": [
+      "E-mail address",
+      "Street Address",
+      "Login Password",
+      "IP Address"
+    ],
+    "correctAnswer": "IP Address"
+  },
+  {
+    "id": 1178,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The process of removing unwanted part of an image is called?",
+    "options": [
+      "Hiding",
+      "Bordering",
+      "Cropping",
+      "Cutting"
+    ],
+    "correctAnswer": "Cropping"
+  },
+  {
+    "id": 1179,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What is the maximum Zoom percentage in MS Word?",
+    "options": [
+      "400%",
+      "500%",
+      "10%",
+      "None of these"
+    ],
+    "correctAnswer": "500%"
+  },
+  {
+    "id": 1180,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Where is the Print option located in MS Word?",
+    "options": [
+      "Edit > Print",
+      "Insert > Print",
+      "File > Print",
+      "View > Print"
+    ],
+    "correctAnswer": "File > Print"
+  },
+  {
+    "id": 1181,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which material is used in making of Computer Chips?",
+    "options": [
+      "Copper",
+      "Fiber Glass",
+      "Silicon",
+      "Steel"
+    ],
+    "correctAnswer": "Silicon"
+  },
+  {
+    "id": 1182,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "A Red wavy line in MS Word indicates that ______?",
+    "options": [
+      "Misspelled word/spelling Error",
+      "Character mistakes",
+      "Grammatical mistakes",
+      "Spacing mistakes"
+    ],
+    "correctAnswer": "Misspelled word/spelling Error"
+  },
+  {
+    "id": 1183,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following shortcut keys is used to change the case in MS Word?",
+    "options": [
+      "Ctrl + F3",
+      "Shift + F3",
+      "Ctrl + F1",
+      "None of these"
+    ],
+    "correctAnswer": "Shift + F3"
+  },
+  {
+    "id": 1184,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "MS Access is program for _______?",
+    "options": [
+      "Presentation",
+      "Documentation",
+      "Calculation",
+      "Database"
+    ],
+    "correctAnswer": "Database"
+  },
+  {
+    "id": 1185,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The graphical representation of a program is called _______?",
+    "options": [
+      "Flowchart",
+      "Source code",
+      "Pseudo Code",
+      "None of these"
+    ],
+    "correctAnswer": "Flowchart"
+  },
+  {
+    "id": 1186,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which is not included in a Font Style in MS Word?",
+    "options": [
+      "Bold",
+      "Italic",
+      "Regular",
+      "Superscript"
+    ],
+    "correctAnswer": "Superscript"
+  },
+  {
+    "id": 1187,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "ICT stands for what?",
+    "options": [
+      "Information and communication Technology",
+      "International Computer Technology",
+      "Internal Communication Tool",
+      "International Communication Technology"
+    ],
+    "correctAnswer": "Information and communication Technology"
+  },
+  {
+    "id": 1188,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "DVD stands for what?",
+    "options": [
+      "Digital Video Disk",
+      "Digital Value Disk",
+      "Digital Versatile Disk",
+      "Data Video Disk"
+    ],
+    "correctAnswer": "Digital Versatile Disk"
+  },
+  {
+    "id": 1189,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In MS Office a feature that save the document automatically after certain intervals is called?",
+    "options": [
+      "Save",
+      "Save As",
+      "Auto save",
+      "None of these"
+    ],
+    "correctAnswer": "Auto save"
+  },
+  {
+    "id": 1190,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which menu should we used, if we want to add Clip Art?",
+    "options": [
+      "File",
+      "View",
+      "Insert",
+      "Help"
+    ],
+    "correctAnswer": "Insert"
+  },
+  {
+    "id": 1191,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which option is used to open a recent file?",
+    "options": [
+      "Ctrl + R",
+      "Ctrl + O",
+      "Ctrl + M",
+      "Ctrl + F"
+    ],
+    "correctAnswer": "Ctrl + O"
+  },
+  {
+    "id": 1192,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which button do you click to add up a series of numbers?",
+    "options": [
+      "the auto sum button",
+      "the formula button",
+      "the total button",
+      "None of these"
+    ],
+    "correctAnswer": "the auto sum button"
+  },
+  {
+    "id": 1193,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What does the term HTTPS means?",
+    "options": [
+      "Hyper Text Transfer Protocol Secure",
+      "Hyper Text Transfer Protocol Service",
+      "Hyper Text Translation Protocol Secure",
+      "Hyper Text Transfer Protocol Service"
+    ],
+    "correctAnswer": "Hyper Text Transfer Protocol Secure"
+  },
+  {
+    "id": 1194,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Mouse is used for ______?",
+    "options": [
+      "Printing",
+      "Typing",
+      "Selecting and pointing",
+      "None of these"
+    ],
+    "correctAnswer": "Selecting and pointing"
+  },
+  {
+    "id": 1195,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Slide Transition done on _______?",
+    "options": [
+      "New slide",
+      "current slide",
+      "Previous slide",
+      "All of these"
+    ],
+    "correctAnswer": "All of these"
+  },
+  {
+    "id": 1196,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In Microsoft Excel, what is the purpose of conditional formatting?",
+    "options": [
+      "to apply formatting based on specified criteria or rules",
+      "to create custom functions for complex calculations",
+      "to sort data in alphabetical or numerical order",
+      "None of these"
+    ],
+    "correctAnswer": "to apply formatting based on specified criteria or rules"
+  },
+  {
+    "id": 1197,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In which view headers and footers are visible?",
+    "options": [
+      "Normal view",
+      "Page Layout view",
+      "Print layout View",
+      "None of these"
+    ],
+    "correctAnswer": "Print layout View"
+  },
+  {
+    "id": 1198,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In MS Word and Excel, to combine two or more cells into one is called?",
+    "options": [
+      "Joining",
+      "Merging",
+      "Split",
+      "None of these"
+    ],
+    "correctAnswer": "Merging"
+  },
+  {
+    "id": 1199,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Spooling is required for devices such as ________?",
+    "options": [
+      "Disks",
+      "Network adapter",
+      "Printer",
+      "None of these"
+    ],
+    "correctAnswer": "Printer"
+  },
+  {
+    "id": 1200,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What is a byte?",
+    "options": [
+      "Combination of more than one character",
+      "Combination of more than one alpha-bates",
+      "Combination of 8 bits forms a byte",
+      "None of these"
+    ],
+    "correctAnswer": "Combination of 8 bits forms a byte"
+  },
+  {
+    "id": 1201,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Docx is the extension of which of the following?",
+    "options": [
+      "MS Excel",
+      "MS Word",
+      "MS PowerPoint",
+      "MS Outlook"
+    ],
+    "correctAnswer": "MS Word"
+  },
+  {
+    "id": 1202,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The slide that is used to introduce a topic and set that tone for the presentation is called ________?",
+    "options": [
+      "Title Slide",
+      "Table slide",
+      "Bullet slide",
+      "None of these"
+    ],
+    "correctAnswer": "Title Slide"
+  },
+  {
+    "id": 1203,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Software required to run the hardware is known as _______?",
+    "options": [
+      "Task Bar",
+      "Device Driver",
+      "Task Manager",
+      "None of these"
+    ],
+    "correctAnswer": "Device Driver"
+  },
+  {
+    "id": 1204,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which type of software is an antivirus?",
+    "options": [
+      "System Software",
+      "Utility Software",
+      "Application Software",
+      "Development Software"
+    ],
+    "correctAnswer": "Utility Software"
+  },
+  {
+    "id": 1205,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which feature in MS Word allows you to track changes made to a document?",
+    "options": [
+      "Spelling and Grammar",
+      "Track Changes",
+      "Word Count",
+      "Auto Correct"
+    ],
+    "correctAnswer": "Track Changes"
+  },
+  {
+    "id": 1206,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "A combination of 16 bits is called _____?",
+    "options": [
+      "Memory",
+      "Nibble",
+      "Bit",
+      "Word or two bytes"
+    ],
+    "correctAnswer": "Word or two bytes"
+  },
+  {
+    "id": 1207,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The keyboard shortcut key to decrease font size by one point is _______?",
+    "options": [
+      "Ctrl + Shift + <",
+      "Ctrl + Shift + V",
+      "Ctrl + Alt + >",
+      "Ctrl + ["
+    ],
+    "correctAnswer": "Ctrl + ["
+  },
+  {
+    "id": 1208,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which Shortcut key for opening the font dialog box in Microsoft Word?",
+    "options": [
+      "Ctrl + B",
+      "Ctrl + D",
+      "Ctrl + C",
+      "None of these"
+    ],
+    "correctAnswer": "Ctrl + D"
+  },
+  {
+    "id": 1209,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Ctrl + F Shortcut key is used in MS Word to _______?",
+    "options": [
+      "Open Find and Replace Dialog box with activating Find Tab",
+      "Open page setup Dialog box with activating Layout Tab",
+      "Open Font Dialog Box with activating Font Tab",
+      "Open File Save as Dialog box"
+    ],
+    "correctAnswer": "Open Find and Replace Dialog box with activating Find Tab"
+  },
+  {
+    "id": 1210,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following is not an output device of a computer?",
+    "options": [
+      "Keyboard",
+      "Mouse",
+      "Scanner",
+      "All of these"
+    ],
+    "correctAnswer": "All of these"
+  },
+  {
+    "id": 1211,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of following is not a valid data type in MS Excel?",
+    "options": [
+      "Number",
+      "Character",
+      "Babel",
+      "Data/Time"
+    ],
+    "correctAnswer": "Character"
+  },
+  {
+    "id": 1212,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which is the secondary storage device?",
+    "options": [
+      "ROM",
+      "CD-ROM",
+      "Hard Disk",
+      "Both B and C"
+    ],
+    "correctAnswer": "Both B and C"
+  },
+  {
+    "id": 1213,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Slide show in Microsoft PowerPoint is launched by ______?",
+    "options": [
+      "F5",
+      "F4",
+      "F2",
+      "None of these"
+    ],
+    "correctAnswer": "F5"
+  },
+  {
+    "id": 1214,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following is a way to access secondary memory?",
+    "options": [
+      "Density Method",
+      "Transfer Method",
+      "Action Method",
+      "Random Access Memory"
+    ],
+    "correctAnswer": "Transfer Method"
+  },
+  {
+    "id": 1215,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The software which contains rows and columns is called in MS Excel is called?",
+    "options": [
+      "Database",
+      "Spreadsheet",
+      "Word processing",
+      "None of these"
+    ],
+    "correctAnswer": "Spreadsheet"
+  },
+  {
+    "id": 1216,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In MS Word, Portrait and Landscape are ______?",
+    "options": [
+      "Page layout",
+      "Page size",
+      "Page orientation",
+      "All of these"
+    ],
+    "correctAnswer": "Page orientation"
+  },
+  {
+    "id": 1217,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What does the VLOOKUP function do in Excel?",
+    "options": [
+      "Count the number of cells",
+      "Searches for a value in a column and returns a value in the same row",
+      "calculate the average of values",
+      "Sorts data in ascending order"
+    ],
+    "correctAnswer": "Searches for a value in a column and returns a value in the same row"
+  },
+  {
+    "id": 1218,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "In Computing, NOS stand for?",
+    "options": [
+      "Network Operating System",
+      "Node Open Software",
+      "Non-operating software",
+      "None of these"
+    ],
+    "correctAnswer": "Network Operating System"
+  },
+  {
+    "id": 1219,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Ctrl + W shortcut is used in MS Word to _______?",
+    "options": [
+      "Save and print the document",
+      "Save and Close word Application",
+      "Save and Close document",
+      "Close Document"
+    ],
+    "correctAnswer": "Close Document"
+  },
+  {
+    "id": 1220,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What is DMA stand for?",
+    "options": [
+      "Direct Memory Access",
+      "Direct Module Access",
+      "Direct Memory Allocation",
+      "Direct Memory accept",
+      "All of these"
+    ],
+    "correctAnswer": "Direct Memory Access"
+  },
+  {
+    "id": 1221,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Ctrl + Y is used for _______?",
+    "options": [
+      "Redo",
+      "Paste",
+      "Cut",
+      "Undo"
+    ],
+    "correctAnswer": "Redo"
+  },
+  {
+    "id": 1222,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Ctrl + V Shortcut is used in MS Word to _____?",
+    "options": [
+      "Paste Texts in the beginning of Document",
+      "Paste image in the beginning of Document",
+      "Paste Tables at the middle of Document",
+      "None of these"
+    ],
+    "correctAnswer": "Paste Texts in the beginning of Document"
+  },
+  {
+    "id": 1223,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "USB stands for _______?",
+    "options": [
+      "Universal serial Bus",
+      "Universal serial Business",
+      "Universal Secondary Bus",
+      "Unary Serial Bus"
+    ],
+    "correctAnswer": "Universal serial Bus"
+  },
+  {
+    "id": 1224,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Abacus was the first _______?",
+    "options": [
+      "Mechanical computer",
+      "Mechanical calculator",
+      "Electronic computer",
+      "electronic calculator"
+    ],
+    "correctAnswer": "Mechanical calculator"
+  },
+  {
+    "id": 1225,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Ctrl + I shortcut key used for?",
+    "options": [
+      "Underline",
+      "Italic",
+      "Bold",
+      "None of these"
+    ],
+    "correctAnswer": "Italic"
+  },
+  {
+    "id": 1226,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "_________ is to protect data and passwords.",
+    "options": [
+      "Encryption",
+      "Authorization",
+      "Authentication",
+      "None of these"
+    ],
+    "correctAnswer": "Encryption"
+  },
+  {
+    "id": 1227,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The transfer of data from one place to another is called?",
+    "options": [
+      "Data processing",
+      "Data distribution",
+      "Data communication",
+      "Data encryption"
+    ],
+    "correctAnswer": "Data communication"
+  },
+  {
+    "id": 1228,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "What is the default font size in a new word document based on normal template in word 2003?",
+    "options": [
+      "12 pt",
+      "11 pt",
+      "Both",
+      "None of these"
+    ],
+    "correctAnswer": "12 pt"
+  },
+  {
+    "id": 1229,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Ctrl + J Shortcut used in MS Word?",
+    "options": [
+      "Justifies the current line",
+      "Underline",
+      "Both",
+      "None of these"
+    ],
+    "correctAnswer": "Justifies the current line"
+  },
+  {
+    "id": 1230,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "PNG stands for ______?",
+    "options": [
+      "Public Network Graphics",
+      "Private Network Graphics",
+      "Portable Network Graphics",
+      "None of these"
+    ],
+    "correctAnswer": "Portable Network Graphics"
+  },
+  {
+    "id": 1231,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following is word processing software?",
+    "options": [
+      "MS Excel",
+      "MS Word",
+      "Browse",
+      "None of these"
+    ],
+    "correctAnswer": "MS Word"
+  },
+  {
+    "id": 1232,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The process of dividing a disk into tracks and sectors is called?",
+    "options": [
+      "Partitioning",
+      "Fragmentation",
+      "Formatting",
+      "None of these"
+    ],
+    "correctAnswer": "Formatting"
+  },
+  {
+    "id": 1233,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "VLSI stands for ______?",
+    "options": [
+      "Very large scale integration",
+      "very large scale immunization",
+      "very large scale industry",
+      "very low scale immunization"
+    ],
+    "correctAnswer": "Very large scale integration"
+  },
+  {
+    "id": 1234,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "CPU consists of ______ basic components.",
+    "options": [
+      "Arithmetic and logic Unit",
+      "Control unit and registers",
+      "Cache and internal buses",
+      "All of these"
+    ],
+    "correctAnswer": "All of these"
+  },
+  {
+    "id": 1235,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "VGA stands for ______?",
+    "options": [
+      "Video graphic around",
+      "Video graphic array",
+      "Video group array",
+      "None of these"
+    ],
+    "correctAnswer": "Video graphic array"
+  },
+  {
+    "id": 1236,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "PB stands for",
+    "options": [
+      "Petabyte",
+      "Plumber",
+      "Both",
+      "None of these"
+    ],
+    "correctAnswer": "Petabyte"
+  },
+  {
+    "id": 1237,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The main memory of a computer can also be called ______?",
+    "options": [
+      "Primary storage",
+      "Internal memory",
+      "Primary memory",
+      "All of these"
+    ],
+    "correctAnswer": "All of these"
+  },
+  {
+    "id": 1238,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "SATA stands for:",
+    "options": [
+      "Serial advanced technic attachment",
+      "Serial advanced technology attachment",
+      "Serial advised technology attachment",
+      "None of these"
+    ],
+    "correctAnswer": "Serial advanced technology attachment"
+  },
+  {
+    "id": 1239,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The first network called _____?",
+    "options": [
+      "CNNET",
+      "NSFNET",
+      "ASPANT",
+      "ARPANET"
+    ],
+    "correctAnswer": "ARPANET"
+  },
+  {
+    "id": 1240,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "1 byte is equal to ______?",
+    "options": [
+      "4 bits",
+      "8 bits",
+      "12 bits",
+      "None of these"
+    ],
+    "correctAnswer": "8 bits"
+  },
+  {
+    "id": 1241,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "CLI stands for ______?",
+    "options": [
+      "Common-line interface",
+      "Command-line internet",
+      "Command-line interface",
+      "None of these"
+    ],
+    "correctAnswer": "Command-line interface"
+  },
+  {
+    "id": 1242,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "CAI stands for _____?",
+    "options": [
+      "Community Assisted Instruction",
+      "Computer Assistant Instruction",
+      "Computer Assisted Instruction",
+      "Characteristics of Assistant Instructor"
+    ],
+    "correctAnswer": "Computer Assisted Instruction"
+  },
+  {
+    "id": 1243,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "1 nibble is equal to _____?",
+    "options": [
+      "4 bits",
+      "8 bits",
+      "12 bits",
+      "None of these"
+    ],
+    "correctAnswer": "4 bits"
+  },
+  {
+    "id": 1244,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "EBCDIC stands for _____?",
+    "options": [
+      "Extended Binary Coded Decimal Interchange Code",
+      "Extended Bit Code Decimal Interchange Code",
+      "Extended Bit Case Decimal interchange Code",
+      "Extended Binary Case Decimal interchange Code"
+    ],
+    "correctAnswer": "Extended Binary Coded Decimal Interchange Code"
+  },
+  {
+    "id": 1245,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "SQL stands for _______?",
+    "options": [
+      "Structured query language",
+      "sequence query language",
+      "structured query logo",
+      "None of these"
+    ],
+    "correctAnswer": "Structured query language"
+  },
+  {
+    "id": 1246,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The process of transferring files from a computer on the Internet to your computer is called?",
+    "options": [
+      "Forwarding",
+      "Downloading",
+      "Uploading",
+      "None of these"
+    ],
+    "correctAnswer": "Downloading"
+  },
+  {
+    "id": 1247,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following is Non-volatile memory?",
+    "options": [
+      "RAM",
+      "ROM",
+      "PROM",
+      "Both B and C"
+    ],
+    "correctAnswer": "Both B and C"
+  },
+  {
+    "id": 1248,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Who was the founder of C programming language?",
+    "options": [
+      "Dennis Ritchie",
+      "Billgates",
+      "Bjarne Stroustrup",
+      "James A. Gosling"
+    ],
+    "correctAnswer": "Dennis Ritchie"
+  },
+  {
+    "id": 1249,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which shortcut key used to Open Startup Button in Windows 10?",
+    "options": [
+      "Ctrl + Space",
+      "Ctrl + Esc",
+      "WIN + Esc",
+      "Alt + Esc",
+      "Shift + Esc"
+    ],
+    "correctAnswer": "Ctrl + Esc"
+  },
+  {
+    "id": 1250,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "CPU is an example of _______?",
+    "options": [
+      "Hardware",
+      "Software",
+      "Application software",
+      "None of these"
+    ],
+    "correctAnswer": "Hardware"
+  },
+  {
+    "id": 1251,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "The file extension of Microsoft Word 97 – 2003 is _____?",
+    "options": [
+      ".doc",
+      ".docs",
+      ".docx",
+      "None of these"
+    ],
+    "correctAnswer": ".doc"
+  },
+  {
+    "id": 1252,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which key is used to move the cursor to the beginning of a line?",
+    "options": [
+      "Home",
+      "Page up",
+      "Left Arrow Key",
+      "Up Arrow Key"
+    ],
+    "correctAnswer": "Home"
+  },
+  {
+    "id": 1253,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following is used to edit a chart in MS Word?",
+    "options": [
+      "Drag the Chart",
+      "Right click on the Chart",
+      "Left click on the chart",
+      "Double click on the chart"
+    ],
+    "correctAnswer": "Double click on the chart"
+  },
+  {
+    "id": 1254,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Shimmer, Sparkle text, Blinking Background etc. are known as ______?",
+    "options": [
+      "Word Art",
+      "Font styles",
+      "Text effects",
+      "Font effects"
+    ],
+    "correctAnswer": "Text effects"
+  },
+  {
+    "id": 1255,
+    "category": "Computer Science",
+    "subCategory": "600 Most Repeated MCQs of Computer",
+    "question": "Which of the following line spacing is invalid in MS Office?",
+    "options": [
+      "Triple",
+      "Multiple",
+      "Double",
+      "Single"
+    ],
+    "correctAnswer": "Triple"
   }
 ]
