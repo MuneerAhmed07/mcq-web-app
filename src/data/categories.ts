@@ -61,7 +61,7 @@ export const categoriesData: Category[] = [
       },
     ]
   },
-    {
+  {
     name: "FIA Past Paper",
     description: "Practice previous FIA exam questions to understand the test pattern, improve your knowledge, and prepare effectively for upcoming FIA recruitment examinations.",
     icon: "FileText",
@@ -85,6 +85,41 @@ export const categoriesData: Category[] = [
         name: "FIA UDC PAST PAPER 2019",
         description: "FIA UDC PAST PAPER 2019",
         icon: "Cpu"
+      },
+      {
+        name: "FIA Act",
+        description: "FIA Act MCQs",
+        icon: "BookOpen"
+      },
+      {
+        name: "FIA Constable Past Paper 2019",
+        description: "FIA Constable Past Paper 2019",
+        icon: "FileText"
+      },
+      {
+        name: "FIA Sub Inspector Past Paper 13 December 2021",
+        description: "FIA Sub Inspector Past Paper 13 December 2021",
+        icon: "FileText"
+      },
+      {
+        name: "FIA Sub Inspector 2019",
+        description: "FIA Sub Inspector 2019",
+        icon: "FileText"
+      },
+      {
+        name: "FIA Assistant Past Paper 14 DEC 2021",
+        description: "FIA Assistant Past Paper 14 DEC 2021",
+        icon: "FileText"
+      },
+      {
+        name: "ASSISTNT DIRETOR (BS-17) AUGUST 2023 FIA",
+        description: "ASSISTNT DIRETOR (BS-17) AUGUST 2023 FIA",
+        icon: "FileText"
+      },
+      {
+        name: "FIA Assistant/UDC Paper Solved MCQs Dec 16, 2021",
+        description: "FIA Assistant/UDC Paper Solved MCQs Dec 16, 2021",
+        icon: "FileText"
       }
     ]
   }
