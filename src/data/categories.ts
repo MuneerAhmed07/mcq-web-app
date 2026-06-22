@@ -44,6 +44,11 @@ export const categoriesData: Category[] = [
         description: "355 Most Repeated MCQs of Pakistan Study",
         icon: "History"
       },
+      {
+        name: "490 Most Repeated Pakistan Study MCQs",
+        description: "490 Most Repeated Pakistan Study MCQs",
+        icon: "History"
+      }
     ]
   },
 
