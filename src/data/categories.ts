@@ -1,6 +1,9 @@
 import { Category } from "../types";
 
 export const categoriesData: Category[] = [
+
+  // English
+
   {
     name: "English",
     description: "Amplify your grammar accuracy, sentence construction, and vocabulary power.",
@@ -13,6 +16,9 @@ export const categoriesData: Category[] = [
       },
     ]
   },
+
+  // Islamic Studies
+
   {
     name: "Islamic Studies",
     description: "Deepen your awareness of the Quranic history, revelations, and authentic Ahadith.",
@@ -25,6 +31,9 @@ export const categoriesData: Category[] = [
       },
     ]
   },
+
+  // Pakistan Studies
+
   {
     name: "Pakistan Studies",
     description: "Review major historical movements, leaders, constitutional changes, and geographic borders.",
@@ -37,6 +46,9 @@ export const categoriesData: Category[] = [
       },
     ]
   },
+
+  // Computer Science
+
   {
     name: "Computer Science",
     description: "Challenge your fundamentals in computer programming, packet networking, and operating systems.",
@@ -49,6 +61,9 @@ export const categoriesData: Category[] = [
       }
     ]
   },
+
+  // Mathematics
+
   {
     name: "Mathematics",
     description: "Practice your problem-solving in linear algebra, calculus, and statistical probability.",
@@ -61,6 +76,9 @@ export const categoriesData: Category[] = [
       },
     ]
   },
+
+  // FAI
+
   {
     name: "FIA Past Paper",
     description: "Practice previous FIA exam questions to understand the test pattern, improve your knowledge, and prepare effectively for upcoming FIA recruitment examinations.",
@@ -119,6 +137,81 @@ export const categoriesData: Category[] = [
       {
         name: "FIA Assistant/UDC Paper Solved MCQs Dec 16, 2021",
         description: "FIA Assistant/UDC Paper Solved MCQs Dec 16, 2021",
+        icon: "FileText"
+      }
+    ]
+  },
+
+  // FGEI
+  
+  {
+    name: "FGEI",
+    description: "Prepare for FGEI recruitment tests with past paper MCQs covering General Knowledge, English, Mathematics, Computer Science, Pakistan Studies, and other important subjects frequently asked in exams.",
+    icon: "BookOpen",
+    subCategories: [
+      {
+        name: "FGEI UDC PAST PAPER 11-10-2025",
+        description: "FGEI UDC PAST PAPER 11-10-2025",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI UDC PAST PAPER 15-07-2023",
+        description: "FGEI UDC PAST PAPER 15-07-2023",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI LDC Past Paper 2025",
+        description: "FGEI LDC Past Paper 2025",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI LDC PAST PAPER 15-07-2023",
+        description: "FGEI LDC PAST PAPER 15-07-2023",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ASSISTANT PAST PAPER 11-10-2025",
+        description: "FGEI ASSISTANT PAST PAPER 11-10-2025",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 12-10-2025",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 12-10-2025",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 12-10-2025 (2ND SHIFT)",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 12-10-2025 (2ND SHIFT)",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 23-02-2025 (2ND SHIFT)",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 23-02-2025 (2ND SHIFT)",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 23 FEB 2025",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 23 FEB 2025",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 02-08-2024",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 02-08-2024",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 15 JULY 2023",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 15 JULY 2023",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 30 JUNE 2021",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 30 JUNE 2021",
+        icon: "FileText"
+      },
+      {
+        name: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 24 NOV 2019",
+        description: "FGEI ELEMENTARY SCHOOL TEACHER EST PAST PAPER 24 NOV 2019",
         icon: "FileText"
       }
     ]
