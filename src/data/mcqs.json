@@ -20246,5 +20246,1723 @@
       "None of these"
     ],
     "correctAnswer": "Winword.exe"
+  },
+  {
+    "id": 1556,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "National Flag of Pakistan was designed/made by ______?",
+    "options": [
+      "Hafeez Jalandhri",
+      "Ahmed Ghulam Chaghla",
+      "Amir Uddin Kidwai",
+      "None of these"
+    ],
+    "correctAnswer": "Amir Uddin Kidwai"
+  },
+  {
+    "id": 1557,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Warsak dam is constructed on which river?",
+    "options": [
+      "Kabul",
+      "Jhlem",
+      "Chenab",
+      "Indus"
+    ],
+    "correctAnswer": "Kabul"
+  },
+  {
+    "id": 1558,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "To insert a hyperlink which short key is used?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + M",
+      "Ctrl + K",
+      "None of these"
+    ],
+    "correctAnswer": "Ctrl + K"
+  },
+  {
+    "id": 1559,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "The first Prime Minister of Pakistan was:",
+    "options": [
+      "Quaid-e-Azam",
+      "Allama Iqbal",
+      "Liaqat Ali Khan",
+      "Fatima Jinnah",
+      "Skindar Mirza"
+    ],
+    "correctAnswer": "Liaqat Ali Khan"
+  },
+  {
+    "id": 1560,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "When was ASEAN founded?",
+    "options": [
+      "8th August 1968",
+      "8th August 1967",
+      "8th August 1969",
+      "None of these"
+    ],
+    "correctAnswer": "8th August 1967"
+  },
+  {
+    "id": 1561,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Headquarters of Interpol is located in _______?",
+    "options": [
+      "Vienna, Austria",
+      "New York, USA",
+      "London, UK",
+      "Lyon, France"
+    ],
+    "correctAnswer": "Lyon, France"
+  },
+  {
+    "id": 1562,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "India constructed the Kishanganga Dam on which river?",
+    "options": [
+      "indus",
+      "Sutlej",
+      "Jhelum",
+      "None of these"
+    ],
+    "correctAnswer": "Jhelum"
+  },
+  {
+    "id": 1563,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "What is the default file extension for all Word documents?",
+    "options": [
+      ".txts",
+      "word",
+      ".docx",
+      "Dox"
+    ],
+    "correctAnswer": ".docx"
+  },
+  {
+    "id": 1564,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "K2 is also known as ________?",
+    "options": [
+      "Godwin Austin",
+      "broad peak",
+      "Roshan peak",
+      "Sia kingri"
+    ],
+    "correctAnswer": "Godwin Austin"
+  },
+  {
+    "id": 1565,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "“Jinnah of Pakistan” written by _____?",
+    "options": [
+      "Stanly Wolpert",
+      "Hector Bolitho",
+      "Philip Hitti",
+      "None of these"
+    ],
+    "correctAnswer": "Stanly Wolpert"
+  },
+  {
+    "id": 1566,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "The Antonym of Lavish is?",
+    "options": [
+      "Deficient",
+      "Scanty",
+      "Both A and B",
+      "None of these"
+    ],
+    "correctAnswer": "Both A and B"
+  },
+  {
+    "id": 1567,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Bit is the most famous basic unit in computing which stands for?",
+    "options": [
+      "Binary digit",
+      "Base digit",
+      "Basic digit",
+      "Byte digit"
+    ],
+    "correctAnswer": "Binary digit"
+  },
+  {
+    "id": 1568,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Antonym of OBSOLETE is?",
+    "options": [
+      "Conducive",
+      "Rare",
+      "Useless",
+      "Recent"
+    ],
+    "correctAnswer": "Recent"
+  },
+  {
+    "id": 1569,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "When Pakistan signed the Baghdad pact, later called CENTO?",
+    "options": [
+      "29 September 1955",
+      "13 September 1955",
+      "23 September 1955",
+      "23 September 1956"
+    ],
+    "correctAnswer": "23 September 1955"
+  },
+  {
+    "id": 1570,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Which keyboard shortcut Italic Selected text?",
+    "options": [
+      "Ctrl + I",
+      "Alt + I",
+      "File/Format/Bold",
+      "None of these"
+    ],
+    "correctAnswer": "Ctrl + I"
+  },
+  {
+    "id": 1571,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "What was the real name of Hazrat Abu Huraira (RA)?",
+    "options": [
+      "Abdul Rehman Ibne Adi",
+      "Abdul Rehman Ibne Talib",
+      "Abdul Rehman Ibne Sakhr Ad-Dausi",
+      "None of these"
+    ],
+    "correctAnswer": "Abdul Rehman Ibne Sakhr Ad-Dausi"
+  },
+  {
+    "id": 1572,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Tarbela Dam completed in which year?",
+    "options": [
+      "1976",
+      "1987",
+      "1999",
+      "1988"
+    ],
+    "correctAnswer": "1976"
+  },
+  {
+    "id": 1573,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Waterloo, where Napoleon was finally defeated, is situated in _______?",
+    "options": [
+      "France",
+      "Germany",
+      "Holland",
+      "Belgium"
+    ],
+    "correctAnswer": "Belgium"
+  },
+  {
+    "id": 1574,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Length of Gwadar to Kashgar Motorway is?",
+    "options": [
+      "1500 km",
+      "2000 km",
+      "2500 km",
+      "3000 km",
+      "2200 km"
+    ],
+    "correctAnswer": "3000 km"
+  },
+  {
+    "id": 1575,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Bolan, Nari, Pishin, Lora Mulla, Hingol, Rakhshan, Dusht and Zhob are the rivers of _____?",
+    "options": [
+      "Sindh",
+      "Balochistan",
+      "Punjab",
+      "None of these"
+    ],
+    "correctAnswer": "Balochistan"
+  },
+  {
+    "id": 1576,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Mirani Dam is located on which river?",
+    "options": [
+      "Bolan",
+      "Jhelum",
+      "Dashat",
+      "Hub",
+      "None of these"
+    ],
+    "correctAnswer": "Dashat"
+  },
+  {
+    "id": 1577,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Which Muslim leader founded the London branch of the Muslim League?",
+    "options": [
+      "Syed Ameer Ali",
+      "Allama Iqbal",
+      "Sir Syed Ahmed Khan",
+      "None of these"
+    ],
+    "correctAnswer": "Syed Ameer Ali"
+  },
+  {
+    "id": 1578,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "What is the literal meaning of Nabi?",
+    "options": [
+      "A person who conveys the message of Allah",
+      "A person who acts according to Shariah",
+      "A person who behaves nicely",
+      "A person who believes in the unity of Allah",
+      "None of these"
+    ],
+    "correctAnswer": "A person who conveys the message of Allah"
+  },
+  {
+    "id": 1579,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "The marriage between Hazrat Hafsa and Hazrat Muhammad took place in _______?",
+    "options": [
+      "2 A.H",
+      "3 A.H",
+      "4 A.H",
+      "5 A.H",
+      "9 A.H"
+    ],
+    "correctAnswer": "3 A.H"
+  },
+  {
+    "id": 1580,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "During the “Holy Migration to Madina”, __________ spied on Prophet (PBUH)?",
+    "options": [
+      "Saraqa bin Sajjel",
+      "Amr bin Hasham",
+      "Sehl bin Amr",
+      "Waleed bin Utbah"
+    ],
+    "correctAnswer": "Saraqa bin Sajjel"
+  },
+  {
+    "id": 1581,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Which river is also known as “Oil River”?",
+    "options": [
+      "Indus River",
+      "Yangtze River",
+      "Niger River",
+      "None of these"
+    ],
+    "correctAnswer": "Niger River"
+  },
+  {
+    "id": 1582,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Who became the prime minister of France in May 2022?",
+    "options": [
+      "Edouard Philippe",
+      "Jean Castex",
+      "Emmanuel Macron",
+      "Elisabeth Borne",
+      "None of these"
+    ],
+    "correctAnswer": "Elisabeth Borne"
+  },
+  {
+    "id": 1583,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Which layer protects earth from harmful rays of the Sun?",
+    "options": [
+      "Ionosphere",
+      "Ozone Layer",
+      "Troposphere",
+      "Magnetosphere",
+      "none of these"
+    ],
+    "correctAnswer": "Ozone Layer"
+  },
+  {
+    "id": 1584,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Which party won the provincial election in 1937?",
+    "options": [
+      "Muslim League",
+      "Congress",
+      "Muslim Students Federation",
+      "None of these"
+    ],
+    "correctAnswer": "Congress"
+  },
+  {
+    "id": 1585,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Which key is used for Help in PowerPoint?",
+    "options": [
+      "F1",
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "correctAnswer": "F1"
+  },
+  {
+    "id": 1586,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "“My leader” is a biography which is written by _______?",
+    "options": [
+      "Ziauddin Ahmed Suleri",
+      "Ameer Ali",
+      "k.k Aziz",
+      "Parvez Musharaf",
+      "None of these"
+    ],
+    "correctAnswer": "Ziauddin Ahmed Suleri"
+  },
+  {
+    "id": 1587,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Brussels is near the longitude:",
+    "options": [
+      "58-22 W",
+      "4-22 W",
+      "130-51 E",
+      "6-15 W"
+    ],
+    "correctAnswer": "4-22 W"
+  },
+  {
+    "id": 1588,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "Population of Christians in the world",
+    "options": [
+      "31.11%",
+      "21.11%",
+      "41.11%",
+      "None of these"
+    ],
+    "correctAnswer": "31.11%"
+  },
+  {
+    "id": 1589,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "What was the original name of twitter?",
+    "options": [
+      "Twitr",
+      "Twite",
+      "Twirt",
+      "Twit it"
+    ],
+    "correctAnswer": "Twitr"
+  },
+  {
+    "id": 1590,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 22-12-2021",
+    "question": "What is the full form of ADBP",
+    "options": [
+      "Agriculture Development Bank of Pakistan",
+      "Agriculture Development Bank of Punjab",
+      "Agriculture Development Book of Pakistan",
+      "None of these"
+    ],
+    "correctAnswer": "Agriculture Development Bank of Pakistan"
+  },
+  {
+    "id": 1591,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Who was the First Secretary General of UNO?",
+    "options": [
+      "Trygve Lie",
+      "Dag Hammarskjold",
+      "Kurt Walheion",
+      "U Thant"
+    ],
+    "correctAnswer": "Trygve Lie"
+  },
+  {
+    "id": 1592,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Which is the longest (largest) surah in the Holy Quran?",
+    "options": [
+      "Kousar",
+      "Baqarah",
+      "Al Imran",
+      "None of these"
+    ],
+    "correctAnswer": "Baqarah"
+  },
+  {
+    "id": 1593,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Barack Obama was ______ President of USA?",
+    "options": [
+      "44th",
+      "40th",
+      "34",
+      "24th"
+    ],
+    "correctAnswer": "44th"
+  },
+  {
+    "id": 1594,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Name of the Camel on which Prophet travel.",
+    "options": [
+      "Qaswa",
+      "Shabba",
+      "Khamus",
+      "None of these"
+    ],
+    "correctAnswer": "Qaswa"
+  },
+  {
+    "id": 1595,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Which is the highest peak of salt range?",
+    "options": [
+      "Nanga Parbat",
+      "K-2",
+      "Soan Sakaser",
+      "None of these"
+    ],
+    "correctAnswer": "Soan Sakaser"
+  },
+  {
+    "id": 1596,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "In which desert is the Derawar fort is located?",
+    "options": [
+      "Thal",
+      "Cholistan",
+      "Thar",
+      "None of these"
+    ],
+    "correctAnswer": "Cholistan"
+  },
+  {
+    "id": 1597,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "What is the meaning of the word “Quran”?",
+    "options": [
+      "Frequently Recited",
+      "Rarely Recited",
+      "Recited Once",
+      "None of these"
+    ],
+    "correctAnswer": "Frequently Recited"
+  },
+  {
+    "id": 1598,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "According to the 1973 constitution, what is the term of the office of President?",
+    "options": [
+      "5 years",
+      "6 years",
+      "3 years",
+      "4 years",
+      "None of these"
+    ],
+    "correctAnswer": "5 years"
+  },
+  {
+    "id": 1599,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Who was the first Prime Minister of Azad Kashmir?",
+    "options": [
+      "Sardar Muhammad Ibrahim Khan",
+      "Khan Abdul Hameed Khan",
+      "Sardar Sikandar Hayat Khan",
+      "Moulana Muhammad Yousaf",
+      "None of these"
+    ],
+    "correctAnswer": "Khan Abdul Hameed Khan"
+  },
+  {
+    "id": 1600,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "“Colorado River” is located in _______?",
+    "options": [
+      "Canada",
+      "U.K",
+      "Australia",
+      "USA"
+    ],
+    "correctAnswer": "USA"
+  },
+  {
+    "id": 1601,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Hub Dam is located on ______ River?",
+    "options": [
+      "Hub",
+      "Indus",
+      "Ravi",
+      "none of these"
+    ],
+    "correctAnswer": "Hub"
+  },
+  {
+    "id": 1602,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Bhasha Dam a storage capacity of _______ MAF.",
+    "options": [
+      "8.1 MAF",
+      "6.2 MAF",
+      "6.8 MAF",
+      "3.2 MAF"
+    ],
+    "correctAnswer": "8.1 MAF"
+  },
+  {
+    "id": 1603,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Al-Muwatta is written by?",
+    "options": [
+      "Imam Hambal",
+      "Imam Abu Hanifa",
+      "Imam Malik",
+      "Ahmad ibn Hanbal",
+      "None of these"
+    ],
+    "correctAnswer": "Imam Malik"
+  },
+  {
+    "id": 1604,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "What did Barack Obama win the Nobel Peace Prize for?",
+    "options": [
+      "2009",
+      "2008",
+      "2006",
+      "2010"
+    ],
+    "correctAnswer": "2009"
+  },
+  {
+    "id": 1605,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Which Muslim Scientist is considered to be the founder of chemistry _____?",
+    "options": [
+      "Jabir bin Hayan",
+      "Al Beroni",
+      "Yaqoob Alkandi",
+      "None of these"
+    ],
+    "correctAnswer": "Jabir bin Hayan"
+  },
+  {
+    "id": 1606,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "How can you access the font size tool on formatting toolbar.",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + P",
+      "Ctrl + Shift + S",
+      "Ctrl + Shift + P"
+    ],
+    "correctAnswer": "Ctrl + Shift + P"
+  },
+  {
+    "id": 1607,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "CSS stand for ____________?",
+    "options": [
+      "Cascading stylish sheet",
+      "Cascade style sheet",
+      "Cascading style sheet",
+      "None of these"
+    ],
+    "correctAnswer": "Cascading style sheet"
+  },
+  {
+    "id": 1608,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "The word opposite of: Embezzle",
+    "options": [
+      "Compensate",
+      "misappropriate",
+      "Balance",
+      "Clear"
+    ],
+    "correctAnswer": "Compensate"
+  },
+  {
+    "id": 1609,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "Which one is used to divide Email into two parts?",
+    "options": [
+      "@",
+      "&",
+      "#",
+      "*",
+      "All of these"
+    ],
+    "correctAnswer": "@"
+  },
+  {
+    "id": 1610,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "MS office provides help in many ways, which of these one of them?",
+    "options": [
+      "what is this?",
+      "Office assistant",
+      "Help Menu",
+      "All of these"
+    ],
+    "correctAnswer": "All of these"
+  },
+  {
+    "id": 1611,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "On which date the Anti-Terrorism (Amendment) Bill, 2020 was passed by the National Assembly?",
+    "options": [
+      "July 26, 2020",
+      "July 27, 2020",
+      "July 28, 2020",
+      "July 29, 2020"
+    ],
+    "correctAnswer": "July 29, 2020"
+  },
+  {
+    "id": 1612,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 15-12-2021",
+    "question": "What is opposite to Toheed",
+    "options": [
+      "Shirk",
+      "Kalma",
+      "Both",
+      "None of these"
+    ],
+    "correctAnswer": "Shirk"
+  },
+  {
+    "id": 1613,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "Which is the highest peak of Himalayas range in Pakistan?",
+    "options": [
+      "K-2",
+      "Nanga Parbat",
+      "Sakasar",
+      "Tirichmir"
+    ],
+    "correctAnswer": "Nanga Parbat"
+  },
+  {
+    "id": 1614,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "When Muhammad Ali Jinnah was given the title of Quaid-e-Azam?",
+    "options": [
+      "1999",
+      "1944",
+      "1938",
+      "1934"
+    ],
+    "correctAnswer": "1938"
+  },
+  {
+    "id": 1615,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "Nisab of Zakat?",
+    "options": [
+      "2.2%",
+      "2.6%",
+      "2.5%",
+      "None of these"
+    ],
+    "correctAnswer": "2.5%"
+  },
+  {
+    "id": 1616,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "What is the total length of Indus River?",
+    "options": [
+      "2514 km",
+      "3180 km",
+      "2900 km",
+      "None of these"
+    ],
+    "correctAnswer": "3180 km"
+  },
+  {
+    "id": 1617,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "Quaid e Azam was elected President of Muslim League in which year?",
+    "options": [
+      "1930",
+      "1932",
+      "1934",
+      "1945"
+    ],
+    "correctAnswer": "1934"
+  },
+  {
+    "id": 1618,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "Hazrat Umar R.A embraced Islam, influenced by which Surah of Holy Quran?",
+    "options": [
+      "Surah Fateh",
+      "Surah Yaseen",
+      "Surah Taha",
+      "Surah Amaedah"
+    ],
+    "correctAnswer": "Surah Taha"
+  },
+  {
+    "id": 1619,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "Which key on the keyboard can be used to view slideshow?",
+    "options": [
+      "F1",
+      "F2",
+      "F5",
+      "f7",
+      "All of these"
+    ],
+    "correctAnswer": "F5"
+  },
+  {
+    "id": 1620,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "The politician who served as both Governor General and Prime Minister of Pakistan was _________?",
+    "options": [
+      "Iskandar Mirza",
+      "Gulam Muhammad",
+      "Khawja Nazimuddin",
+      "None of these"
+    ],
+    "correctAnswer": "Khawja Nazimuddin"
+  },
+  {
+    "id": 1621,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "Indus River falls into Arabian Sea near _______.",
+    "options": [
+      "Chakwal",
+      "Karachi",
+      "Badin",
+      "Thatta"
+    ],
+    "correctAnswer": "Karachi"
+  },
+  {
+    "id": 1622,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "Which country’s capital is situated near the Margalla Hills?",
+    "options": [
+      "Egypt",
+      "Malaysia",
+      "Japan",
+      "Pakistan"
+    ],
+    "correctAnswer": "Pakistan"
+  },
+  {
+    "id": 1623,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "At the time of Hijrat e Madina who was with Muhammad (PBUH)?",
+    "options": [
+      "Abu Bakar",
+      "Hazrat Ali",
+      "Hazrat Umar",
+      "None of these"
+    ],
+    "correctAnswer": "Abu Bakar"
+  },
+  {
+    "id": 1624,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "HTV stand for",
+    "options": [
+      "Heavy Tactical Vehicle",
+      "Heavy Transport Vehicle",
+      "Heavy Transport Van",
+      "None of these"
+    ],
+    "correctAnswer": "Heavy Transport Vehicle"
+  },
+  {
+    "id": 1625,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 14-12-2021",
+    "question": "APP stand for",
+    "options": [
+      "Associated Press of Pakistan",
+      "Associated Person of Pakistan",
+      "Associated Press of Punjab",
+      "All of These"
+    ],
+    "correctAnswer": "Associated Press of Pakistan"
+  },
+  {
+    "id": 1626,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which Animal is the national Animal of Pakistan?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Arabian Horse",
+      "Markhor"
+    ],
+    "correctAnswer": "Markhor"
+  },
+  {
+    "id": 1627,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Quaid-e-Azam joined All India Muslim League in _______?",
+    "options": [
+      "1908",
+      "1909",
+      "1907",
+      "1913"
+    ],
+    "correctAnswer": "1913"
+  },
+  {
+    "id": 1628,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Baghdad city was established as the Capital of Abbasid Dynasty by?",
+    "options": [
+      "Harun Rasheed",
+      "As-Saffah",
+      "Al – Mansoor",
+      "None of these"
+    ],
+    "correctAnswer": "Al – Mansoor"
+  },
+  {
+    "id": 1629,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "What was the old name of Ethiopia?",
+    "options": [
+      "Abbasinya",
+      "Andorra",
+      "Mesopotamia",
+      "Constantinople"
+    ],
+    "correctAnswer": "Abbasinya"
+  },
+  {
+    "id": 1630,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Grand Mosque at Damascus was built by?",
+    "options": [
+      "Umar bin Abdul Aziz",
+      "Walid bin Abdul Malik",
+      "Abdul Malik",
+      "None of these"
+    ],
+    "correctAnswer": "Walid bin Abdul Malik"
+  },
+  {
+    "id": 1631,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "The National Anthem of Pakistan is written by?",
+    "options": [
+      "Allama Iqbal",
+      "Quaid-e-Azam",
+      "Chaudry Rehmat Ali",
+      "Hafiz Jalandhri"
+    ],
+    "correctAnswer": "Hafiz Jalandhri"
+  },
+  {
+    "id": 1632,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Injeel was revealed on which Prophet by Allah?",
+    "options": [
+      "Hazrat Musa",
+      "Hazrat Ibrahim",
+      "Hazrat Isa",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Isa"
+  },
+  {
+    "id": 1633,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "When Pakistan officially joined United Nations Organisations (UNO)?",
+    "options": [
+      "30 September 1947",
+      "3 September 1947",
+      "10 September 1947",
+      "20 September 1947"
+    ],
+    "correctAnswer": "30 September 1947"
+  },
+  {
+    "id": 1634,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which Angle will blow the trumpet (Sur) at the day of Judgment?",
+    "options": [
+      "Hazrat Jabrail",
+      "Hazrat Israfil",
+      "Hazrat Mikail",
+      "None of these"
+    ],
+    "correctAnswer": "Hazrat Israfil"
+  },
+  {
+    "id": 1635,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "The height of k-2 the second highest mountain is __________ feet.",
+    "options": [
+      "25,251 feet",
+      "26,251 feet",
+      "27,251 feet",
+      "28, 251 feet"
+    ],
+    "correctAnswer": "28, 251 feet"
+  },
+  {
+    "id": 1636,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "How many continents are there in the world?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "7"
+  },
+  {
+    "id": 1637,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Pakistan lies between the latitudes ________?",
+    "options": [
+      "25 degree N to 36 degree N",
+      "56 degree N to 66 degree N",
+      "24 degree N to 37 degree N",
+      "None of these"
+    ],
+    "correctAnswer": "24 degree N to 37 degree N"
+  },
+  {
+    "id": 1638,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which Prophet invented Soap?",
+    "options": [
+      "Prophet Saleh (A.S)",
+      "Prophet Ismail (A.S)",
+      "Prophet Isa (A.S)",
+      "Prophet Idress (A.S)",
+      "None of these"
+    ],
+    "correctAnswer": "Prophet Saleh (A.S)"
+  },
+  {
+    "id": 1639,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Hazrat Idrees (A.S) met with Holy Prophet on the ______ heaven?",
+    "options": [
+      "3rd",
+      "2nd",
+      "4th",
+      "None of these"
+    ],
+    "correctAnswer": "4th"
+  },
+  {
+    "id": 1640,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "How many infidels were killed in Ghazwa Badar?",
+    "options": [
+      "80",
+      "70",
+      "60",
+      "100"
+    ],
+    "correctAnswer": "70"
+  },
+  {
+    "id": 1641,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which country has the largest number of Volcanoes in the world?",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "Indonesia",
+      "Japan"
+    ],
+    "correctAnswer": "Indonesia"
+  },
+  {
+    "id": 1642,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "FTP stands for _______?",
+    "options": [
+      "File transfer Protection",
+      "Film transfer protocol",
+      "File transfer protocol",
+      "None of these"
+    ],
+    "correctAnswer": "File transfer protocol"
+  },
+  {
+    "id": 1643,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "The Height of Hazrat Adam (AS) was ______?",
+    "options": [
+      "70 Feet",
+      "80 Feet",
+      "90 Feet",
+      "100 Feet"
+    ],
+    "correctAnswer": "90 Feet"
+  },
+  {
+    "id": 1644,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "The Antonym of Careful is?",
+    "options": [
+      "Important",
+      "Careless",
+      "Negligent",
+      "Both B and C"
+    ],
+    "correctAnswer": "Both B and C"
+  },
+  {
+    "id": 1645,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "When NWFP become KPK?",
+    "options": [
+      "19 April 2010",
+      "20 April 2010",
+      "18 April 2010",
+      "15 April 2010"
+    ],
+    "correctAnswer": "19 April 2010"
+  },
+  {
+    "id": 1646,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which Pass connects Pakistan and Afghanistan?",
+    "options": [
+      "Babusar Pass",
+      "Bashkaro Pass",
+      "Tochi Pass",
+      "Khyber Pass"
+    ],
+    "correctAnswer": "Khyber Pass"
+  },
+  {
+    "id": 1647,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Wakhan Corridor, a narrow strip of Afghanistan separates Pakistan from which country?",
+    "options": [
+      "Afghanistan",
+      "Tajikistan",
+      "China",
+      "India"
+    ],
+    "correctAnswer": "Tajikistan"
+  },
+  {
+    "id": 1648,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "On ____ 1988 Benazir Bhutto become the first woman PM of Pakistan?",
+    "options": [
+      "4 April",
+      "18 June",
+      "29 August",
+      "1st December",
+      "2nd December"
+    ],
+    "correctAnswer": "2nd December"
+  },
+  {
+    "id": 1649,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Pakistan Steel Mills is located in?",
+    "options": [
+      "Gwadar",
+      "Lahore",
+      "Islamabad",
+      "Karachi",
+      "None of these"
+    ],
+    "correctAnswer": "Karachi"
+  },
+  {
+    "id": 1650,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Charter of Medina (Misaq-e-Madina) was drafted by Muhammad himself. In which Hijra Charter of Madina was drafted?",
+    "options": [
+      "3rd",
+      "2nd",
+      "1st",
+      "None of these"
+    ],
+    "correctAnswer": "1st"
+  },
+  {
+    "id": 1651,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "What is the Maximum height of Kirthar Range?",
+    "options": [
+      "2500 meters",
+      "2150 meters",
+      "2275 meters",
+      "2375 meters"
+    ],
+    "correctAnswer": "2150 meters"
+  },
+  {
+    "id": 1652,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Swims like a _______?",
+    "options": [
+      "Ghost",
+      "Kitten",
+      "Monkey",
+      "Fish"
+    ],
+    "correctAnswer": "Fish"
+  },
+  {
+    "id": 1653,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Who was the First Pakistani to climb k-2?",
+    "options": [
+      "Mohsan Rizvi",
+      "Ashraf Aman",
+      "Nazir Hussain",
+      "Nazir Sabir"
+    ],
+    "correctAnswer": "Ashraf Aman"
+  },
+  {
+    "id": 1654,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which country is known as the “Land of Thunderbolt”?",
+    "options": [
+      "Bhutan",
+      "Japan",
+      "USA",
+      "Russia"
+    ],
+    "correctAnswer": "Bhutan"
+  },
+  {
+    "id": 1655,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "The name of the fifth Kalimah is?",
+    "options": [
+      "Kalimah Shahdat",
+      "Kalimah Istighfar",
+      "Kalimah Tamjeed",
+      "None of these"
+    ],
+    "correctAnswer": "Kalimah Istighfar"
+  },
+  {
+    "id": 1656,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "In which state of America Hollywood city is located?",
+    "options": [
+      "California",
+      "Florida",
+      "Taxsas",
+      "Huawii"
+    ],
+    "correctAnswer": "California"
+  },
+  {
+    "id": 1657,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "What was the age of Hazrat Ibrahim (A.S) when Hazrat Ismael was born?",
+    "options": [
+      "86 years",
+      "90 years",
+      "96 years",
+      "95 years"
+    ],
+    "correctAnswer": "86 years"
+  },
+  {
+    "id": 1658,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Pakistan Steel Mill was established in the reign of ______?",
+    "options": [
+      "Zulfiqar Ali Bhutto",
+      "Zia-ul-Haq",
+      "Pervez Musharaf",
+      "Asif Ali Zardari",
+      "Nawaz Sharif"
+    ],
+    "correctAnswer": "Zulfiqar Ali Bhutto"
+  },
+  {
+    "id": 1659,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Pakistani climber, who went missing while trying to climb K2 along with 2 foreign climbers on 5-Feb-2021?",
+    "options": [
+      "Muhammad Ali Sadpara",
+      "Sajid Ali Sadpara",
+      "Ali Sadpara",
+      "Ali Muhammad Sadpara"
+    ],
+    "correctAnswer": "Muhammad Ali Sadpara"
+  },
+  {
+    "id": 1660,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "To which clan of Quraish Prophet Muhammad (PBUH) belong?",
+    "options": [
+      "Tamim",
+      "Bano Bakr",
+      "Bannu Hashim",
+      "None of these"
+    ],
+    "correctAnswer": "Bannu Hashim"
+  },
+  {
+    "id": 1661,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Greenwich main time is ______ hours behind of Pakistan standard time.",
+    "options": [
+      "4",
+      "4:30",
+      "5",
+      "5:30",
+      "None of these"
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 1662,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Muhammad Ali Johar studied in _____?",
+    "options": [
+      "Jerusalem",
+      "Punjab university",
+      "Cambridge University",
+      "Aligarh University"
+    ],
+    "correctAnswer": "Aligarh University"
+  },
+  {
+    "id": 1663,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Who was the first Chief Minister of KPK?",
+    "options": [
+      "Sardar Aurangzeb Khan Gandapur",
+      "Abdul Qayyum Khan",
+      "Khan Abdul Jabbar Khan",
+      "Abdul Ghafoor Hoti",
+      "Fazle Haq"
+    ],
+    "correctAnswer": "Abdul Qayyum Khan"
+  },
+  {
+    "id": 1664,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Who was the first Prime Minister of Azad Kashmir?",
+    "options": [
+      "Sardar Muhammad Ibrahim Khan",
+      "Khan Abdul Hameed Khan",
+      "Sardar Sikandar Hayat Khan",
+      "Moulana Muhammad Yousaf",
+      "None of these"
+    ],
+    "correctAnswer": "Khan Abdul Hameed Khan"
+  },
+  {
+    "id": 1665,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Adam is word of which language?",
+    "options": [
+      "Hindi",
+      "Arabic",
+      "Hebrew",
+      "Persian",
+      "Urdu"
+    ],
+    "correctAnswer": "Hebrew"
+  },
+  {
+    "id": 1666,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "PM Imran Khan inaugurated Mohmand Dam on?",
+    "options": [
+      "May 2",
+      "May 3",
+      "May 23",
+      "May3"
+    ],
+    "correctAnswer": "May 2"
+  },
+  {
+    "id": 1667,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "What means by “Commuter”?",
+    "options": [
+      "Old name of computer",
+      "Calculator",
+      "Unoriginal",
+      "A person who travels regularly"
+    ],
+    "correctAnswer": "A person who travels regularly"
+  },
+  {
+    "id": 1668,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "What is Photometer?",
+    "options": [
+      "Instrument for testing picture quality",
+      "Instrument for measuring light intensity",
+      "Instrument for measuring size of picture",
+      "Instrument for testing colors of picture"
+    ],
+    "correctAnswer": "Instrument for measuring light intensity"
+  },
+  {
+    "id": 1669,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which was the first Air Force of the World?",
+    "options": [
+      "Turkish",
+      "Italian Air Force",
+      "Royal Air Force of Great Britain",
+      "None of these"
+    ],
+    "correctAnswer": "Royal Air Force of Great Britain"
+  },
+  {
+    "id": 1670,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Political Philosopher Edmund Burke belong to which country?",
+    "options": [
+      "USA",
+      "France",
+      "Britain",
+      "Russia"
+    ],
+    "correctAnswer": "Britain"
+  },
+  {
+    "id": 1671,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "What is the name of first Muslim astronaut?",
+    "options": [
+      "Abdul Aziz",
+      "Muhammad bin Suleiman",
+      "Muhammad bin Naif",
+      "Sultan bin Salman al Saud"
+    ],
+    "correctAnswer": "Sultan bin Salman al Saud"
+  },
+  {
+    "id": 1672,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "The biggest Islamic Country by area is _____?",
+    "options": [
+      "Sudan",
+      "Libya",
+      "Kazakhstan",
+      "Egypt"
+    ],
+    "correctAnswer": "Kazakhstan"
+  },
+  {
+    "id": 1673,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "USA President Bill Clinton arrived in Pakistan in which year?",
+    "options": [
+      "2002",
+      "2000",
+      "2004",
+      "1998",
+      "2005"
+    ],
+    "correctAnswer": "2000"
+  },
+  {
+    "id": 1674,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Amir Muawiya transferred his capital form Kufa to _____?",
+    "options": [
+      "Madina",
+      "Makkah",
+      "Damascus",
+      "Baghdad",
+      "None of these"
+    ],
+    "correctAnswer": "Damascus"
+  },
+  {
+    "id": 1675,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "The Hanging Garden of Babylon were built in?",
+    "options": [
+      "400 BC",
+      "500 BC",
+      "600 BC",
+      "700 BC"
+    ],
+    "correctAnswer": "600 BC"
+  },
+  {
+    "id": 1676,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Where was the second OIC Summit Conference held?",
+    "options": [
+      "Lahore",
+      "Islamabad",
+      "Karachi",
+      "None of these"
+    ],
+    "correctAnswer": "Lahore"
+  },
+  {
+    "id": 1677,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Longest Tunnel of Pakistan is _____?",
+    "options": [
+      "Tarbella",
+      "Kalabagh",
+      "Khojak",
+      "All of these",
+      "None of these"
+    ],
+    "correctAnswer": "Khojak"
+  },
+  {
+    "id": 1678,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Archaeologists have identified some 400 Indus civilization towns, scattered from _____?",
+    "options": [
+      "Kabul to Lahore",
+      "Kabul to Delhi",
+      "Kandhar to Dehli",
+      "Peshawar to delhi"
+    ],
+    "correctAnswer": "Kabul to Delhi"
+  },
+  {
+    "id": 1679,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Arrogant",
+      "Arrogantt",
+      "Both are correct",
+      "Both are incorrect"
+    ],
+    "correctAnswer": "Arrogant"
+  },
+  {
+    "id": 1680,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Bank: River :: Coast: ______?",
+    "options": [
+      "Flood",
+      "Waves",
+      "Sea",
+      "Beach"
+    ],
+    "correctAnswer": "Sea"
+  },
+  {
+    "id": 1681,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Which among following is rich in Ozone?",
+    "options": [
+      "Mesosphere",
+      "Stratosphere",
+      "Ionosphere",
+      "None of these"
+    ],
+    "correctAnswer": "Stratosphere"
+  },
+  {
+    "id": 1682,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Name the Prophet whose wife does not believe on Tauheed?",
+    "options": [
+      "Noah",
+      "Musa",
+      "Isa",
+      "Idrees",
+      "None of these"
+    ],
+    "correctAnswer": "Noah"
+  },
+  {
+    "id": 1683,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Choose the correct verb: He _____ urged all public sector to focus their activity",
+    "options": [
+      "done",
+      "did",
+      "has",
+      "does",
+      "None of these"
+    ],
+    "correctAnswer": "has"
+  },
+  {
+    "id": 1684,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Why ____ you break your promise?",
+    "options": [
+      "is",
+      "done",
+      "does",
+      "did",
+      "being"
+    ],
+    "correctAnswer": "did"
+  },
+  {
+    "id": 1685,
+    "category": "FIA Past Paper",
+    "subCategory": "FIA UDC PAST PAPER 2019",
+    "question": "Choose the correct one word to replace the given sentence (A speech delivered without any preparation).",
+    "options": [
+      "extempore",
+      "contemporary",
+      "temporary",
+      "exemplary",
+      "None of these"
+    ],
+    "correctAnswer": "extempore"
   }
 ]

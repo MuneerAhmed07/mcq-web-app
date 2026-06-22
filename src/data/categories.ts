@@ -60,5 +60,32 @@ export const categoriesData: Category[] = [
         icon: "Divide"
       },
     ]
+  },
+    {
+    name: "FIA Past Paper",
+    description: "Practice previous FIA exam questions to understand the test pattern, improve your knowledge, and prepare effectively for upcoming FIA recruitment examinations.",
+    icon: "FileText",
+    subCategories: [
+      {
+        name: "FIA UDC PAST PAPER 22-12-2021",
+        description: "FIA UDC PAST PAPER 22-12-2021",
+        icon: "Cpu"
+      },
+      {
+        name: "FIA UDC PAST PAPER 15-12-2021",
+        description: "FIA UDC PAST PAPER 15-12-2021",
+        icon: "Cpu"
+      },
+      {
+        name: "FIA UDC PAST PAPER 14-12-2021",
+        description: "FIA UDC PAST PAPER 14-12-2021",
+        icon: "Cpu"
+      },
+      {
+        name: "FIA UDC PAST PAPER 2019",
+        description: "FIA UDC PAST PAPER 2019",
+        icon: "Cpu"
+      }
+    ]
   }
 ];
