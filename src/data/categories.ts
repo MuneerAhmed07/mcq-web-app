@@ -10,8 +10,8 @@ export const categoriesData: Category[] = [
     icon: "Languages",
     subCategories: [
       {
-        name: "Grammar",
-        description: "Master parts of speech, syntax, active/passive voice, conditional structures, and verb tenses.",
+        name: "600 Most Repeated English MCQs",
+        description: "600 Most Repeated English MCQs",
         icon: "FileText"
       },
     ]
