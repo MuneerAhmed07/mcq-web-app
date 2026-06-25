@@ -23,5 +23,6 @@ English:
 ++++++++++++++++++
 Computer:
 726 Computer Networking MCQs: 3640-4365
+Computer Programming MCQs: 4366-4700
 
-also convert this and id start from 3640 and correct id sequence category will be Computer Science and subCategroy will be 726 Computer Networking MCQs
+also convert this and id start from 4701 and correct id sequence category will be Computer Science and subCategroy will be Computer Programming MCQs

@@ -68,6 +68,11 @@ export const categoriesData: Category[] = [
         name: "726 Computer Networking MCQs",
         description: "726 Computer Networking MCQs",
         icon: "Globe"
+      },
+      {
+        name: "Computer Programming MCQs",
+        description: "Computer Programming MCQs",
+        icon: "Code"
       }
     ]
   },

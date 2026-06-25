@@ -54805,5 +54805,2860 @@
     "question": "How many usable host IP addresses are available in a /25 subnet?",
     "options": ["128", "127", "126", "62"],
     "correctAnswer": "126"
+  },
+  {
+    "id": 4366,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Who is known as the \"Father of the C Programming Language\"?",
+    "options": ["Bjarne Stroustrup", "Dennis Ritchie", "James Gosling", "Guido van Rossum"],
+    "correctAnswer": "Dennis Ritchie"
+  },
+  {
+    "id": 4367,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is an example of a \"High-Level Language\"?",
+    "options": ["Assembly", "Machine Code", "Python", "Binary"],
+    "correctAnswer": "Python"
+  },
+  {
+    "id": 4368,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is a \"Syntax Error\"?",
+    "options": ["An error during program execution", "A violation of the language's grammatical rules", "A logical flaw in the code", "A hardware failure"],
+    "correctAnswer": "A violation of the language's grammatical rules"
+  },
+  {
+    "id": 4369,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The process of finding and fixing errors in a program is called:",
+    "options": ["Compiling", "Executing", "Debugging", "Scanning"],
+    "correctAnswer": "Debugging"
+  },
+  {
+    "id": 4370,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is used to convert the entire source code into machine code at once?",
+    "options": ["Interpreter", "Compiler", "Linker", "Assembler"],
+    "correctAnswer": "Compiler"
+  },
+  {
+    "id": 4371,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An Interpreter executes code in which manner?",
+    "options": ["All at once after compilation", "Line by line", "Only when requested by the user", "In reverse order"],
+    "correctAnswer": "Line by line"
+  },
+  {
+    "id": 4372,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the result of the expression 10 % 3 in most programming languages?",
+    "options": ["3", "3.33", "1", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4373,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data type is used to store a single character?",
+    "options": ["String", "Int", "Float", "Char"],
+    "correctAnswer": "Char"
+  },
+  {
+    "id": 4374,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In programming, what is a \"Variable\"?",
+    "options": ["A fixed constant that never changes", "A named memory location that stores data", "A type of syntax error", "A hardware component"],
+    "correctAnswer": "A named memory location that stores data"
+  },
+  {
+    "id": 4375,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A loop that never ends is called a/an:",
+    "options": ["While loop", "For loop", "Infinite loop", "Nested loop"],
+    "correctAnswer": "Infinite loop"
+  },
+  {
+    "id": 4376,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which statement is used to exit from a loop prematurely?",
+    "options": ["Exit", "Return", "Break", "Stop"],
+    "correctAnswer": "Break"
+  },
+  {
+    "id": 4377,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"if-else\" statement is an example of a:",
+    "options": ["Iteration structure", "Selection structure", "Sequential structure", "Looping structure"],
+    "correctAnswer": "Selection structure"
+  },
+  {
+    "id": 4378,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is \"Recursion\"?",
+    "options": ["A function that calls itself", "A loop that runs 10 times", "A way to delete variables", "A method of sorting arrays"],
+    "correctAnswer": "A function that calls itself"
+  },
+  {
+    "id": 4379,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which loop is guaranteed to execute its block of code at least once?",
+    "options": ["For loop", "While loop", "Do-While loop", "If-Else"],
+    "correctAnswer": "Do-While loop"
+  },
+  {
+    "id": 4380,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the \"Scope\" of a variable?",
+    "options": ["The total size of the variable in bytes", "The region of the program where the variable is accessible", "The time it takes to execute a function", "The name given to a variable"],
+    "correctAnswer": "The region of the program where the variable is accessible"
+  },
+  {
+    "id": 4381,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Header File\" (e.g., .h in C++) typically contains:",
+    "options": ["The main logic of the program", "Function declarations and macros", "Documentation only", "Compiled machine code"],
+    "correctAnswer": "Function declarations and macros"
+  },
+  {
+    "id": 4382,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is the standard entry point of a C, C++, or Java program?",
+    "options": ["Start()", "Main()", "Begin()", "Init()"],
+    "correctAnswer": "Main()"
+  },
+  {
+    "id": 4383,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"continue\" statement is used to:",
+    "options": ["Terminate the entire program", "Skip the rest of the current iteration and move to the next", "Restart the loop from the beginning", "Pause execution for a few seconds"],
+    "correctAnswer": "Skip the rest of the current iteration and move to the next"
+  },
+  {
+    "id": 4384,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is an \"Argument\" in programming?",
+    "options": ["A type of error", "A value passed to a function", "A comment in the code", "The name of a program"],
+    "correctAnswer": "A value passed to a function"
+  },
+  {
+    "id": 4385,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used for \"Logical AND\"?",
+    "options": ["||", "!", "&&", "&"],
+    "correctAnswer": "&&"
+  },
+  {
+    "id": 4386,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is NOT one of the primary pillars of OOP?",
+    "options": ["Encapsulation", "Inheritance", "Compilation", "Polymorphism"],
+    "correctAnswer": "Compilation"
+  },
+  {
+    "id": 4387,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is a \"Class\" in OOP?",
+    "options": ["A specific instance of an object", "A blueprint for creating objects", "A type of array", "A function that returns nothing"],
+    "correctAnswer": "A blueprint for creating objects"
+  },
+  {
+    "id": 4388,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The process of hiding internal details and showing only necessary functionality is:",
+    "options": ["Encapsulation", "Abstraction", "Inheritance", "Overloading"],
+    "correctAnswer": "Abstraction"
+  },
+  {
+    "id": 4389,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "\"Inheritance\" allows a class to:",
+    "options": ["Hide its data from other classes", "Acquire properties and behavior from another class", "Call itself recursively", "Be used as a main function"],
+    "correctAnswer": "Acquire properties and behavior from another class"
+  },
+  {
+    "id": 4390,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is \"Polymorphism\"?",
+    "options": ["The ability of a function to take different forms", "The process of deleting objects", "A way to secure data", "Inheriting from multiple classes"],
+    "correctAnswer": "The ability of a function to take different forms"
+  },
+  {
+    "id": 4391,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Constructor\" is a special function that is automatically called:",
+    "options": ["When the program finishes", "When an object is created", "When an error occurs", "Every time a loop runs"],
+    "correctAnswer": "When an object is created"
+  },
+  {
+    "id": 4392,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Wrapping data (variables) and methods (functions) into a single unit is called:",
+    "options": ["Abstraction", "Polymorphism", "Encapsulation", "Inheritance"],
+    "correctAnswer": "Encapsulation"
+  },
+  {
+    "id": 4393,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In OOP, a \"Destructor\" is used to:",
+    "options": ["Create a new class", "Free up memory when an object is destroyed", "Copy an object", "Initialize variables"],
+    "correctAnswer": "Free up memory when an object is destroyed"
+  },
+  {
+    "id": 4394,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to refer to the current instance of a class in Java or C++?",
+    "options": ["Self", "This", "Instance", "Me"],
+    "correctAnswer": "This"
+  },
+  {
+    "id": 4395,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is \"Method Overloading\"?",
+    "options": ["Multiple methods with the same name but different parameters", "A method that calls another method", "A method that is too long to compile", "Deleting a method from a class"],
+    "correctAnswer": "Multiple methods with the same name but different parameters"
+  },
+  {
+    "id": 4396,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the index of the first element in an array in most programming languages?",
+    "options": ["1", "-1", "0", "10"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 4397,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Pointer\" is a variable that stores:",
+    "options": ["A whole number", "A character string", "The memory address of another variable", "A boolean value"],
+    "correctAnswer": "The memory address of another variable"
+  },
+  {
+    "id": 4398,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In C++, which operator is used to access the value at the address stored in a pointer?",
+    "options": ["&", "*", "->", "#"],
+    "correctAnswer": "*"
+  },
+  {
+    "id": 4399,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data structure is used for \"First In, First Out\" (FIFO)?",
+    "options": ["Stack", "Tree", "Queue", "Linked List"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "id": 4400,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The size of a standard Array is usually:",
+    "options": ["Dynamic (changes automatically)", "Fixed at the time of declaration", "Only 10 elements", "Unlimited"],
+    "correctAnswer": "Fixed at the time of declaration"
+  },
+  {
+    "id": 4401,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is NOT a reserved keyword in the C language?",
+    "options": ["auto", "volatile", "main", "default"],
+    "correctAnswer": "main"
+  },
+  {
+    "id": 4402,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the purpose of a \"try-catch\" block?",
+    "options": ["To speed up the code", "To handle exceptions and errors during runtime", "To create a loop", "To define a class"],
+    "correctAnswer": "To handle exceptions and errors during runtime"
+  },
+  {
+    "id": 4403,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In Java, which keyword is used to prevent a variable from being modified (making it a constant)?",
+    "options": ["Static", "Private", "Final", "Volatile"],
+    "correctAnswer": "Final"
+  },
+  {
+    "id": 4404,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is considered a \"Backend\" programming language or framework?",
+    "options": ["HTML", "CSS", "Python (Django/Flask)", "JavaScript (Vanilla)"],
+    "correctAnswer": "Python (Django/Flask)"
+  },
+  {
+    "id": 4405,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The binary representation of the decimal number 5 is:",
+    "options": ["100", "101", "110", "111"],
+    "correctAnswer": "101"
+  },
+  {
+    "id": 4406,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Null Pointer\" points to:",
+    "options": ["The first element of an array", "No valid memory location", "The main function", "The stack"],
+    "correctAnswer": "No valid memory location"
+  },
+  {
+    "id": 4407,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does SQL stand for?",
+    "options": ["Simple Query Language", "Structured Query Language", "Standard Query Logic", "Sequential Query List"],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "id": 4408,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which language is primarily used for native Android app development?",
+    "options": ["Swift", "Java / Kotlin", "Objective-C", "PHP"],
+    "correctAnswer": "Java / Kotlin"
+  },
+  {
+    "id": 4409,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is an \"IDE\"?",
+    "options": ["Internal Data Element", "Integrated Development Environment", "Input Device Equipment", "International Developer Engine"],
+    "correctAnswer": "Integrated Development Environment"
+  },
+  {
+    "id": 4410,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The standard extension of a Python source file is:",
+    "options": [".c", ".java", ".py", ".cpp"],
+    "correctAnswer": ".py"
+  },
+  {
+    "id": 4411,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of these is used for a multi-line comment in C, C++, or Java?",
+    "options": ["//", "#", "/* */", ""],
+    "correctAnswer": "/* */"
+  },
+  {
+    "id": 4412,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is \"Garbage Collection\" in programming?",
+    "options": ["Deleting old code files", "Automatic memory management (freeing unused memory)", "A type of syntax error", "Cleaning the hardware keyboard"],
+    "correctAnswer": "Automatic memory management (freeing unused memory)"
+  },
+  {
+    "id": 4413,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Boolean variable can hold which of the following values?",
+    "options": ["Any number", "Only True or False", "A single character", "A sequence of text"],
+    "correctAnswer": "Only True or False"
+  },
+  {
+    "id": 4414,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the \"Time Complexity\" of a Linear Search algorithm?",
+    "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+    "correctAnswer": "O(n)"
+  },
+  {
+    "id": 4415,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which company originally developed the Java programming language?",
+    "options": ["Microsoft", "Apple", "Sun Microsystems", "Google"],
+    "correctAnswer": "Sun Microsystems"
+  },
+  {
+    "id": 4416,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the output of print(2 + 3 * 4)?",
+    "options": ["20", "14", "24", "11"],
+    "correctAnswer": "14"
+  },
+  {
+    "id": 4417,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data type stores only True and False?",
+    "options": ["String", "Integer", "Boolean", "List"],
+    "correctAnswer": "Boolean"
+  },
+  {
+    "id": 4418,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In Python, what does the // operator perform?",
+    "options": ["Exponential", "Modulus", "Floor division", "Float division"],
+    "correctAnswer": "Floor division"
+  },
+  {
+    "id": 4419,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to define a function?",
+    "options": ["define", "func", "def", "function"],
+    "correctAnswer": "def"
+  },
+  {
+    "id": 4420,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the output of len(\"Hello\")?",
+    "options": ["4", "5", "6", "Error"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 4421,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is Mutable?",
+    "options": ["Tuple", "String", "List", "Integer"],
+    "correctAnswer": "List"
+  },
+  {
+    "id": 4422,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the result of 5 % 2?",
+    "options": ["2.5", "2", "1", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 4423,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which loop structure traditionally runs at least once?",
+    "options": ["while", "for", "do-while", "if-else"],
+    "correctAnswer": "do-while"
+  },
+  {
+    "id": 4424,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "/*", "#", "--"],
+    "correctAnswer": "#"
+  },
+  {
+    "id": 4425,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the output of print(\"Hi\" * 3)?",
+    "options": ["Hi3", "HiHiHi", "Hi Hi Hi", "Error"],
+    "correctAnswer": "HiHiHi"
+  },
+  {
+    "id": 4426,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which logical operator returns True if both operands are true?",
+    "options": ["or", "not", "and", "xor"],
+    "correctAnswer": "and"
+  },
+  {
+    "id": 4427,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The input() function in Python always returns a:",
+    "options": ["Integer", "Float", "String", "List"],
+    "correctAnswer": "String"
+  },
+  {
+    "id": 4428,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the result of type(5.0)?",
+    "options": ["int", "str", "float", "bool"],
+    "correctAnswer": "float"
+  },
+  {
+    "id": 4429,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is NOT a Python keyword?",
+    "options": ["if", "loop", "pass", "while"],
+    "correctAnswer": "loop"
+  },
+  {
+    "id": 4430,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Output of print(10 / 2)?",
+    "options": ["5", "5.0", "2", "0"],
+    "correctAnswer": "5.0"
+  },
+  {
+    "id": 4431,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the value of 2 ** 3?",
+    "options": ["6", "8", "9", "5"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": 4432,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which structure stores Key-Value pairs?",
+    "options": ["List", "Set", "Dictionary", "Tuple"],
+    "correctAnswer": "Dictionary"
+  },
+  {
+    "id": 4433,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the output of bool(0)?",
+    "options": ["True", "False", "None", "1"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": 4434,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data type is Immutable?",
+    "options": ["List", "Dictionary", "Tuple", "Set"],
+    "correctAnswer": "Tuple"
+  },
+  {
+    "id": 4435,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In Python, indentation is primarily used for:",
+    "options": ["Decoration", "Syntax Block definition", "Comments", "Speed"],
+    "correctAnswer": "Syntax Block definition"
+  },
+  {
+    "id": 4436,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Complete the sequence: 2, 4, 8, 16, ___?",
+    "options": ["20", "24", "32", "48"],
+    "correctAnswer": "32"
+  },
+  {
+    "id": 4437,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Odd one out: Apple, Banana, Carrot, Mango.",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "correctAnswer": "Carrot"
+  },
+  {
+    "id": 4438,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If A=1, B=2, C=3... what is the sum for \"CAT\"?",
+    "options": ["20", "24", "22", "21"],
+    "correctAnswer": "24"
+  },
+  {
+    "id": 4439,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Find the missing number: 5, 10, 20, 40, ___?",
+    "options": ["60", "70", "80", "100"],
+    "correctAnswer": "80"
+  },
+  {
+    "id": 4440,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which decimal is the largest?",
+    "options": ["0.5", "0.05", "0.55", "0.505"],
+    "correctAnswer": "0.55"
+  },
+  {
+    "id": 4441,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If 3 men do work in 6 days, how many days for 6 men?",
+    "options": ["12", "3", "9", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 4442,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If 1=5, 2=10, 3=15, then 5 = ?",
+    "options": ["20", "25", "30", "50"],
+    "correctAnswer": "25"
+  },
+  {
+    "id": 4443,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Mirror image of \"LEFT\":",
+    "options": ["TFEL", "FELT", "TELF", "EF LT"],
+    "correctAnswer": "TFEL"
+  },
+  {
+    "id": 4444,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is a Prime number?",
+    "options": ["9", "15", "17", "21"],
+    "correctAnswer": "17"
+  },
+  {
+    "id": 4445,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Solve: 100 ÷ 5 × 2",
+    "options": ["10", "40", "20", "2.5"],
+    "correctAnswer": "40"
+  },
+  {
+    "id": 4446,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Next number in Fibonacci: 1, 1, 2, 3, 5, ___?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": 4447,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If DAY=3, what is WEEK?",
+    "options": ["21", "4", "7", "10"],
+    "correctAnswer": "4"
+  },
+  {
+    "id": 4448,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the square of 12?",
+    "options": ["124", "144", "164", "112"],
+    "correctAnswer": "144"
+  },
+  {
+    "id": 4449,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Find missing: 7, 14, 28, ___?",
+    "options": ["35", "42", "56", "70"],
+    "correctAnswer": "56"
+  },
+  {
+    "id": 4450,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is 25% of 200?",
+    "options": ["25", "50", "75", "100"],
+    "correctAnswer": "50"
+  },
+  {
+    "id": 4451,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Binary representation of decimal 2?",
+    "options": ["01", "10", "11", "100"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": 4452,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which is an Even number?",
+    "options": ["13", "21", "22", "33"],
+    "correctAnswer": "22"
+  },
+  {
+    "id": 4453,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Opposite of Increase?",
+    "options": ["Growth", "Decrease", "Plus", "High"],
+    "correctAnswer": "Decrease"
+  },
+  {
+    "id": 4454,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Solve: 15 + 5 × 2",
+    "options": ["40", "25", "30", "20"],
+    "correctAnswer": "25"
+  },
+  {
+    "id": 4455,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which fraction is the smallest?",
+    "options": ["1/2", "1/3", "1/4", "1/5"],
+    "correctAnswer": "1/5"
+  },
+  {
+    "id": 4456,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Best search algorithm for a sorted list?",
+    "options": ["Linear", "Binary", "Bubble", "Quick"],
+    "correctAnswer": "Binary"
+  },
+  {
+    "id": 4457,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Time complexity of Binary Search?",
+    "options": ["O(n)", "O(n²)", "O(log n)", "O(1)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "id": 4458,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which structure follows FIFO?",
+    "options": ["Stack", "Tree", "Queue", "Graph"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "id": 4459,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which structure follows LIFO?",
+    "options": ["Queue", "Heap", "Stack", "Array"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "id": 4460,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What defines a Recursive function?",
+    "options": ["Fast execution", "Function calling itself", "Use of loops", "High memory"],
+    "correctAnswer": "Function calling itself"
+  },
+  {
+    "id": 4461,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Worst-case time complexity of Bubble Sort?",
+    "options": ["O(n log n)", "O(n)", "O(n²)", "O(1)"],
+    "correctAnswer": "O(n²)"
+  },
+  {
+    "id": 4462,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Fastest average sorting algorithm?",
+    "options": ["Bubble", "Selection", "Merge", "Insertion"],
+    "correctAnswer": "Merge"
+  },
+  {
+    "id": 4463,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data structure stores unique values?",
+    "options": ["List", "Set", "Array", "Stack"],
+    "correctAnswer": "Set"
+  },
+  {
+    "id": 4464,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In a Graph, nodes are connected by:",
+    "options": ["Links", "Edges", "Paths", "Bridges"],
+    "correctAnswer": "Edges"
+  },
+  {
+    "id": 4465,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "DFS (Depth First Search) typically uses a:",
+    "options": ["Queue", "Stack", "Heap", "Tree"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "id": 4466,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "BFS (Breadth First Search) typically uses a:",
+    "options": ["Stack", "Queue", "Set", "Dictionary"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "id": 4467,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Hashing is primarily used for:",
+    "options": ["Sorting", "Fast lookup", "Encryption", "Paging"],
+    "correctAnswer": "Fast lookup"
+  },
+  {
+    "id": 4468,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The top node of a tree is called the:",
+    "options": ["Leaf", "Branch", "Root", "Stem"],
+    "correctAnswer": "Root"
+  },
+  {
+    "id": 4469,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Standard array index starts from:",
+    "options": ["1", "-1", "0", "Any number"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 4470,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Push\" operation in a stack means:",
+    "options": ["Remove element", "Insert Element", "Sort element", "Clear stack"],
+    "correctAnswer": "Insert Element"
+  },
+  {
+    "id": 4471,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Dequeue\" operation in a queue means:",
+    "options": ["Add to back", "Remove from Front", "Peek middle", "Reverse queue"],
+    "correctAnswer": "Remove from Front"
+  },
+  {
+    "id": 4472,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "To avoid infinite recursion, we need a:",
+    "options": ["Loop", "Base case", "Large RAM", "Global variable"],
+    "correctAnswer": "Base case"
+  },
+  {
+    "id": 4473,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An individual element of a linked list is called a:",
+    "options": ["Link", "Node", "Block", "Pointer"],
+    "correctAnswer": "Node"
+  },
+  {
+    "id": 4474,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A cycle in a graph indicates:",
+    "options": ["Graph is empty", "Loop exists", "Graph is a tree", "No edges"],
+    "correctAnswer": "Loop exists"
+  },
+  {
+    "id": 4475,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Stable\" sorting algorithm:",
+    "options": ["Uses less memory", "Maintains relative order of equal keys", "Is always fast", "Never crashes"],
+    "correctAnswer": "Maintains relative order of equal keys"
+  },
+  {
+    "id": 4476,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Average time complexity of Quick sort?",
+    "options": ["O(n)", "O(n log n)", "O(n²)", "O(log n)"],
+    "correctAnswer": "O(n log n)"
+  },
+  {
+    "id": 4477,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Merge sort uses which algorithmic technique?",
+    "options": ["Greedy", "Dynamic", "Divide & Conquer", "Backtracking"],
+    "correctAnswer": "Divide & Conquer"
+  },
+  {
+    "id": 4478,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Heap is a specialized type of:",
+    "options": ["Linked List", "Complete Binary Tree", "Stack", "Queue"],
+    "correctAnswer": "Complete Binary Tree"
+  },
+  {
+    "id": 4479,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Stack Overflow occurs when:",
+    "options": ["Data is deleted", "Memory limit exceeded", "Stack is empty", "CPU is slow"],
+    "correctAnswer": "Memory limit exceeded"
+  },
+  {
+    "id": 4480,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Queue Overflow occurs when:",
+    "options": ["Queue is empty", "Full Queue receives more data", "Front is removed", "Hashing fails"],
+    "correctAnswer": "Full Queue receives more data"
+  },
+  {
+    "id": 4481,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does a Pointer store?",
+    "options": ["Data value", "Memory Address", "File name", "Boolean"],
+    "correctAnswer": "Memory Address"
+  },
+  {
+    "id": 4482,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Compilation Error is usually a:",
+    "options": ["Logic error", "Syntax error", "Network error", "Hardware error"],
+    "correctAnswer": "Syntax error"
+  },
+  {
+    "id": 4483,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "When does a Runtime Error occur?",
+    "options": ["During coding", "During execution", "During installation", "Never"],
+    "correctAnswer": "During execution"
+  },
+  {
+    "id": 4484,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The process of finding and fixing errors is:",
+    "options": ["Coding", "Debugging", "Compiling", "Scripting"],
+    "correctAnswer": "Debugging"
+  },
+  {
+    "id": 4485,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A step-by-step solution to a problem is an:",
+    "options": ["Object", "Class", "Algorithm", "Variable"],
+    "correctAnswer": "Algorithm"
+  },
+  {
+    "id": 4486,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does OOP stand for?",
+    "options": ["Office oriented", "Object oriented Programming", "Original output", "Only object"],
+    "correctAnswer": "Object oriented Programming"
+  },
+  {
+    "id": 4487,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Class\" acts as a:",
+    "options": ["Variable", "Blueprint", "Constant", "Object"],
+    "correctAnswer": "Blueprint"
+  },
+  {
+    "id": 4488,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An \"Object\" is an:",
+    "options": ["Instance of class", "Error message", "Data type", "Header file"],
+    "correctAnswer": "Instance of class"
+  },
+  {
+    "id": 4489,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Encapsulation refers to:",
+    "options": ["Code reuse", "Data hiding", "Fast loops", "Global access"],
+    "correctAnswer": "Data hiding"
+  },
+  {
+    "id": 4490,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Inheritance allows for:",
+    "options": ["Slower code", "Code reuse", "Deleting classes", "Private data"],
+    "correctAnswer": "Code reuse"
+  },
+  {
+    "id": 4491,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Polymorphism means:",
+    "options": ["One form", "Many forms", "No forms", "Static forms"],
+    "correctAnswer": "Many forms"
+  },
+  {
+    "id": 4492,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Function Overloading means:",
+    "options": ["Deleting functions", "Same name, different parameters", "Different names", "Infinite loops"],
+    "correctAnswer": "Same name, different parameters"
+  },
+  {
+    "id": 4493,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Handling unexpected errors in code is called:",
+    "options": ["Sorting", "Exception handling", "Pointers", "Casting"],
+    "correctAnswer": "Exception handling"
+  },
+  {
+    "id": 4494,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The try-except block is used for:",
+    "options": ["Looping", "Handling error", "Mathematical calculations", "Printing"],
+    "correctAnswer": "Handling error"
+  },
+  {
+    "id": 4495,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does API stand for?",
+    "options": ["Applied Program", "Application Programming Interface", "Access Point", "Automated Process"],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "id": 4496,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The Operating System manages:",
+    "options": ["Only RAM", "Hardware and Software", "Only internet", "Only the mouse"],
+    "correctAnswer": "Hardware and Software"
+  },
+  {
+    "id": 4497,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "RAM is characterized as:",
+    "options": ["Permanent", "Temporary memory", "Magnetic", "Optical"],
+    "correctAnswer": "Temporary memory"
+  },
+  {
+    "id": 4498,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "ROM is characterized as:",
+    "options": ["Volatile", "Permanent memory", "Cache", "Erasable"],
+    "correctAnswer": "Permanent memory"
+  },
+  {
+    "id": 4499,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An IP address is a:",
+    "options": ["Name of a PC", "Unique network identifier", "Password", "File path"],
+    "correctAnswer": "Unique network identifier"
+  },
+  {
+    "id": 4500,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "HTTP stands for:",
+    "options": ["Hyperlink Protocol", "HyperText Transfer Protocol", "High Tech", "Home Text"],
+    "correctAnswer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 4501,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Database is used to:",
+    "options": ["Draw pictures", "Store Data", "Play music", "Browse web"],
+    "correctAnswer": "Store Data"
+  },
+  {
+    "id": 4502,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "SQL (Structured Query Language) is used for:",
+    "options": ["Design", "Querying data", "Hardware repair", "Networking"],
+    "correctAnswer": "Querying data"
+  },
+  {
+    "id": 4503,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Primary Key must be:",
+    "options": ["Null", "Unique identifier", "A string", "Large"],
+    "correctAnswer": "Unique identifier"
+  },
+  {
+    "id": 4504,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Normalization is used to:",
+    "options": ["Increase speed", "Reduce Redundancy", "Add more data", "Encrypt files"],
+    "correctAnswer": "Reduce Redundancy"
+  },
+  {
+    "id": 4505,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Database Indexing primarily improves:",
+    "options": ["Security", "Speed of search", "Storage space", "Data entry"],
+    "correctAnswer": "Speed of search"
+  },
+  {
+    "id": 4506,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Cloud Computing provides:",
+    "options": ["Local storage", "Internet Based storage/services", "Offline access", "Weather reports"],
+    "correctAnswer": "Internet Based storage/services"
+  },
+  {
+    "id": 4507,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Cybersecurity is the practice of:",
+    "options": ["Selling PCs", "Protecting systems/networks", "Writing code", "Designing UI"],
+    "correctAnswer": "Protecting systems/networks"
+  },
+  {
+    "id": 4508,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Encryption is the process of:",
+    "options": ["Compressing data", "Securing data via conversion", "Deleting data", "Printing data"],
+    "correctAnswer": "Securing data via conversion"
+  },
+  {
+    "id": 4509,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Firewall is used for:",
+    "options": ["Cooling the CPU", "Network Security", "Typing faster", "Backup"],
+    "correctAnswer": "Network Security"
+  },
+  {
+    "id": 4510,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Bug\" in IT refers to an:",
+    "options": ["Insect in the fan", "Error in Program", "New feature", "Fast processor"],
+    "correctAnswer": "Error in Program"
+  },
+  {
+    "id": 4511,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Version Control systems (like Git) help:",
+    "options": ["Watch videos", "Track & change code history", "Increase RAM", "Edit photos"],
+    "correctAnswer": "Track & change code history"
+  },
+  {
+    "id": 4512,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Git is a tool for:",
+    "options": ["Database management", "Code management", "Hardware testing", "Spreadsheets"],
+    "correctAnswer": "Code management"
+  },
+  {
+    "id": 4513,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Agile Methodology is based on:",
+    "options": ["One-time delivery", "Iterative development", "No testing", "Old standards"],
+    "correctAnswer": "Iterative development"
+  },
+  {
+    "id": 4514,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "DevOps is the union of:",
+    "options": ["Design + Sales", "Development + Operations", "RAM + ROM", "Linux + Windows"],
+    "correctAnswer": "Development + Operations"
+  },
+  {
+    "id": 4515,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The main goal of Software Testing is to ensure:",
+    "options": ["High price", "Quality & correctness", "Fast internet", "Large file size"],
+    "correctAnswer": "Quality & correctness"
+  },
+  {
+    "id": 4516,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the output of the expression: 5 + 3 * 2?",
+    "options": ["16", "11", "13", "10"],
+    "correctAnswer": "11"
+  },
+  {
+    "id": 4517,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In standard programming operator precedence, which of these has the highest precedence?",
+    "options": ["+", "-", "*", "/"],
+    "correctAnswer": "*"
+  },
+  {
+    "id": 4518,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Flowchart\" is best described as a:",
+    "options": ["Type of software", "Graphical representation of an algorithm", "Hardware component", "Programming language"],
+    "correctAnswer": "Graphical representation of an algorithm"
+  },
+  {
+    "id": 4519,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In computing, what does \"Algorithm\" mean?",
+    "options": ["A fast computer", "A step-by-step procedure for solving a problem", "A digital image", "A type of battery"],
+    "correctAnswer": "A step-by-step procedure for solving a problem"
+  },
+  {
+    "id": 4520,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is technically a markup language, not a programming language?",
+    "options": ["Python", "C++", "HTML", "Java"],
+    "correctAnswer": "HTML"
+  },
+  {
+    "id": 4521,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is a valid variable name in most programming languages?",
+    "options": ["1name", "_name", "name-1", "name 1"],
+    "correctAnswer": "_name"
+  },
+  {
+    "id": 4522,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Integer\" data type is used specifically to store:",
+    "options": ["Text", "Whole numbers", "Decimals", "Images"],
+    "correctAnswer": "Whole numbers"
+  },
+  {
+    "id": 4523,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following represents a \"Floating Point\" number?",
+    "options": ["5", "5.5", "\"5.5\"", "True"],
+    "correctAnswer": "5.5"
+  },
+  {
+    "id": 4524,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In programming, \"Boolean\" values consist of:",
+    "options": ["Any number", "True and False", "Letters A to Z", "Positive numbers only"],
+    "correctAnswer": "True and False"
+  },
+  {
+    "id": 4525,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbol is commonly used for \"Assignment\" (giving a value to a variable)?",
+    "options": ["==", "=", ":", "<-"],
+    "correctAnswer": "="
+  },
+  {
+    "id": 4526,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An \"IF\" statement is primarily used for:",
+    "options": ["Repeating code", "Decision making", "Mathematical calculations", "Exiting the program"],
+    "correctAnswer": "Decision making"
+  },
+  {
+    "id": 4527,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What will be the output? if (5 > 3) print('Yes')",
+    "options": ["No output", "Yes", "5", "3"],
+    "correctAnswer": "Yes"
+  },
+  {
+    "id": 4528,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to provide an alternative condition if the \"IF\" condition is false?",
+    "options": ["Then", "Else", "Loop", "Stop"],
+    "correctAnswer": "Else"
+  },
+  {
+    "id": 4529,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is meant by a \"Nested IF\"?",
+    "options": ["An IF statement at the end of the code", "An IF statement placed inside another IF statement", "A broken IF statement", "An IF statement with no condition"],
+    "correctAnswer": "An IF statement placed inside another IF statement"
+  },
+  {
+    "id": 4530,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In C-style languages, the \"Logical AND\" operator is represented by:",
+    "options": ["||", "&&", "!!", "++"],
+    "correctAnswer": "&&"
+  },
+  {
+    "id": 4531,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Loop\" structure is used in programming for:",
+    "options": ["One-time execution", "Repetition of a task", "Deleting variables", "Saving files"],
+    "correctAnswer": "Repetition of a task"
+  },
+  {
+    "id": 4532,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which loop structure is guaranteed to execute at least once?",
+    "options": ["while", "for", "do-while", "if-else"],
+    "correctAnswer": "do-while"
+  },
+  {
+    "id": 4533,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An \"Infinite Loop\" is a loop that:",
+    "options": ["Runs 100 times", "Never ends", "Runs only once", "Causes a syntax error"],
+    "correctAnswer": "Never ends"
+  },
+  {
+    "id": 4534,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Break\" statement is used to:",
+    "options": ["Pause the computer", "Immediately exit a loop", "Start a new function", "Fix an error"],
+    "correctAnswer": "Immediately exit a loop"
+  },
+  {
+    "id": 4535,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Continue\" statement is used to:",
+    "options": ["Stop the program", "Skip the rest of the current iteration and move to the next", "Restart the computer", "Clear the screen"],
+    "correctAnswer": "Skip the rest of the current iteration and move to the next"
+  },
+  {
+    "id": 4536,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is a \"Function\" in programming?",
+    "options": ["A hardware component", "A reusable block of code that performs a specific task", "A type of monitor", "A mathematical constant"],
+    "correctAnswer": "A reusable block of code that performs a specific task"
+  },
+  {
+    "id": 4537,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does the \"Return\" statement do in a function?",
+    "options": ["Restarts the function", "Sends a value back to the caller", "Deletes the function", "Prints text to the screen"],
+    "correctAnswer": "Sends a value back to the caller"
+  },
+  {
+    "id": 4538,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Parameters are best described as:",
+    "options": ["The name of the function", "Inputs provided to a function", "Errors in the code", "The output of a function"],
+    "correctAnswer": "Inputs provided to a function"
+  },
+  {
+    "id": 4539,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A function that does not return any value is often called a:",
+    "options": ["Null function", "Void function", "Static function", "Empty function"],
+    "correctAnswer": "Void function"
+  },
+  {
+    "id": 4540,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Recursion occurs when a:",
+    "options": ["Loop runs too long", "Function calls itself", "Variable is overwritten", "Program crashes"],
+    "correctAnswer": "Function calls itself"
+  },
+  {
+    "id": 4541,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An \"Array\" is a data structure that stores:",
+    "options": ["Only one value", "Multiple values of the same type in a single variable", "Only text", "The computer's BIOS"],
+    "correctAnswer": "Multiple values of the same type in a single variable"
+  },
+  {
+    "id": 4542,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In most programming languages, the index of the first element in an array is:",
+    "options": ["1", "0", "-1", "10"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 4543,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is considered a \"Linear\" data structure?",
+    "options": ["Tree", "Array", "Graph", "Hash Map"],
+    "correctAnswer": "Array"
+  },
+  {
+    "id": 4544,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Stack\" data structure follows which principle?",
+    "options": ["FIFO", "LIFO (Last-In, First-Out)", "LILO", "Random access"],
+    "correctAnswer": "LIFO (Last-In, First-Out)"
+  },
+  {
+    "id": 4545,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Queue\" data structure follows which principle?",
+    "options": ["LIFO", "FIFO (First-In, First-Out)", "FILO", "Priority only"],
+    "correctAnswer": "FIFO (First-In, First-Out)"
+  },
+  {
+    "id": 4546,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Equality\" operator (to check if two values are equal) is:",
+    "options": ["=", "==", "!=", "+="],
+    "correctAnswer": "=="
+  },
+  {
+    "id": 4547,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Not Equal\" operator is represented as:",
+    "options": ["==", "!=", "<>", "!!"],
+    "correctAnswer": "!="
+  },
+  {
+    "id": 4548,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Logical OR\" operator is represented by:",
+    "options": ["&&", "||", "^^", "//"],
+    "correctAnswer": "||"
+  },
+  {
+    "id": 4549,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Modulus\" (%) operator returns the:",
+    "options": ["Quotient", "Remainder of a division", "Sum", "Product"],
+    "correctAnswer": "Remainder of a division"
+  },
+  {
+    "id": 4550,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Increment\" operator (to increase a value by 1) is:",
+    "options": ["--", "++", "**", "//"],
+    "correctAnswer": "++"
+  },
+  {
+    "id": 4551,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Syntax Error\" is most similar to a:",
+    "options": ["Logic mistake", "Grammar or spelling mistake in the code", "Hardware failure", "Internet disconnection"],
+    "correctAnswer": "Grammar or spelling mistake in the code"
+  },
+  {
+    "id": 4552,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Runtime Error\" is an error that occurs:",
+    "options": ["Before the program starts", "During the execution of the program", "After the program finishes", "Only on Linux"],
+    "correctAnswer": "During the execution of the program"
+  },
+  {
+    "id": 4553,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The term \"Debugging\" refers to the process of:",
+    "options": ["Writing new code", "Finding and fixing errors in code", "Deleting old files", "Installing a virus scanner"],
+    "correctAnswer": "Finding and fixing errors in code"
+  },
+  {
+    "id": 4554,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Logical Error\" is characterized by:",
+    "options": ["The program not starting", "The program starting but giving the wrong output", "A blue screen", "A syntax error"],
+    "correctAnswer": "The program starting but giving the wrong output"
+  },
+  {
+    "id": 4555,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the primary job of a \"Compiler\"?",
+    "options": ["To browse the web", "To convert source code into machine language", "To clean the hard drive", "To increase RAM speed"],
+    "correctAnswer": "To convert source code into machine language"
+  },
+  {
+    "id": 4556,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is \"Pseudocode\"?",
+    "options": ["A secret code", "An informal, high-level description of an algorithm", "A type of virus", "Binary code"],
+    "correctAnswer": "An informal, high-level description of an algorithm"
+  },
+  {
+    "id": 4557,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is an \"Interpreted\" language?",
+    "options": ["C++", "Python", "Assembly", "COBOL"],
+    "correctAnswer": "Python"
+  },
+  {
+    "id": 4558,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Variable\" is used in a program to:",
+    "options": ["Print text", "Store data", "Change the monitor brightness", "Connect to a network"],
+    "correctAnswer": "Store data"
+  },
+  {
+    "id": 4559,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Unlike a variable, a \"Constant\" value is:",
+    "options": ["Random", "Fixed (cannot be changed)", "Always zero", "Invisible"],
+    "correctAnswer": "Fixed (cannot be changed)"
+  },
+  {
+    "id": 4560,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In computer terms, \"Input\" refers to:",
+    "options": ["The data produced by the computer", "The data given to the system (from a user or sensor)", "The monitor", "The power supply"],
+    "correctAnswer": "The data given to the system (from a user or sensor)"
+  },
+  {
+    "id": 4561,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the very first step in effective problem solving?",
+    "options": ["Writing the code", "Understanding the problem", "Testing the program", "Buying new hardware"],
+    "correctAnswer": "Understanding the problem"
+  },
+  {
+    "id": 4562,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "By default, the flow of a standard program is:",
+    "options": ["Random", "Sequential (line by line)", "Backwards", "Parallel only"],
+    "correctAnswer": "Sequential (line by line)"
+  },
+  {
+    "id": 4563,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which approach is best for troubleshooting a complex software bug?",
+    "options": ["Guessing", "Step-by-step analysis", "Reinstalling Windows", "Ignoring it"],
+    "correctAnswer": "Step-by-step analysis"
+  },
+  {
+    "id": 4564,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"Binary System\" is based on which two digits?",
+    "options": ["1 and 2", "0 and 1", "0 and 9", "A and B"],
+    "correctAnswer": "0 and 1"
+  },
+  {
+    "id": 4565,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does \"CPU\" stand for?",
+    "options": ["Computer Personal Unit", "Central Processing Unit", "Central Power Unit", "Core Processing Utility"],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "id": 4566,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If all servers are computers and SOME computers are fast, which of the following is true?",
+    "options": [
+      "All servers are fast",
+      "Some servers may be fast",
+      "No servers are fast",
+      "Servers are not computers"
+    ],
+    "correctAnswer": "Some servers may be fast"
+  },
+  {
+    "id": 4567,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Find the next number in the sequence: 2, 6, 12, 20, ___?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswer": "30"
+  },
+  {
+    "id": 4568,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If A=1, B=2, C=3, what is the numerical value of \"CAT\"?",
+    "options": [
+      "20",
+      "24",
+      "21",
+      "25"
+    ],
+    "correctAnswer": "24"
+  },
+  {
+    "id": 4569,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is the \"Odd One Out\"?",
+    "options": [
+      "CPU",
+      "RAM",
+      "Motherboard",
+      "Printer"
+    ],
+    "correctAnswer": "Printer"
+  },
+  {
+    "id": 4570,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If 5 machines make 5 items in 5 minutes, how many items do 10 machines make in 5 minutes?",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "50"
+    ],
+    "correctAnswer": "10"
+  },
+  {
+    "id": 4571,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the very first step in the standard troubleshooting process?",
+    "options": [
+      "Fix the issue",
+      "Identify the Problem",
+      "Test the system",
+      "Replace hardware"
+    ],
+    "correctAnswer": "Identify the Problem"
+  },
+  {
+    "id": 4572,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the correct logical order for troubleshooting?",
+    "options": [
+      "Diagnose → Test → Identify → Fix",
+      "Identify → Diagnose → Fix → Test",
+      "Fix → Test → Identify → Diagnose",
+      "Test → Fix → Diagnose → Identify"
+    ],
+    "correctAnswer": "Identify → Diagnose → Fix → Test"
+  },
+  {
+    "id": 4573,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "When a system suddenly \"hangs\" or freezes, what should be your first action?",
+    "options": [
+      "Immediate hard reboot",
+      "Wait and observe for a moment",
+      "Throw the PC away",
+      "Open the CPU case"
+    ],
+    "correctAnswer": "Wait and observe for a moment"
+  },
+  {
+    "id": 4574,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If the internet is not working for a single user, what is the first thing to check?",
+    "options": [
+      "The ISP's headquarters",
+      "Local Router/Cable connection",
+      "The OS version",
+      "The monitor"
+    ],
+    "correctAnswer": "Local Router/Cable connection"
+  },
+  {
+    "id": 4575,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What characterizes a \"Systematic Approach\" to support?",
+    "options": [
+      "Guessing",
+      "Step-by-step methodical analysis",
+      "Replacing parts randomly",
+      "Ignoring logs"
+    ],
+    "correctAnswer": "Step-by-step methodical analysis"
+  },
+  {
+    "id": 4576,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If a computer is not turning on at all (no lights/fans), first check the:",
+    "options": [
+      "RAM",
+      "Power supply/Cable",
+      "Hard drive",
+      "Mouse"
+    ],
+    "correctAnswer": "Power supply/Cable"
+  },
+  {
+    "id": 4577,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"No Display\" issue on a powered-up PC is most often caused by:",
+    "options": [
+      "Keyboard failure",
+      "Loose Monitor cable",
+      "Corrupt Excel file",
+      "High volume"
+    ],
+    "correctAnswer": "Loose Monitor cable"
+  },
+  {
+    "id": 4578,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is a common reason for a computer becoming significantly slow?",
+    "options": [
+      "Large monitor",
+      "Low RAM/High memory usage",
+      "New keyboard",
+      "High brightness"
+    ],
+    "correctAnswer": "Low RAM/High memory usage"
+  },
+  {
+    "id": 4579,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A computer Virus primarily causes:",
+    "options": [
+      "Physical fan damage",
+      "Data corruption/Security breach",
+      "Better performance",
+      "Monitor cracks"
+    ],
+    "correctAnswer": "Data corruption/Security breach"
+  },
+  {
+    "id": 4580,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Blue Screen of Death\" (BSOD) typically indicates:",
+    "options": [
+      "A successful update",
+      "A critical system error or hardware crash",
+      "Low ink",
+      "Power saving mode"
+    ],
+    "correctAnswer": "A critical system error or hardware crash"
+  },
+  {
+    "id": 4581,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the primary role of the Operating System (OS)?",
+    "options": [
+      "Word processing only",
+      "Managing hardware and software resources",
+      "Powering the monitor",
+      "Cleaning the disk"
+    ],
+    "correctAnswer": "Managing hardware and software resources"
+  },
+  {
+    "id": 4582,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "RAM (Random Access Memory) is considered:",
+    "options": [
+      "Permanent storage",
+      "Temporary/Volatile memory",
+      "A type of cable",
+      "An output device"
+    ],
+    "correctAnswer": "Temporary/Volatile memory"
+  },
+  {
+    "id": 4583,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The CPU is primarily responsible for:",
+    "options": [
+      "Storing files",
+      "Processing instructions",
+      "Displaying images",
+      "Printing"
+    ],
+    "correctAnswer": "Processing instructions"
+  },
+  {
+    "id": 4584,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which component is used for long-term \"Permanent\" data storage?",
+    "options": [
+      "RAM",
+      "Hard Disk/SSD",
+      "CPU",
+      "Cache"
+    ],
+    "correctAnswer": "Hard Disk/SSD"
+  },
+  {
+    "id": 4585,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "\"Multitasking\" in an OS refers to the ability to:",
+    "options": [
+      "Use two mice",
+      "Run multiple tasks/apps simultaneously",
+      "Shutdown quickly",
+      "Print in color"
+    ],
+    "correctAnswer": "Run multiple tasks/apps simultaneously"
+  },
+  {
+    "id": 4586,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If a system problem disappears after a simple restart, the issue was likely a:",
+    "options": [
+      "Hardware failure",
+      "Temporary glitch/memory leak",
+      "Permanent virus",
+      "Broken motherboard"
+    ],
+    "correctAnswer": "Temporary glitch/memory leak"
+  },
+  {
+    "id": 4587,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If a \"Ping\" command to a server fails, the problem is most likely related to:",
+    "options": [
+      "Sound card",
+      "Network connectivity",
+      "Monitor resolution",
+      "Keyboard layout"
+    ],
+    "correctAnswer": "Network connectivity"
+  },
+  {
+    "id": 4588,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If a specific application crashes repeatedly while others work fine, you should:",
+    "options": [
+      "Format the Hard Drive",
+      "Reinstall the specific application",
+      "Change the power cable",
+      "Buy a new PC"
+    ],
+    "correctAnswer": "Reinstall the specific application"
+  },
+  {
+    "id": 4589,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A \"Disk Full\" condition usually results in:",
+    "options": [
+      "Faster boot times",
+      "Slow performance and inability to save files",
+      "Automatic OS upgrade",
+      "Brighter screen"
+    ],
+    "correctAnswer": "Slow performance and inability to save files"
+  },
+  {
+    "id": 4590,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If the keyboard is not responding, the first step is to:",
+    "options": [
+      "Replace the CPU",
+      "Check the physical/USB connection",
+      "Reinstall Windows",
+      "Update the BIOS"
+    ],
+    "correctAnswer": "Check the physical/USB connection"
+  },
+  {
+    "id": 4591,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Logical Pattern: A, E, I, O... What is next?",
+    "options": [
+      "U",
+      "P",
+      "Z",
+      "T"
+    ],
+    "correctAnswer": "U"
+  },
+  {
+    "id": 4592,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Find the missing number: 3, 9, 27, ___?",
+    "options": [
+      "30",
+      "54",
+      "81",
+      "100"
+    ],
+    "correctAnswer": "81"
+  },
+  {
+    "id": 4593,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is logically different?",
+    "options": [
+      "Hard Disk",
+      "SSD",
+      "RAM",
+      "USB Flash Drive"
+    ],
+    "correctAnswer": "RAM"
+  },
+  {
+    "id": 4594,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A logical \"AND\" operator returns TRUE only when:",
+    "options": [
+      "One input is true",
+      "Both inputs are true",
+      "Both inputs are false",
+      "The OS is Linux"
+    ],
+    "correctAnswer": "Both inputs are true"
+  },
+  {
+    "id": 4595,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The \"NOT\" operator is used to:",
+    "options": [
+      "Add numbers",
+      "Reverse a logical condition",
+      "Exit a program",
+      "Save a file"
+    ],
+    "correctAnswer": "Reverse a logical condition"
+  },
+  {
+    "id": 4596,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the best quality for a Support Engineer?",
+    "options": [
+      "Fast typing",
+      "Logical thinking and patience",
+      "Loud voice",
+      "Ability to ignore users"
+    ],
+    "correctAnswer": "Logical thinking and patience"
+  },
+  {
+    "id": 4597,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Root Cause Analysis (RCA) means:",
+    "options": [
+      "Fix the symptom only",
+      "Finding the underlying main problem",
+      "Replacing the user",
+      "Deleting logs"
+    ],
+    "correctAnswer": "Finding the underlying main problem"
+  },
+  {
+    "id": 4598,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Preventive Maintenance is performed to:",
+    "options": [
+      "Fix a broken PC",
+      "Avoid future system issues",
+      "Increase the price",
+      "Clean the room"
+    ],
+    "correctAnswer": "Avoid future system issues"
+  },
+  {
+    "id": 4599,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Why is Documentation important in system support?",
+    "options": [
+      "For decoration",
+      "For record-keeping and future reference",
+      "To waste paper",
+      "To slow down work"
+    ],
+    "correctAnswer": "For record-keeping and future reference"
+  },
+  {
+    "id": 4600,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "If multiple users are affected by the same issue simultaneously, it is likely a:",
+    "options": [
+      "Individual PC issue",
+      "Network or system-wide issue",
+      "User error",
+      "Coincidence"
+    ],
+    "correctAnswer": "Network or system-wide issue"
+  },
+  {
+    "id": 4601,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Who developed the Python programming language?",
+    "options": ["Dennis Ritchie", "James Gosling", "Guido van Rossum", "Bjarne Stroustrup"],
+    "correctAnswer": "Guido van Rossum"
+  },
+  {
+    "id": 4602,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In which year was Python first released?",
+    "options": ["1989", "1991", "1995", "2000"],
+    "correctAnswer": "1991"
+  },
+  {
+    "id": 4603,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbol is used to start a single-line comment in Python?",
+    "options": ["//", "/*", "#", "--"],
+    "correctAnswer": "#"
+  },
+  {
+    "id": 4604,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following is a valid variable name in Python?",
+    "options": ["1_name", "name_1", "name-1", "name 1"],
+    "correctAnswer": "name_1"
+  },
+  {
+    "id": 4605,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data type is used to store text strings in Python?",
+    "options": ["Char", "Text", "Str", "String"],
+    "correctAnswer": "Str"
+  },
+  {
+    "id": 4606,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used to display output on the screen in Python?",
+    "options": ["printf()", "cout <<", "print()", "write()"],
+    "correctAnswer": "print()"
+  },
+  {
+    "id": 4607,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the output of the Python expression: print(2 + 3 * 2)?",
+    "options": ["10", "8", "11", "7"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": 4608,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used for exponentiation (power) in Python?",
+    "options": ["^", "^^", "**", "pow"],
+    "correctAnswer": "**"
+  },
+  {
+    "id": 4609,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of the following Python data types is \"immutable\" (cannot be changed after creation)?",
+    "options": ["List", "Dictionary", "Tuple", "Set"],
+    "correctAnswer": "Tuple"
+  },
+  {
+    "id": 4610,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "def", "define", "func"],
+    "correctAnswer": "def"
+  },
+  {
+    "id": 4611,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which loop is typically used to iterate over a sequence (like a list or string)?",
+    "options": ["while", "do-while", "for", "switch"],
+    "correctAnswer": "for"
+  },
+  {
+    "id": 4612,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used for conditional branching?",
+    "options": ["check", "if", "select", "case"],
+    "correctAnswer": "if"
+  },
+  {
+    "id": 4613,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used to capture user input from the console?",
+    "options": ["scan()", "read()", "input()", "get()"],
+    "correctAnswer": "input()"
+  },
+  {
+    "id": 4614,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the output of the command type(5)?",
+    "options": ["<class 'float'>", "<class 'int'>", "<class 'number'>", "<class 'str'>"],
+    "correctAnswer": "<class 'int'>"
+  },
+  {
+    "id": 4615,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbol is used for floor division (returns integer result) in Python?",
+    "options": ["/", "%", "//", "\\"],
+    "correctAnswer": "//"
+  },
+  {
+    "id": 4616,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Python \"List\" is defined using which brackets?",
+    "options": ["( )", "{ }", "[ ]", "< >"],
+    "correctAnswer": "[ ]"
+  },
+  {
+    "id": 4617,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "A Python \"Dictionary\" is defined using which brackets?",
+    "options": ["[ ]", "( )", "{ }", "| |"],
+    "correctAnswer": "{ }"
+  },
+  {
+    "id": 4618,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which built-in function returns the number of items in a list?",
+    "options": ["count()", "size()", "len()", "length()"],
+    "correctAnswer": "len()"
+  },
+  {
+    "id": 4619,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to start a block for handling exceptions/errors?",
+    "options": ["catch", "try", "throw", "error"],
+    "correctAnswer": "try"
+  },
+  {
+    "id": 4620,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which block in Python is used to handle the actual exception?",
+    "options": ["catch", "except", "finally", "handle"],
+    "correctAnswer": "except"
+  },
+  {
+    "id": 4621,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Python is primarily considered a(n):",
+    "options": ["Compiled language", "Interpreted language", "Low-level language", "Assembly language"],
+    "correctAnswer": "Interpreted language"
+  },
+  {
+    "id": 4622,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function converts a compatible string into an integer?",
+    "options": ["str()", "float()", "int()", "convert()"],
+    "correctAnswer": "int()"
+  },
+  {
+    "id": 4623,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which method is used to add an element to the end of a list?",
+    "options": ["add()", "insert()", "append()", "extend()"],
+    "correctAnswer": "append()"
+  },
+  {
+    "id": 4624,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which method removes and returns the last element from a list?",
+    "options": ["remove()", "delete()", "pop()", "discard()"],
+    "correctAnswer": "pop()"
+  },
+  {
+    "id": 4625,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the correct file extension for a Python script?",
+    "options": [".pt", ".pyt", ".py", ".python"],
+    "correctAnswer": ".py"
+  },
+  {
+    "id": 4626,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used for Logical AND in Python?",
+    "options": ["&&", "&", "and", "amp"],
+    "correctAnswer": "and"
+  },
+  {
+    "id": 4627,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used to generate a sequence of numbers (often used in for-loops)?",
+    "options": ["sequence()", "generate()", "range()", "list()"],
+    "correctAnswer": "range()"
+  },
+  {
+    "id": 4628,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which statement is used to terminate a loop prematurely?",
+    "options": ["stop", "exit", "break", "end"],
+    "correctAnswer": "break"
+  },
+  {
+    "id": 4629,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which statement is used to skip the rest of the current loop iteration?",
+    "options": ["skip", "pass", "continue", "next"],
+    "correctAnswer": "continue"
+  },
+  {
+    "id": 4630,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to define a blueprint for an object?",
+    "options": ["object", "struct", "class", "def"],
+    "correctAnswer": "class"
+  },
+  {
+    "id": 4631,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Who developed the C programming language?",
+    "options": ["James Gosling", "Dennis Ritchie", "Ken Thompson", "Bill Gates"],
+    "correctAnswer": "Dennis Ritchie"
+  },
+  {
+    "id": 4632,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "C was originally developed at which famous laboratory?",
+    "options": ["Microsoft Research", "Bell Labs", "IBM", "NASA"],
+    "correctAnswer": "Bell Labs"
+  },
+  {
+    "id": 4633,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Who is the creator of the C++ language?",
+    "options": ["Dennis Ritchie", "Guido van Rossum", "Bjarne Stroustrup", "Steve Jobs"],
+    "correctAnswer": "Bjarne Stroustrup"
+  },
+  {
+    "id": 4634,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbol is used for a single-line comment in C++?",
+    "options": ["#", "//", "/*", "--"],
+    "correctAnswer": "//"
+  },
+  {
+    "id": 4635,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which header file is required for basic input/output in C?",
+    "options": ["iostream.h", "conio.h", "stdio.h", "math.h"],
+    "correctAnswer": "stdio.h"
+  },
+  {
+    "id": 4636,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which header file is used for I/O streams in C++?",
+    "options": ["stdio.h", "iostream", "string.h", "input.h"],
+    "correctAnswer": "iostream"
+  },
+  {
+    "id": 4637,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used for formatted output in C?",
+    "options": ["print()", "write()", "printf()", "display()"],
+    "correctAnswer": "printf()"
+  },
+  {
+    "id": 4638,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which statement is typically used to end the main() function?",
+    "options": ["end 0;", "exit(0);", "return 0;", "stop;"],
+    "correctAnswer": "return 0;"
+  },
+  {
+    "id": 4639,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used to get the \"address-of\" a variable?",
+    "options": ["*", "%", "&", "@"],
+    "correctAnswer": "&"
+  },
+  {
+    "id": 4640,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data type is used for whole numbers in C?",
+    "options": ["float", "char", "int", "double"],
+    "correctAnswer": "int"
+  },
+  {
+    "id": 4641,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which loop is guaranteed to execute at least one time?",
+    "options": ["while", "for", "do-while", "if-else"],
+    "correctAnswer": "do-while"
+  },
+  {
+    "id": 4642,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator represents Logical AND in C/C++?",
+    "options": ["and", "&", "&&", "||"],
+    "correctAnswer": "&&"
+  },
+  {
+    "id": 4643,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator represents Logical OR in C/C++?",
+    "options": ["or", "|", "||", "&&"],
+    "correctAnswer": "||"
+  },
+  {
+    "id": 4644,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function reads formatted input from the user in C?",
+    "options": ["input()", "read()", "scanf()", "cin >>"],
+    "correctAnswer": "scanf()"
+  },
+  {
+    "id": 4645,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which object is used for standard output in C++?",
+    "options": ["printf", "output", "cout", "cin"],
+    "correctAnswer": "cout"
+  },
+  {
+    "id": 4646,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword defines a class in C++?",
+    "options": ["struct", "object", "class", "def"],
+    "correctAnswer": "class"
+  },
+  {
+    "id": 4647,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which OOP concept allows functions to have the same name but different parameters?",
+    "options": ["Inheritance", "Encapsulation", "Polymorphism", "Abstraction"],
+    "correctAnswer": "Polymorphism"
+  },
+  {
+    "id": 4648,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Every statement in C/C++ must end with which symbol?",
+    "options": [".", ":", ";", ","],
+    "correctAnswer": ";"
+  },
+  {
+    "id": 4649,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "An Array index in C/C++ always starts at:",
+    "options": ["1", "-1", "0", "Any number"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": 4650,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keywords are used for multi-way decision-making?",
+    "options": ["if", "switch", "Both A and B", "loop"],
+    "correctAnswer": "Both A and B"
+  },
+  {
+    "id": 4651,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword defines the constructor in a Python class?",
+    "options": ["start", "init", "constructor", "new"],
+    "correctAnswer": "init"
+  },
+  {
+    "id": 4652,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which library is used for advanced mathematical functions in Python?",
+    "options": ["numbers", "calc", "math", "algebra"],
+    "correctAnswer": "math"
+  },
+  {
+    "id": 4653,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which Python module helps in generating random numbers?",
+    "options": ["math", "random", "os", "sys"],
+    "correctAnswer": "random"
+  },
+  {
+    "id": 4654,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What is the value of len(\"Hello\") in Python?",
+    "options": ["4", "6", "5", "Error"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 4655,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which programming paradigms does Python support?",
+    "options": ["Object-Oriented", "Functional", "Procedural", "All of these"],
+    "correctAnswer": "All of these"
+  },
+  {
+    "id": 4656,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator checks if two values are equal?",
+    "options": ["=", "is", "==", "==?"],
+    "correctAnswer": "=="
+  },
+  {
+    "id": 4657,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbol is used for the Modulus (remainder) operator?",
+    "options": ["/", "#", "%", "&"],
+    "correctAnswer": "%"
+  },
+  {
+    "id": 4658,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which of these are valid Boolean values?",
+    "options": ["True", "False", "Both A and B", "1 and 0 only"],
+    "correctAnswer": "Both A and B"
+  },
+  {
+    "id": 4659,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to bring external modules into your Python script?",
+    "options": ["include", "using", "import", "require"],
+    "correctAnswer": "import"
+  },
+  {
+    "id": 4660,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used to open a file in Python?",
+    "options": ["read_file()", "access()", "open()", "file()"],
+    "correctAnswer": "open()"
+  },
+  {
+    "id": 4661,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does the \"r\" mode signify in file operations?",
+    "options": ["Rewrite", "Run", "Read", "Reset"],
+    "correctAnswer": "Read"
+  },
+  {
+    "id": 4662,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "What does the \"w\" mode signify in file operations?",
+    "options": ["Wait", "Warning", "Write", "Width"],
+    "correctAnswer": "Write"
+  },
+  {
+    "id": 4663,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used to release a file object in Python?",
+    "options": ["end()", "release()", "close()", "stop()"],
+    "correctAnswer": "close()"
+  },
+  {
+    "id": 4664,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "True or False: A Python List allows duplicate values.",
+    "options": ["False", "True", "Only if sorted", "Never"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": 4665,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which Python collection does NOT allow duplicate elements?",
+    "options": ["List", "Tuple", "Set", "Dictionary"],
+    "correctAnswer": "Set"
+  },
+  {
+    "id": 4666,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which loop continues as long as a condition remains True?",
+    "options": ["for", "until", "while", "do-while"],
+    "correctAnswer": "while"
+  },
+  {
+    "id": 4667,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to create small, anonymous functions in Python?",
+    "options": ["anon", "func", "lambda", "small"],
+    "correctAnswer": "lambda"
+  },
+  {
+    "id": 4668,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function returns the largest value in an iterable?",
+    "options": ["high()", "top()", "max()", "largest()"],
+    "correctAnswer": "max()"
+  },
+  {
+    "id": 4669,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function returns the smallest value in an iterable?",
+    "options": ["low()", "bottom()", "min()", "least()"],
+    "correctAnswer": "min()"
+  },
+  {
+    "id": 4670,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "In Python, what is used to define the structure/blocks of code?",
+    "options": ["Curly braces { }", "Parentheses ( )", "Indentation (Whitespace)", "Semicolons"],
+    "correctAnswer": "Indentation (Whitespace)"
+  },
+  {
+    "id": 4671,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which storage class in C allows a variable to retain its value even after the function exits?",
+    "options": ["auto", "register", "static", "extern"],
+    "correctAnswer": "static"
+  },
+  {
+    "id": 4672,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used to declare a pointer variable?",
+    "options": ["&", "@", "*", "#"],
+    "correctAnswer": "*"
+  },
+  {
+    "id": 4673,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used for dynamic memory allocation in C?",
+    "options": ["alloc()", "new", "malloc", "create()"],
+    "correctAnswer": "malloc"
+  },
+  {
+    "id": 4674,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used for dynamic memory allocation in C++?",
+    "options": ["malloc", "calloc", "new", "allocate"],
+    "correctAnswer": "new"
+  },
+  {
+    "id": 4675,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function is used to deallocate/free memory in C?",
+    "options": ["delete", "remove()", "free()", "clear()"],
+    "correctAnswer": "free()"
+  },
+  {
+    "id": 4676,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to deallocate/free memory in C++?",
+    "options": ["free", "remove", "delete", "release"],
+    "correctAnswer": "delete"
+  },
+  {
+    "id": 4677,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which loop is best when you know exactly how many times it should run?",
+    "options": ["while", "do-while", "for", "if"],
+    "correctAnswer": "for"
+  },
+  {
+    "id": 4678,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which preprocessor directive is used to include header files?",
+    "options": ["#define", "#ifdef", "#include", "#import"],
+    "correctAnswer": "#include"
+  },
+  {
+    "id": 4679,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to break out of a loop or switch in C/C++?",
+    "options": ["exit", "return", "break", "stop"],
+    "correctAnswer": "break"
+  },
+  {
+    "id": 4680,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to skip the current iteration in C/C++?",
+    "options": ["pass", "next", "continue", "skip"],
+    "correctAnswer": "continue"
+  },
+  {
+    "id": 4681,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which function calculates the length of a string in C?",
+    "options": ["len()", "length()", "strlen()", "strcount()"],
+    "correctAnswer": "strlen()"
+  },
+  {
+    "id": 4682,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used for the modulus (remainder) in C?",
+    "options": ["mod", "rem", "%", "/"],
+    "correctAnswer": "%"
+  },
+  {
+    "id": 4683,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbols are used for multi-line comments in C/C++?",
+    "options": ["// //", "# #", "/* */", "-- --"],
+    "correctAnswer": "/* */"
+  },
+  {
+    "id": 4684,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "C is primarily known as a:",
+    "options": ["Object-oriented language", "Procedural language", "Functional language", "Markup language"],
+    "correctAnswer": "Procedural language"
+  },
+  {
+    "id": 4685,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "C++ is often called a multi-paradigm language because it supports:",
+    "options": ["OOP only", "Procedural only", "Both A and B", "Neither"],
+    "correctAnswer": "Both A and B"
+  },
+  {
+    "id": 4686,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to send a value back from a function?",
+    "options": ["send", "back", "return", "give"],
+    "correctAnswer": "return"
+  },
+  {
+    "id": 4687,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data type is used to store numbers with decimals?",
+    "options": ["int", "char", "float", "long"],
+    "correctAnswer": "float"
+  },
+  {
+    "id": 4688,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used to compare if two values are equal in C/C++?",
+    "options": ["=", "===", "==", "!="],
+    "correctAnswer": "=="
+  },
+  {
+    "id": 4689,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword defines a variable whose value cannot be changed?",
+    "options": ["static", "final", "const", "fixed"],
+    "correctAnswer": "const"
+  },
+  {
+    "id": 4690,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which header file contains functions like sqrt() or pow() in C?",
+    "options": ["stdio.h", "math.h", "conio.h", "stdlib.h"],
+    "correctAnswer": "math.h"
+  },
+  {
+    "id": 4691,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The concept of hiding internal data and showing only necessary features is:",
+    "options": ["Inheritance", "Abstraction", "Encapsulation", "Polymorphism"],
+    "correctAnswer": "Abstraction"
+  },
+  {
+    "id": 4692,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "The feature that allows a class to acquire properties from another class is:",
+    "options": ["Encapsulation", "Polymorphism", "Inheritance", "Overloading"],
+    "correctAnswer": "Inheritance"
+  },
+  {
+    "id": 4693,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword is used to define a custom user-defined data structure in C?",
+    "options": ["class", "define", "struct", "union"],
+    "correctAnswer": "struct"
+  },
+  {
+    "id": 4694,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used for Bitwise AND?",
+    "options": ["&&", "||", "&", "|"],
+    "correctAnswer": "&"
+  },
+  {
+    "id": 4695,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Every C/C++ program execution begins with the function called:",
+    "options": ["start()", "begin()", "main()", "init()"],
+    "correctAnswer": "main()"
+  },
+  {
+    "id": 4696,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which data type is used to store a single letter or symbol?",
+    "options": ["string", "int", "char", "byte"],
+    "correctAnswer": "char"
+  },
+  {
+    "id": 4697,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which symbol is used for dereferencing a pointer (getting value at address)?",
+    "options": ["&", "@", "*", "->"],
+    "correctAnswer": "*"
+  },
+  {
+    "id": 4698,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which operator is used to increment a value by 1?",
+    "options": ["+", "+=", "++", "+1"],
+    "correctAnswer": "++"
+  },
+  {
+    "id": 4699,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Which keyword exits a function immediately?",
+    "options": ["break", "stop", "return", "exit"],
+    "correctAnswer": "return"
+  },
+  {
+    "id": 4700,
+    "category": "Computer Science",
+    "subCategory": "Computer Programming MCQs",
+    "question": "Unlike Python, C and C++ programs are generally:",
+    "options": ["Interpreted", "Scripted", "Compiled", "Dynamic"],
+    "correctAnswer": "Compiled"
   }
 ]
