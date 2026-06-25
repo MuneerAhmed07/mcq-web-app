@@ -120,6 +120,11 @@ export const categoriesData: Category[] = [
     icon: "FileText",
     subCategories: [
       {
+        name: "FIA Most Important MCQs",
+        description: "FIA Most Important MCQs",
+        icon: "BookOpen"
+      },
+      {
         name: "FIA UDC PAST PAPER 22-12-2021",
         description: "FIA UDC PAST PAPER 22-12-2021",
         icon: "Cpu"
