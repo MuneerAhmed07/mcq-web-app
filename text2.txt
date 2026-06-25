@@ -1,4 +1,4 @@
-MCQs ID: 4365
+MCQs ID: 5508
 
 ++++++++++++++++
 FGEI:
@@ -24,5 +24,9 @@ English:
 Computer:
 726 Computer Networking MCQs: 3640-4365
 Computer Programming MCQs: 4366-4700
+Operating System MCQs: 4701-4960
+MySQL & Database Administration: 4961-5308
+Data Structure MCQs: 5309-5358
+Software Tools & Awareness: 5359-5508
 
-also convert this and id start from 4701 and correct id sequence category will be Computer Science and subCategroy will be Computer Programming MCQs
+also convert this and id start from 5508 and correct id sequence category will be Computer Science and subCategroy will be Software Tools & Awareness

@@ -67,12 +67,32 @@ export const categoriesData: Category[] = [
       {
         name: "726 Computer Networking MCQs",
         description: "726 Computer Networking MCQs",
-        icon: "Globe"
+        icon: "Network"
       },
       {
         name: "Computer Programming MCQs",
         description: "Computer Programming MCQs",
         icon: "Code"
+      },
+      {
+        name: "Operating System MCQs",
+        description: "Operating System MCQs",
+        icon: "Laptop"
+      },
+      {
+        name: "MySQL & Database Administration",
+        description: "MySQL & Database Administration",
+        icon: "Code"
+      },
+      {
+        name: "Data Structure MCQs",
+        description: "Data Structure MCQs",
+        icon: "Cpu"
+      },
+      {
+        name: "Software Tools & Awareness",
+        description: "Software Tools & Awareness",
+        icon: "Sparkles"
       }
     ]
   },
