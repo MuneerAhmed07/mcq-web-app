@@ -1,4 +1,4 @@
-MCQs ID: 5734
+MCQs ID: 5806
 
 ++++++++++++++++
 FGEI:
@@ -28,6 +28,13 @@ Operating System MCQs: 4701-4960
 MySQL & Database Administration: 4961-5308
 Data Structure MCQs: 5309-5358
 Software Tools & Awareness: 5359-5508
+
++++++++++++++++++++++
+FIA:
 FIA Most Important MCQs: 5509-5734
 
-also convert this and id start from 5735 and correct id sequence category will be FIA Past Paper and subCategroy will be FIA Most Important MCQs
++++++++++++++++++++++
+Islamic:
+Islamic Study MCQs: 5735-5806
+
+also convert this and id start from 5807 and correct id sequence category will be Islamic Studies and subCategroy will be Islamic Study MCQs not create duplicate id

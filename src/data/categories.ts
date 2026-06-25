@@ -29,6 +29,11 @@ export const categoriesData: Category[] = [
         description: "600 Most Repeated Islamic Study MCQs",
         icon: "Heart"
       },
+      {
+        name: "Islamic Study MCQs",
+        description: "Islamic Study MCQs",
+        icon: "Heart"
+      }
     ]
   },
 

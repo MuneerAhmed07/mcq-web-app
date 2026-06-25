@@ -70086,5 +70086,941 @@
       "Urban Policing"
     ],
     "correctAnswer": "Federal Investigation"
+  },
+  {
+    "id": 5735,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Khutba of Hajj (Hajj sermon) is delivered in which mosque?",
+    "options": [
+      "Masjid al-Haram",
+      "Masjid-e-Nabawi",
+      "Masjid-e-Nimra",
+      "Masjid-e-Quba"
+    ],
+    "correctAnswer": "Masjid-e-Nimra"
+  },
+  {
+    "id": 5736,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The \"Charter of Madina\" was issued in 1 AH having ____ articles?",
+    "options": [
+      "37",
+      "47",
+      "53",
+      "63"
+    ],
+    "correctAnswer": "47"
+  },
+  {
+    "id": 5737,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The largest verse of Surah Al-Baqarah is?",
+    "options": [
+      "Verse 255 (Ayat-ul-Kursi)",
+      "Verse 282",
+      "Verse 286",
+      "Verse 186"
+    ],
+    "correctAnswer": "Verse 282"
+  },
+  {
+    "id": 5738,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "10 Ramzan is the death anniversary of?",
+    "options": [
+      "Hazrat Aisha (RA)",
+      "Hazrat Khadija binte Khuwailid (RA)",
+      "Hazrat Fatima (RA)",
+      "Hazrat Zainab (RA)"
+    ],
+    "correctAnswer": "Hazrat Khadija binte Khuwailid (RA)"
+  },
+  {
+    "id": 5739,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Who was the compiler of Al-Muwatta?",
+    "options": [
+      "Imam Abu Hanifa",
+      "Imam Shafi",
+      "Imam Maalik Bin Anas",
+      "Imam Ahmad bin Hanbal"
+    ],
+    "correctAnswer": "Imam Maalik Bin Anas"
+  },
+  {
+    "id": 5740,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Nakhla Mission took place in?",
+    "options": [
+      "Shaban 2 A.H",
+      "Rajab 2 A.H",
+      "Ramzan 2 A.H",
+      "Shawwal 2 A.H"
+    ],
+    "correctAnswer": "Rajab 2 A.H"
+  },
+  {
+    "id": 5741,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "How many verses are in Surah Mumtahina?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswer": "13"
+  },
+  {
+    "id": 5742,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Current Hijri Year is?",
+    "options": [
+      "1445 AH",
+      "1446 AH",
+      "1447 AH",
+      "1448 AH"
+    ],
+    "correctAnswer": "1447 AH"
+  },
+  {
+    "id": 5743,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "How many sons did Hazrat Muhammad (SAW) have with Hazrat Maria al-Qibtiya (RA)?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5744,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The fourth daughter of our Holy Prophet (SAW) was?",
+    "options": [
+      "Hazrat Zainab (RA)",
+      "Hazrat Ruqayyah (RA)",
+      "Hazrat Umm Kulthum (RA)",
+      "Hazrat Fatima (RA)"
+    ],
+    "correctAnswer": "Hazrat Fatima (RA)"
+  },
+  {
+    "id": 5745,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Which night is better than thousand nights?",
+    "options": [
+      "Lailat-ul-Bara'at",
+      "Lailat-ul-Miraj",
+      "Lailat-ul-Qadar",
+      "Lailat-ul-Jummah"
+    ],
+    "correctAnswer": "Lailat-ul-Qadar"
+  },
+  {
+    "id": 5746,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "____ Surah of the Holy Qur'an is called the \"mother of Qur'an\"?",
+    "options": [
+      "Surah Yaseen",
+      "Surah Rahman",
+      "Surah Fatiha",
+      "Surah Ikhlas"
+    ],
+    "correctAnswer": "Surah Fatiha"
+  },
+  {
+    "id": 5747,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Holy Prophet (SAW) was born in the month of?",
+    "options": [
+      "Ramzan",
+      "Rabi ul Awwal",
+      "Muharram",
+      "Rajab"
+    ],
+    "correctAnswer": "Rabi ul Awwal"
+  },
+  {
+    "id": 5748,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Holy Prophet (SAW) was a direct descendant of?",
+    "options": [
+      "Hazrat Ishaq (AS)",
+      "Hazrat Ismaeel (AS)",
+      "Hazrat Yaqub (AS)",
+      "Hazrat Yusuf (AS)"
+    ],
+    "correctAnswer": "Hazrat Ismaeel (AS)"
+  },
+  {
+    "id": 5749,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Name the person whose house became the centre of preaching of Islam?",
+    "options": [
+      "Hazrat Abu Bakar (RA)",
+      "Hazrat Umar (RA)",
+      "Hazrat Arqam (RA)",
+      "Hazrat Ali (RA)"
+    ],
+    "correctAnswer": "Hazrat Arqam (RA)"
+  },
+  {
+    "id": 5750,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "When did the event of the social boycott of Banu Hashim take place?",
+    "options": [
+      "5th year of Nabvi",
+      "6th year of Nabvi",
+      "7th year of Nabvi",
+      "8th year of Nabvi"
+    ],
+    "correctAnswer": "7th year of Nabvi"
+  },
+  {
+    "id": 5751,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Hazrat Bibi Umm Kulthum (R.A) was the daughter of Hazrat Muhammad (SAW) and?",
+    "options": [
+      "Hazrat Aisha (RA)",
+      "Hazrat Sauda (RA)",
+      "Khadija bint Khuwaylid (RA)",
+      "Hazrat Hafsa (RA)"
+    ],
+    "correctAnswer": "Khadija bint Khuwaylid (RA)"
+  },
+  {
+    "id": 5752,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Khutba of Hajj (Hajj sermon) is delivered in which mosque?",
+    "options": [
+      "Masjid al-Haram",
+      "Masjid-e-Nabawi",
+      "Masjid-e-Nimra",
+      "Masjid-e-Quba"
+    ],
+    "correctAnswer": "Masjid-e-Nimra"
+  },
+  {
+    "id": 5753,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The \"Charter of Madina\" was issued in 1 AH having ____ articles?",
+    "options": [
+      "37",
+      "47",
+      "53",
+      "63"
+    ],
+    "correctAnswer": "47"
+  },
+  {
+    "id": 5754,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The largest verse of Surah Al-Baqarah is?",
+    "options": [
+      "Verse 255 (Ayat-ul-Kursi)",
+      "Verse 282",
+      "Verse 286",
+      "Verse 186"
+    ],
+    "correctAnswer": "Verse 282"
+  },
+  {
+    "id": 5755,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "10 Ramzan is the death anniversary of?",
+    "options": [
+      "Hazrat Aisha (RA)",
+      "Hazrat Khadija binte Khuwailid (RA)",
+      "Hazrat Fatima (RA)",
+      "Hazrat Zainab (RA)"
+    ],
+    "correctAnswer": "Hazrat Khadija binte Khuwailid (RA)"
+  },
+  {
+    "id": 5756,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Who was the compiler of Al-Muwatta?",
+    "options": [
+      "Imam Abu Hanifa",
+      "Imam Shafi",
+      "Imam Maalik Bin Anas",
+      "Imam Ahmad bin Hanbal"
+    ],
+    "correctAnswer": "Imam Maalik Bin Anas"
+  },
+  {
+    "id": 5757,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Nakhla Mission took place in?",
+    "options": [
+      "Shaban 2 A.H",
+      "Rajab 2 A.H",
+      "Ramzan 2 A.H",
+      "Shawwal 2 A.H"
+    ],
+    "correctAnswer": "Rajab 2 A.H"
+  },
+  {
+    "id": 5758,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "How many verses are in Surah Mumtahina?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswer": "13"
+  },
+  {
+    "id": 5759,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Current Hijri Year is?",
+    "options": [
+      "1445 AH",
+      "1446 AH",
+      "1447 AH",
+      "1448 AH"
+    ],
+    "correctAnswer": "1447 AH"
+  },
+  {
+    "id": 5760,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "How many sons did Hazrat Muhammad (SAW) have with Hazrat Maria al-Qibtiya (RA)?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": 5761,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The fourth daughter of our Holy Prophet (SAW) was?",
+    "options": [
+      "Hazrat Zainab (RA)",
+      "Hazrat Ruqayyah (RA)",
+      "Hazrat Umm Kulthum (RA)",
+      "Hazrat Fatima (RA)"
+    ],
+    "correctAnswer": "Hazrat Fatima (RA)"
+  },
+  {
+    "id": 5762,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Which night is better than thousand nights?",
+    "options": [
+      "Lailat-ul-Bara'at",
+      "Lailat-ul-Miraj",
+      "Lailat-ul-Qadar",
+      "Lailat-ul-Jummah"
+    ],
+    "correctAnswer": "Lailat-ul-Qadar"
+  },
+  {
+    "id": 5763,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "____ Surah of the Holy Qur'an is called the \"mother of Qur'an\"?",
+    "options": [
+      "Surah Yaseen",
+      "Surah Rahman",
+      "Surah Fatiha",
+      "Surah Ikhlas"
+    ],
+    "correctAnswer": "Surah Fatiha"
+  },
+  {
+    "id": 5764,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Holy Prophet (SAW) was born in the month of?",
+    "options": [
+      "Ramzan",
+      "Rabi ul Awwal",
+      "Muharram",
+      "Rajab"
+    ],
+    "correctAnswer": "Rabi ul Awwal"
+  },
+  {
+    "id": 5765,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Holy Prophet (SAW) was a direct descendant of?",
+    "options": [
+      "Hazrat Ishaq (AS)",
+      "Hazrat Ismaeel (AS)",
+      "Hazrat Yaqub (AS)",
+      "Hazrat Yusuf (AS)"
+    ],
+    "correctAnswer": "Hazrat Ismaeel (AS)"
+  },
+  {
+    "id": 5766,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Name the person whose house became the centre of preaching of Islam?",
+    "options": [
+      "Hazrat Abu Bakar (RA)",
+      "Hazrat Umar (RA)",
+      "Hazrat Arqam (RA)",
+      "Hazrat Ali (RA)"
+    ],
+    "correctAnswer": "Hazrat Arqam (RA)"
+  },
+  {
+    "id": 5767,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "When did the event of the social boycott of Banu Hashim take place?",
+    "options": [
+      "5th year of Nabvi",
+      "6th year of Nabvi",
+      "7th year of Nabvi",
+      "8th year of Nabvi"
+    ],
+    "correctAnswer": "7th year of Nabvi"
+  },
+  {
+    "id": 5768,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Hazrat Bibi Umm Kulthum (R.A) was the daughter of Hazrat Muhammad (SAW) and?",
+    "options": [
+      "Hazrat Aisha (RA)",
+      "Hazrat Sauda (RA)",
+      "Khadija bint Khuwaylid (RA)",
+      "Hazrat Hafsa (RA)"
+    ],
+    "correctAnswer": "Khadija bint Khuwaylid (RA)"
+  },
+  {
+    "id": 5769,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Hazrat Bibi Zainab (R.A) was the daughter of Hazrat Muhammad (SAW) and?",
+    "options": [
+      "Hazrat Maria al-Qibtiya (RA)",
+      "Hazrat Zainab bint Jahsh (RA)",
+      "Khadija bint Khuwaylid (RA)",
+      "Hazrat Umm Salama (RA)"
+    ],
+    "correctAnswer": "Khadija bint Khuwaylid (RA)"
+  },
+  {
+    "id": 5770,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Ramadan is which month of the Islamic (Hijri) calendar?",
+    "options": [
+      "1st",
+      "7th",
+      "8th",
+      "9th"
+    ],
+    "correctAnswer": "9th"
+  },
+  {
+    "id": 5771,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "In which Surah of the Holy Quran is fasting (Roza) specifically mentioned?",
+    "options": [
+      "Surah Al-Imran",
+      "Surah Al-Baqarah",
+      "Surah Al-Ma'idah",
+      "Surah Al-Nisa"
+    ],
+    "correctAnswer": "Surah Al-Baqarah"
+  },
+  {
+    "id": 5772,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "In which year of Hijrah did fasting in the month of Ramadan become obligatory (Farz)?",
+    "options": [
+      "1st Hijri",
+      "2nd Hijri",
+      "3rd Hijri",
+      "5th Hijri"
+    ],
+    "correctAnswer": "2nd Hijri"
+  },
+  {
+    "id": 5773,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The first Ashra (10 days) of Ramadan is known as:",
+    "options": [
+      "Ashra-e-Maghfirat",
+      "Ashra-e-Rehmat",
+      "Ashra-e-Najat",
+      "Ashra-e-Ibadat"
+    ],
+    "correctAnswer": "Ashra-e-Rehmat"
+  },
+  {
+    "id": 5774,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "What is the name of the second Ashra of Ramadan?",
+    "options": [
+      "Ashra-e-Rehmat",
+      "Ashra-e-Maghfirat",
+      "Ashra-e-Najat",
+      "Ashra-e-Taqwa"
+    ],
+    "correctAnswer": "Ashra-e-Maghfirat"
+  },
+  {
+    "id": 5775,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Third Ashra of Ramadan is dedicated to:",
+    "options": [
+      "Rehmat (Mercy)",
+      "Maghfirat (Forgiveness)",
+      "Najat-e-Naar-e-Jahannum (Safety from Hellfire)",
+      "Sabr (Patience)"
+    ],
+    "correctAnswer": "Najat-e-Naar-e-Jahannum (Safety from Hellfire)"
+  },
+  {
+    "id": 5776,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Which specific gate of Jannah is reserved exclusively for those who observe fasting?",
+    "options": [
+      "Baab al-Salah",
+      "Baab al-Jihad",
+      "Baab al-Rayyan",
+      "Baab al-Sadaqah"
+    ],
+    "correctAnswer": "Baab al-Rayyan"
+  },
+  {
+    "id": 5777,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The first revelation of the Holy Quran was received in the Cave of Hira, located in which mountain?",
+    "options": [
+      "Mount Uhud",
+      "Mount Safa",
+      "Jabal Noor (The Mountain of Light)",
+      "Mount Arafat"
+    ],
+    "correctAnswer": "Jabal Noor (The Mountain of Light)"
+  },
+  {
+    "id": 5778,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The historic Battle of Badr and the Conquest of Mecca (Fatah-e-Makkah) both occurred in which month?",
+    "options": [
+      "Muharram",
+      "Rajab",
+      "Shaban",
+      "Ramadan"
+    ],
+    "correctAnswer": "Ramadan"
+  },
+  {
+    "id": 5779,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Battle of Karbala took place in which year of the Hijri calendar?",
+    "options": [
+      "40 AH",
+      "50 AH",
+      "61 AH",
+      "73 AH"
+    ],
+    "correctAnswer": "61 AH"
+  },
+  {
+    "id": 5780,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Dome of the Rock (Qubbat al-Sakhra) is located in which holy city?",
+    "options": [
+      "Mecca",
+      "Medina",
+      "Jerusalem",
+      "Damascus"
+    ],
+    "correctAnswer": "Jerusalem"
+  },
+  {
+    "id": 5781,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The historic cemetery \"Jannat al-Mualla\" is located in which city?",
+    "options": [
+      "Medina",
+      "Mecca",
+      "Karbala",
+      "Najaf"
+    ],
+    "correctAnswer": "Mecca"
+  },
+  {
+    "id": 5782,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "\"Wadi-us-Salam,\" recognized as the world's largest cemetery, is located in:",
+    "options": [
+      "Mecca, Saudi Arabia",
+      "Najaf, Iraq",
+      "Cairo, Egypt",
+      "Istanbul, Turkey"
+    ],
+    "correctAnswer": "Najaf, Iraq"
+  },
+  {
+    "id": 5783,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The four sacred months in Islam are Dhul Qada, Dhul Hajj, Muharram, and:",
+    "options": [
+      "Ramadan",
+      "Shaban",
+      "Rajab",
+      "Safar"
+    ],
+    "correctAnswer": "Rajab"
+  },
+  {
+    "id": 5784,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "In which Surah of the Quran is the event of \"Isra and Miraj\" (The Night Journey) mentioned?",
+    "options": [
+      "Surah Al-Isra",
+      "Surah Al-Najm",
+      "Surah Al-Baqarah",
+      "Surah Al-Kahf"
+    ],
+    "correctAnswer": "Surah Al-Isra"
+  },
+  {
+    "id": 5785,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The primary and most authoritative source of Shariah (Islamic Law) is:",
+    "options": [
+      "Hadith",
+      "Holy Quran",
+      "Ijma",
+      "Qiyas"
+    ],
+    "correctAnswer": "Holy Quran"
+  },
+  {
+    "id": 5786,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "In Islamic jurisprudence, what does the concept of \"Ijtihad\" refer to?",
+    "options": [
+      "Blind following",
+      "Independent reasoning",
+      "Historical consensus",
+      "Verbal testimony"
+    ],
+    "correctAnswer": "Independent reasoning"
+  },
+  {
+    "id": 5787,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Mutazilah theological school is primarily known for its emphasis on:",
+    "options": [
+      "Traditionalism",
+      "Rationalism",
+      "Mysticism",
+      "Fatalism"
+    ],
+    "correctAnswer": "Rationalism"
+  },
+  {
+    "id": 5788,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Which city served as the capital of the Abbasid Caliphate?",
+    "options": [
+      "Damascus",
+      "Cairo",
+      "Baghdad",
+      "Kufa"
+    ],
+    "correctAnswer": "Baghdad"
+  },
+  {
+    "id": 5789,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "What is the total number of Ghazwas (battles led by Prophet Muhammad PBUH) in Islamic history?",
+    "options": [
+      "19",
+      "23",
+      "27",
+      "31"
+    ],
+    "correctAnswer": "27"
+  },
+  {
+    "id": 5790,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "How many Ghazwas are explicitly mentioned in the Holy Quran?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": "12"
+  },
+  {
+    "id": 5791,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The historic Battle of Badr (Ghazwa-e-Badr) was fought in which Hijri year?",
+    "options": [
+      "1 AH",
+      "2 AH",
+      "3 AH",
+      "4 AH"
+    ],
+    "correctAnswer": "2 AH"
+  },
+  {
+    "id": 5792,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "In which Hijri year did the Battle of Uhud (Ghazwa-e-Uhud) take place?",
+    "options": [
+      "2 AH",
+      "3 AH",
+      "4 AH",
+      "5 AH"
+    ],
+    "correctAnswer": "3 AH"
+  },
+  {
+    "id": 5793,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Battle of the Trench (Ghazwa-e-Khandaq / Ahzab) was fought in which Hijri year?",
+    "options": [
+      "3 AH",
+      "4 AH",
+      "5 AH",
+      "7 AH"
+    ],
+    "correctAnswer": "5 AH"
+  },
+  {
+    "id": 5794,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Battle of Khyber (Ghazwa-e-Khyber) took place in which Hijri year?",
+    "options": [
+      "5 AH",
+      "6 AH",
+      "7 AH",
+      "8 AH"
+    ],
+    "correctAnswer": "7 AH"
+  },
+  {
+    "id": 5795,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "In which Hijri year did the Battle of Mu'tah (Ghazwa-e-Mu'tah) take place?",
+    "options": [
+      "6 AH",
+      "7 AH",
+      "8 AH",
+      "9 AH"
+    ],
+    "correctAnswer": "8 AH"
+  },
+  {
+    "id": 5796,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The last Ghazwa led by Prophet Muhammad PBUH, the Ghazwa-e-Tabuk, was fought in:",
+    "options": [
+      "7 AH",
+      "8 AH",
+      "9 AH",
+      "10 AH"
+    ],
+    "correctAnswer": "9 AH"
+  },
+  {
+    "id": 5797,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The historic pledge known as Bai'at-e-Rizwan took place in which Hijri year?",
+    "options": [
+      "5 AH",
+      "6 AH",
+      "7 AH",
+      "8 AH"
+    ],
+    "correctAnswer": "6 AH"
+  },
+  {
+    "id": 5798,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "In which Hijri year was the Treaty of Hudaybiyyah (Sulah-e-Hudaybiyyah) signed?",
+    "options": [
+      "5 AH",
+      "6 AH",
+      "7 AH",
+      "8 AH"
+    ],
+    "correctAnswer": "6 AH"
+  },
+  {
+    "id": 5799,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "The Conquest of Makkah (Fateh Makkah) took place in which Hijri year?",
+    "options": [
+      "6 AH",
+      "7 AH",
+      "8 AH",
+      "9 AH"
+    ],
+    "correctAnswer": "8 AH"
+  },
+  {
+    "id": 5800,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Hajj was made compulsory (Farz) for Muslims in which Hijri year?",
+    "options": [
+      "8 AH",
+      "9 AH",
+      "10 AH",
+      "11 AH"
+    ],
+    "correctAnswer": "9 AH"
+  },
+  {
+    "id": 5801,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Who is known by the title \"Abu al-Arab\" (Father of the Arabs)?",
+    "options": [
+      "Prophet Ibrahim (AS)",
+      "Prophet Isma'il (AS)",
+      "Prophet Ishaaq (AS)",
+      "Prophet Muhammad (PBUH)"
+    ],
+    "correctAnswer": "Prophet Isma'il (AS)"
+  },
+  {
+    "id": 5802,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Who is revered with the title \"Umm al-Arab\" (Mother of the Arabs)?",
+    "options": [
+      "Hazrat Sarah (AS)",
+      "Hazrat Hajrah (AS)",
+      "Hazrat Aminah (RA)",
+      "Hazrat Khadijah (RA)"
+    ],
+    "correctAnswer": "Hazrat Hajrah (AS)"
+  },
+  {
+    "id": 5803,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Which Prophet holds the title of \"Abu al-Anbiya\" (Father of the Prophets)?",
+    "options": [
+      "Prophet Adam (AS)",
+      "Prophet Nuh (AS)",
+      "Prophet Ibrahim (AS)",
+      "Prophet Musa (AS)"
+    ],
+    "correctAnswer": "Prophet Ibrahim (AS)"
+  },
+  {
+    "id": 5804,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Who is recognized with the title \"Umm al-Anbiya\" (Mother of the Prophets)?",
+    "options": [
+      "Hazrat Hajrah (AS)",
+      "Hazrat Sarah (AS)",
+      "Hazrat Maryam (AS)",
+      "Hazrat Asiya (AS)"
+    ],
+    "correctAnswer": "Hazrat Sarah (AS)"
+  },
+  {
+    "id": 5805,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Who is recognized with the title \"Abu al-Bashar\" (Father of Mankind)?",
+    "options": [
+      "Prophet Nuh (AS)",
+      "Prophet Ibrahim (AS)",
+      "Prophet Adam (AS)",
+      "Prophet Isa (AS)"
+    ],
+    "correctAnswer": "Prophet Adam (AS)"
+  },
+  {
+    "id": 5806,
+    "category": "Islamic Studies",
+    "subCategory": "Islamic Study MCQs",
+    "question": "Who holds the title of \"Umm al-Bashar\" (Mother of Mankind)?",
+    "options": [
+      "Hazrat Sarah (AS)",
+      "Hazrat Hajrah (AS)",
+      "Hazrat Hawa (Eve) (AS)",
+      "Hazrat Maryam (AS)"
+    ],
+    "correctAnswer": "Hazrat Hawa (Eve) (AS)"
   }
 ]
