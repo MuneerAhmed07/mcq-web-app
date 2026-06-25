@@ -1,4 +1,4 @@
-MCQs ID: 3639
+MCQs ID: 4365
 
 ++++++++++++++++
 FGEI:
@@ -18,4 +18,10 @@ Pak Study:
 ++++++++++++++++++
 English: 
 600 Most Repeated English MCQs: 3040-3639
+
+
 ++++++++++++++++++
+Computer:
+726 Computer Networking MCQs: 3640-4365
+
+also convert this and id start from 3640 and correct id sequence category will be Computer Science and subCategroy will be 726 Computer Networking MCQs

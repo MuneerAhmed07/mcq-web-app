@@ -63,6 +63,11 @@ export const categoriesData: Category[] = [
         name: "600 Most Repeated MCQs of Computer",
         description: "600 Most Repeated MCQs of Computer",
         icon: "Code"
+      },
+      {
+        name: "726 Computer Networking MCQs",
+        description: "726 Computer Networking MCQs",
+        icon: "Globe"
       }
     ]
   },
