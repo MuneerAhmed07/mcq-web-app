@@ -1,4 +1,4 @@
-MCQs ID: 5806
+MCQs ID: 5974
 
 ++++++++++++++++
 FGEI:
@@ -37,4 +37,8 @@ FIA Most Important MCQs: 5509-5734
 Islamic:
 Islamic Study MCQs: 5735-5806
 
-also convert this and id start from 5807 and correct id sequence category will be Islamic Studies and subCategroy will be Islamic Study MCQs not create duplicate id
+++++++++++++++++++++++
+General Knowledge:
+General Knowledge MCQs: 5807-
+
+also convert this and id start from 5974 and correct id sequence category will be General Knowledge and subCategroy will be Most Repeated MCQs not create duplicate id

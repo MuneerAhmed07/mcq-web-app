@@ -117,6 +117,20 @@ export const categoriesData: Category[] = [
     ]
   },
 
+  // General Knowledge
+  {
+    name: "General Knowledge",
+    description: "Explore essential facts, history, and global insights to boost your everyday awareness.",
+    icon: "History",
+        subCategories: [
+      {
+        name: "Most Repeated MCQs",
+        description: "Practice the most frequently asked multiple-choice questions from past competitive exams.",
+        icon: "FileText"
+      },
+    ]
+  },
+
   // FAI
 
   {
